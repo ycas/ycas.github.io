@@ -1,0 +1,3 @@
+[submodule "themes/edyo"]
+	path = themes/edyo
+	url = https://github.com/EDyO/hugo-theme-edyo
