@@ -1,6 +1,6 @@
 ---
 author: "Cody Spath"
-date: 08-03-2018
+date: 2018-08-03
 linktitle: Public StarWatch
 title: Public StarWatch
 weight: 10
