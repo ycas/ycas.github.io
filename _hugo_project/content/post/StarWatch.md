@@ -5,9 +5,11 @@ linktitle: Public StarWatch
 title: Public StarWatch
 weight: 10
 image: img/StarWatch.jpg
+next: /post/york-learning-center-planetarium-shows/
 ---
 
 ## Public Starwatch and Perseid Meteor Shower Observing
+
 The York County Astronomical Society (YCAS) will host a Public Starwatch and Perseid Meteor Shower observing event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 11th 2018, beginning at 8:00PM.
 
 The evening will begin with a screened astronomical presentation on the current night sky and a variety if astronomical topics. Guests will then be guided on a tour of the August sky through one of the club's telescopes. Attendees will experience the "train of planets" as Venus, Jupiter, Saturn, and Mars will all be visible in the evening sky! As an added bonus, attendees are invited to stay late and witness the Perseid Meteor shower. It is suggested that those wishing to remain for the meteor shower bring a blanket or chairs to set up on the field outside of the observatory. Light refreshments will be available.
