@@ -8,13 +8,15 @@ paginate = 6
     title = "York County Astronomical Society"
     subtitle = "Welcome to the new YCAS Website!"
 
+    logo = "img/ycas.jpg"
+
     author = "EM"
     authorAvatar = "img/ghost-icon.png"
     authorLocation = "York, PA"
     authorWebsite = "https://eueung.github.io"
     authorDescription = "Your description here"
 
-    cover = "img/Space.png"
+    cover = "img/Observatory.png"
 
     fbName = "astroyork"
 
