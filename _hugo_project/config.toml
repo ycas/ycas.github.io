@@ -1,5 +1,6 @@
 baseURL = "/ycas/"
 languageCode = "en-us"
 title = "York County Astronomer's Society"
+theme = "hugo-theme-edyo"
 defaultContentLangauge = "en"
 publishDir = "../"
