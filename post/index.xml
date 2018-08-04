@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>York County Astronomical Society on </title>
-    <link>/ycas/</link>
-    <description>Recent content in York County Astronomical Society on </description>
+    <title>Posts on </title>
+    <link>/ycas/post/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/ycas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ycas/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>/ycas/post/public-starwatch/</guid>
       <description>Public Starwatch and Perseid Meteor Shower Observing The York County Astronomical Society (YCAS) will host a Public Starwatch and Perseid Meteor Shower observing event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 11th 2018, beginning at 8:00PM.
 The evening will begin with a screened astronomical presentation on the current night sky and a variety if astronomical topics. Guests will then be guided on a tour of the August sky through one of the club&amp;rsquo;s telescopes.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>/ycas/about/</link>
-      <pubDate>Sat, 04 Aug 2018 13:33:00 +0000</pubDate>
-      
-      <guid>/ycas/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !</description>
     </item>
     
   </channel>

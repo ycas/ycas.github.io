@@ -1,5 +1,5 @@
 ---
-title: "York County Astronomer's Society"
+title: "York County Astronomical Society"
 ---
 
-Welcome to the new York County Astronomer's Society website!
+Welcome to the new York County Astronomical Society's website!

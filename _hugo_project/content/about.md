@@ -1,10 +1,10 @@
 +++
 comments = false
-date = "2018-08-4T13:33:00+00:00"
+date = "2018-08-04T13:33:00+00:00"
 title = "About Us"
 type = "page"
 [menu.main]
-    weight = 111
+weight = 111
 
 +++
 

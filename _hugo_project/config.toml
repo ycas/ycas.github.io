@@ -2,22 +2,32 @@ baseURL = "/ycas/"
 languageCode = "en-us"
 theme = "casper-two"
 publishDir = "../"
+paginate = 6
 
 [params]
-    title = "York County Astronomer's Society"
+    title = "York County Astronomical Society"
     subtitle = "Welcome to the new YCAS Website!"
+
+    author = "EM"
+    authorAvatar = "img/ghost-icon.png"
+    authorLocation = "Bandung, ID"
+    authorWebsite = "https://eueung.github.io"
+    authorDescription = "Your description here"
 
     cover = "img/Space.png"
 
     twitterName = "faketryghost"
     fbName = "fakeghost"
 
+    pageNotFoundTitle = "404 - Page not found"
+
+    #casper or caspertwo
+    singleViewStyle = "casper"
+
+    [permalinks]
+        post = "/post/:slug/"
+
     [[menu.main]]
         name = "Home"
         url = "/"
         weight = 200
-
-    [[menu.main]]
-        name = "Events"
-        url = "/events"
-        weight = 100
