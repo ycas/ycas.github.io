@@ -21,8 +21,3 @@ publishDir = "../"
         name = "Events"
         url = "/events"
         weight = 100
-
-    [[menu.main]]
-        name = "About Us"
-        url = "/about"
-        weight = 99
