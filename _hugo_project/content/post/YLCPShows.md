@@ -4,7 +4,7 @@ date: 2018-08-03
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
 weight: 10
-image: img/Mars.jpeg
+image: img/mars.jpeg
 prev: /post/public-starwatch/
 ---
 
@@ -12,7 +12,7 @@ prev: /post/public-starwatch/
 
 The York County Astronomical Society, celebrating 12 years offering planetarium programs to the public, is now offering Saturday afternoon programs for young children and families and Saturday evening for older family members at the York Learning Center Planetarium. This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **Defying Gravity: It Is Rocket Science**. For older family members, there is a new program at the planetarium, **Out There: The Quest for Extrasolar Worlds.**
 
-Show date is **Saturday, September 15th, 2018** at:
+Show date is **Saturday, September 15th, 2018** at
 * 2:00PM - **One World, One Sky**
 * 2:40PM - **StarWatch**
 * 3:20PM - **Defying Gravity: It Is Rocket Science!**
