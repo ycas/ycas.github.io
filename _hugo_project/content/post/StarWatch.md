@@ -1,5 +1,5 @@
 ---
-author: "Cody Spath"
+author: "Your Name Here"
 date: 2018-08-03
 linktitle: Public StarWatch
 title: Public StarWatch
