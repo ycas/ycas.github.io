@@ -1,10 +1,10 @@
 ---
 author: "Cody Spath"
-date: 2018-08-03
+date: 08-03-2018
 linktitle: Public StarWatch
 title: Public StarWatch
 weight: 10
-image: StarWatch.jpg
+image: img/StarWatch.jpg
 ---
 
 ## Public Starwatch and Perseid Meteor Shower Observing
