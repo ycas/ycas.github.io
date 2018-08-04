@@ -1,5 +1,5 @@
-baseURL = "/ycas"
+baseURL = "/ycas/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "York County Astronomer's Society"
 theme = "edyo"
 publishDir = "../"
