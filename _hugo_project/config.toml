@@ -7,6 +7,11 @@ publishDir = "../"
     title = "York County Astronomer's Society"
     subtitle = "Welcome to the new YCAS Website!"
 
+    cover = "static/Observatory.jpg"
+
+    twitterName = "faketryghost"
+    fbName = "fakeghost"
+
     [[menu.main]]
         name = "Home"
         url = "/"
