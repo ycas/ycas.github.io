@@ -3,9 +3,9 @@ author: "Your Name Here"
 date: 2018-08-03
 linktitle: Public StarWatch
 title: Public StarWatch
-weight: 10
+weight: 100
 image: img/StarWatch.jpg
-next: /post/york-learning-center-planetarium-shows/
+next: /post/public-radio-astronomy/
 ---
 
 ## Public Starwatch and Perseid Meteor Shower Observing
@@ -18,4 +18,4 @@ While this event is free and open to the public, your generous donation will hel
 
 If it is clear, all activities will occur as scheduled. If it is completely cloudy or raining, the indoor activity of a screened astronomical presentation will occur as scheduled.
 
-When arriving at the John C. Rudy County Park, please use the main park entrance, not the Administrative Office entrance. Follow the signs and lights to the event. More information on our Planetarium shows, special classes, and other YCAS events can be found on our [Facebook page](https://www.facebook.com/astroyork)
+When arriving at the John C. Rudy County Park, please use the main park entrance, not the Administrative Office entrance. Follow the signs and lights to the event. More information on our Planetarium shows, special classes, and other YCAS events can be found on [our Facebook page](https://www.facebook.com/astroyork)

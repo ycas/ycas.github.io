@@ -3,9 +3,9 @@ author: "Your Name Here"
 date: 2018-08-03
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
-weight: 10
+weight: 90
 image: img/Mars.jpg
-prev: /post/public-starwatch/
+prev: /post/public-radio-astronomy/
 ---
 
 ## Planetarium Shows at York Learning Center
