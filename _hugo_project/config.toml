@@ -6,7 +6,6 @@ paginate = 6
 
 [params]
     title = "York County Astronomical Society"
-    logo = "img/ycas.png"
 
     author = "EM"
     authorAvatar = "img/ghost-icon.png"

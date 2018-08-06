@@ -1,10 +1,10 @@
 ---
-author: "Your Name Here"
+author: "YCAS"
 date: 2018-08-03
 linktitle: Public StarWatch
 title: Public StarWatch
 weight: 100
-image: img/StarWatch.jpg
+image: img/saturnHubble.jpg
 next: /post/public-radio-astronomy/
 ---
 

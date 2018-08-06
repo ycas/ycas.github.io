@@ -4,7 +4,7 @@ date: 2018-08-03
 linktitle: Public Radio Astronomy
 title: Public Radio Astronomy
 weight: 80
-image: img/EarthSunMoon.jpg
+image: img/Sun.jpg
 prev: /post/public-starwatch/
 next: /post/york-learning-center-planetarium-shows/
 ---
