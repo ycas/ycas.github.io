@@ -1,5 +1,5 @@
 ---
-author: "Your Name Here"
+author: "YCAS"
 date: 2018-08-03
 linktitle: Public Radio Astronomy
 title: Public Radio Astronomy

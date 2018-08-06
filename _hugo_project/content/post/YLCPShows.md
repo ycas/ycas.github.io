@@ -1,5 +1,5 @@
 ---
-author: "Your Name Here"
+author: "YCAS"
 date: 2018-08-03
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
