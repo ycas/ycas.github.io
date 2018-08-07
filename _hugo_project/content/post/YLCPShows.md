@@ -4,7 +4,7 @@ date: 2018-08-03
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
 weight: 90
-image: img/Mars.jpg
+image: img/OWOS03.png
 prev: /post/public-radio-astronomy/
 ---
 
