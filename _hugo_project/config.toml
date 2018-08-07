@@ -1,4 +1,4 @@
-baseURL = "/ycas/"
+baseURL = "https://ycas.github.io"
 languageCode = "en-us"
 theme = "casper-two"
 publishDir = "../"
