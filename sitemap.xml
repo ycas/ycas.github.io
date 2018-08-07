@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/ycas/post/public-radio-astronomy/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ycas/post/york-learning-center-planetarium-shows/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ycas/post/public-starwatch/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ycas/about/</loc>
+    <lastmod>2018-08-04T13:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ycas/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ycas/post/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ycas/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ycas/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
