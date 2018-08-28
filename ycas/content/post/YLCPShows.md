@@ -3,7 +3,7 @@ author: "YCAS"
 date: 2018-08-03
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
-weight: 90
+weight: 100
 image: img/OWOS03.png
 prev: /post/public-radio-astronomy/
 ---

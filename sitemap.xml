@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ycas.github.io/post/public-starwatch/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ycas.github.io/post/public-radio-astronomy/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url>
@@ -13,12 +18,22 @@
   </url>
   
   <url>
-    <loc>https://ycas.github.io/post/public-starwatch/</loc>
+    <loc>https://ycas.github.io/post/upcoming-public-events/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ycas.github.io/about/</loc>
+    <lastmod>2018-08-04T13:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycas.github.io/directions/</loc>
+    <lastmod>2018-08-04T13:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycas.github.io/planetariumshows/</loc>
     <lastmod>2018-08-04T13:33:00+00:00</lastmod>
   </url>
   

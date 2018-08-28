@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Public StarWatch</title>
+      <link>https://ycas.github.io/post/public-starwatch/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ycas.github.io/post/public-starwatch/</guid>
+      <description>Public Starwatch and Perseid Meteor Shower Observing The York County Astronomical Society (YCAS) will host a Public Starwatch and Perseid Meteor Shower observing event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 11th 2018, beginning at 8:00PM.
+The evening will begin with a screened astronomical presentation on the current night sky and a variety if astronomical topics. Guests will then be guided on a tour of the August sky through one of the club&amp;rsquo;s telescopes.</description>
+    </item>
+    
+    <item>
       <title>Public Radio Astronomy</title>
       <link>https://ycas.github.io/post/public-radio-astronomy/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
@@ -31,13 +41,12 @@ Society member Kerry Smith will be presenting the radio astronomy portion of the
     </item>
     
     <item>
-      <title>Public StarWatch</title>
-      <link>https://ycas.github.io/post/public-starwatch/</link>
+      <title>Upcoming Public Events</title>
+      <link>https://ycas.github.io/post/upcoming-public-events/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ycas.github.io/post/public-starwatch/</guid>
-      <description>Public Starwatch and Perseid Meteor Shower Observing The York County Astronomical Society (YCAS) will host a Public Starwatch and Perseid Meteor Shower observing event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 11th 2018, beginning at 8:00PM.
-The evening will begin with a screened astronomical presentation on the current night sky and a variety if astronomical topics. Guests will then be guided on a tour of the August sky through one of the club&amp;rsquo;s telescopes.</description>
+      <guid>https://ycas.github.io/post/upcoming-public-events/</guid>
+      <description>Upcoming Events September 8 8pm to 10pm Public StarWatches at two locations September 15 2pm to 4pm Childrens Planetarium programs at York Learning Center Planetarium September 15 7pm to 9pm Planetarium programs at York Learning Center Planetarium</description>
     </item>
     
   </channel>
