@@ -1,8 +1,8 @@
 ---
 author: "YCAS"
 date: 2018-08-03
-linktitle: Public StarWatch
-title: Public StarWatch
+linktitle: Public StarWatch 0813
+title: Public StarWatch 0813
 weight: 70
 image: img/saturnHubble.jpg
 next: /post/public-radio-astronomy/
