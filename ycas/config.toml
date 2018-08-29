@@ -23,10 +23,10 @@ encoding="UTF-8"
     #casper or caspertwo
     singleViewStyle = "casper"
 
-    [permalinks]
-        post = "/post/:slug/"
+[permalinks]
+    post = "/post/:slug/"
 
-    [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 200
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 200
