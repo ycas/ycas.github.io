@@ -4,6 +4,7 @@ theme = "casper-two"
 publishDir = "../"
 paginate = 6
 encoding="UTF-8"
+ignorefiles = ["theme"]
 
 [params]
     title = "York County Astronomical Society"
