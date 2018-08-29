@@ -4,7 +4,6 @@ theme = "casper-two"
 publishDir = "../"
 paginate = 6
 encoding="UTF-8"
-ignorefiles = ["theme"]
 
 [params]
     title = "York County Astronomical Society"
@@ -12,7 +11,7 @@ ignorefiles = ["theme"]
     author = "EM"
     authorAvatar = "img/ghost-icon.png"
     authorLocation = "York, PA"
-    authorWebsite = "https://eueung.github.io"
+    authorWebsite = "https://ycas.github.io"
     authorDescription = "Formed in 1989, the non-profit York County Astronomical Society aims to promote interest, public education, and advancement of the science of astronomy. In addition to planetarium shows, the society presents regular public sky watches and astronomy classes."
 
     cover = "img/Observatory.jpg"
