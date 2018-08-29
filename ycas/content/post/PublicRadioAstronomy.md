@@ -5,7 +5,7 @@ linktitle: Public Radio Astronomy
 title: Public Radio Astronomy
 weight: 80
 image: img/Sun.jpg
-prev: /post/public-starwatch/
+prev: /post/public-starwatch-09-2018/
 next: /post/york-learning-center-planetarium-shows/
 ---
 
