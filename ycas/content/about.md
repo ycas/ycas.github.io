@@ -4,7 +4,7 @@ date = "2018-08-04T13:33:00+00:00"
 title = "About Us"
 type = "page"
 [menu.main]
-weight = 111
+weight = 30
 
 +++
 
@@ -20,7 +20,7 @@ The Society operates the York Learning Center Planetarium bringing astronomy to 
 
 The Society hosts numerous groups for private star parties, from Boy and Girl Scout troops, church groups, school classes, and company groups. We also hold two ***Introduction to Astronomy*** classes each year.
 
-The Society owns 5 optical telescopes:
+The Society owns 6 optical telescopes:
 
 * An 18" Dobsonian
 * A 14" Dobsonian and a 12" Computerized GoTo Telescope
