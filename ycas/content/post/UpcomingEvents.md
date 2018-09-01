@@ -4,7 +4,7 @@ date: 2018-08-28
 linktitle: Upcoming Events
 title:  Upcoming Public Events
 weight: 140
-image: img/ycas2018b.jpg
+image: img/YCAS2018b.jpg
 next: /post/york-learning-center-planetarium-shows/
 ---
 
