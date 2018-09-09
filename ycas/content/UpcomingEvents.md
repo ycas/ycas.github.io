@@ -10,8 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **September 8 8pm to 10pm** Public StarWatches at two locations
-
 * **September 15 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
 * **September 15 7pm to 9pm** Planetarium programs at York Learning Center Planetarium

@@ -1,11 +1,11 @@
 ---
 author: "YCAS"
-date: 2018-08-03
+date: 2018-09-09
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
-weight: 100
+weight: 120
 image: img/OWOS03.png
-prev: /post/public-radio-astronomy/
+prev: /post/public-starwatch/
 ---
 
 ## Planetarium Shows at York Learning Center
@@ -18,7 +18,8 @@ Show date is **Saturday, September 15th, 2018** at:
 * 2:40PM - **StarWatch**
 * 3:20PM - **Defying Gravity: It Is Rocket Science!**
 * 7:00PM - **From Earth to the Universe**
-* 7:40PM - **Out There: The Quest for Extrasolar Worlds**
+* 7:40PM - **StarWatch**
+* 8:20PM - **Out There: The Quest for Extrasolar Worlds**
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. Private show reservations are available.
 

@@ -1,18 +1,18 @@
 ---
 author: "YCAS"
-date: 2018-08-03
-linktitle: Public StarWatch 0813
-title: Public StarWatch 0813
-weight: 70
+date: 2018-09-06
+linktitle: Public StarWatch
+title: Public StarWatch
+weight: 100
 image: img/saturnHubble.jpg
-next: /post/public-radio-astronomy/
+next: /post/york-learning-center-planetarium-shows/
 ---
 
-## Public Starwatch and Perseid Meteor Shower Observing
+## Public Starwatch
 
-The York County Astronomical Society (YCAS) will host a Public Starwatch and Perseid Meteor Shower observing event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 11th 2018, beginning at 8:00PM.
+The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, October 13th 2018, beginning at 8:00PM.
 
-The evening will begin with a screened astronomical presentation on the current night sky and a variety if astronomical topics. Guests will then be guided on a tour of the August sky through one of the club's telescopes. Attendees will experience the "train of planets" as Venus, Jupiter, Saturn, and Mars will all be visible in the evening sky! As an added bonus, attendees are invited to stay late and witness the Perseid Meteor shower. It is suggested that those wishing to remain for the meteor shower bring a blanket or chairs to set up on the field outside of the observatory. Light refreshments will be available.
+The evening will begin with a screened astronomical presentation on the current night sky and a variety if astronomical topics. Guests will then be guided on a tour of the October sky through one of the club's telescopes. Attendees will experience the "train of planets" as Jupiter, Saturn, and Mars will all be visible in the evening sky! Light refreshments will be available.
 
 While this event is free and open to the public, your generous donation will help us continue to bring astronomical events to the York County and surrounding areas.
 
