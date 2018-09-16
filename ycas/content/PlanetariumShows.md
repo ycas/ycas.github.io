@@ -262,7 +262,7 @@ Phantom of the Universe is an exciting exploration of dark matter, from the Big 
 </table>
 After decades of teaching the basics of rocket physics, Rusty Rocket has decided this will be his last blast, and he already has plans for how he will spend his free time. Still there is one final mission to command: an introductory tour of the solar system for a new class of rocket rookies focusing on the wide variety of planetary environments. Along the way, we learn Rusty is related to every famous spacecraft to explore the solar system. He also emphasizes the immense distances between the planets using cars and jets for comparison.
 
-Seeing!
+**Seeing!**
 <table style="width:95%">
   <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
   <tr>
@@ -317,6 +317,17 @@ Discover the wonders of our Sun. Its incredible energy has supported life on Ear
   </tr>
 </table>
 Join Annie and Max in Austrailia for a whirlwind adventure to find out how the seasons work. It's a crazy day when snow starts falling and it's the middle of summer! But sometimes crazy days are just what you need to discover something new. Join Annie and Max for a whirlwind adventure as they explore a new angle on the world and find out how the seasons work. It's surprising what a new angle on the world can do. 
+
+**The Planets**
+<table style="width:95%">
+  <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
+  <tr>
+    <td>space science, solar system</td>
+    <td>general audiences, grades 4+</td> 
+    <td>36 min</td>
+  </tr>
+</table>
+Join us for a grand voyage across the solar system. This is an exciting tour of the Solar System that looks at each planet as well as Solar System formation and extrasolar planets. The program is narrated by Kate Mulgrew (of Star Trek: Voyager).
 
 **Two Small Pieces of Glass**
 <table style="width:95%">
