@@ -3,7 +3,7 @@ author: "YCAS"
 date: 2018-09-09
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
-weight: 120
+weight: 100
 image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
 ---
