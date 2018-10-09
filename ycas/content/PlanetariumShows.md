@@ -7,7 +7,7 @@ type = "page"
 weight = 100
 
 +++
-<H1>Private Show Reservation Information</H1>
+<H3>Private Show Reservation Information</H3>
 <p>The planetarium seats 58 people. Private programs are offered Monday through Friday, after 6:00 pm or during the day and evening on Saturday or Sunday. School/Summer Camp groups can schedule during school hours Monday through Friday. The cost of a 45 minute program is $40, an additional hour is $30 ($70 total). There are some shows with a surcharge of $30 because they are streamed from a vendor. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card. The money raised from these programs goes towards the cost of using the planetarium and developing other astronomy programs for the community. Groups are encouraged to join together to fill the planetarium with other scouts or family members. Write to info@astroyork.com for more information or to make a reservation.
 
 Groups using the planetarium during school hours are required to provide a list of the names of everyone attending. This list can be emailed the day of the reservation.
@@ -15,7 +15,7 @@ Groups using the planetarium during school hours are required to provide a list 
 Groups wanting to eat lunch at the school can use a room (when available) for $20, which pays for the cleaning of the room. Please explicitly request the room when making your planetarium reservation.
 </p>
 <H1>Live programs</H1>
-<H2>StarWatch</H2>
+<H4>StarWatch</H4>
 <p>Planetarium Show Spotlights Tonight's Constellations and Tour of the Solar System
 
 Learn how to find the planets and constellations that are visible in York's night sky. Become a star watcher by exploring the current night sky, locate visible planets and constellations, and enjoy some sky lore. Receive a star map and get answers to questions such as:
@@ -29,7 +29,7 @@ What can be seen with a telescope tonight?<br>
 
 While programs are geared toward families they may not be appropriate for very young children who are not able to sit through 35-minute presentations. 
 
-<H2>New Telescope Clinic</H2>
+<H4>New Telescope Clinic</H4>
 Did you get a new telescope recently or discover an unused one in your attic?  Experience has shown that the first night out with a new telescope can be daunting as you try to perform all the initial setup work required.  Consequently, many new telescopes are used once or twice, then never again due to frustration.  To help get you started properly, the York County Astronomical Society is offering a New Telescope Clinic to help you set up your telescope the first time and learn how to use and enjoy it.
  
 Bring your telescope and all the items that came with it (including batteries, if required, and the instruction manual).  We will check out your telescope, help you align the finder scope, show you how your telescope works, and help you with some initial observations of the sky (clear skies permitting).  Afterwards, take home a free Star Chart to help you continue your exploration of the nighttime sky.
@@ -296,6 +296,19 @@ Skywatchers of Africa highlights the diversity of African astronomy, examines cu
 </table>
 "Solar Quest" is a short feature that demonstrates how the Sun and Earth are interconnected and that we are "Living with a Star". High quality animations display solar phenomena such as fusion and light energy as well as solar surface features and events. Granules, solar flares and coronal mass ejections are highlighted. The show discusses the impacts of space weather and how the Earth's atmosphere and magnetic field protects all life on Earth.
  
+**The Sun, Our Living Star**
+<table style="width:95%">
+  <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
+  <tr>
+    <td>Sun, astronomy, physics</td>
+    <td>general audiences, grades 5+</td> 
+    <td>24 min</td>
+  </tr>
+</table>
+The Sun has shone on our world for four and a half billion years. The light that warms our skin today has been felt by every person who has ever lived. It is our nearest star and our planet's powerhouse, the source of the energy that drives our winds, our weather and all life.
+
+The passage of the Sun's fiery disc across the sky - day by day, month by month - was the only way to keep track of time for countless past civilizations. Don't be fooled by the terminology; although it is a typical dwarf star, the Sun consumes 600 million tons of hydrogen each second and is 500 times as massive as all the planets combined.
+
 **Sunstruck**
 <table style="width:95%">
   <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
