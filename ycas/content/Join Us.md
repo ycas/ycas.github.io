@@ -9,22 +9,20 @@ weight = 60
 +++
 <html>
 <body>
-    <td>
       <p align="center"><b>YCAS DUES ONLINE</b></p>
-      <p align="left">York County Astronomical Society dues payments can be made at bottom of this page.</p>
-              <p><b>ATTENTION NEW MEMBERS</b><br>
-      <u>If you are mailing</u> in your <a href="../img/YORK%20COUNTY%20ASTRONOMICAL%20SOCIETY%20MEMBERSHIP%20APPLICATION.pdf" target="_blank"><font color="blue" >YCAS
-Membership application</font></a>, please make sure it includes your Email Address so we may contact you, confirm your information, and invite you to our Yahoo! group.<br>
+      <p>York County Astronomical Society dues payments can be made at bottom of this page.</p>
+      <p><b>ATTENTION NEW MEMBERS</b><br>
+      <u>If you are mailing</u> in your <a href="../img/YORK%20COUNTY%20ASTRONOMICAL%20SOCIETY%20MEMBERSHIP%20APPLICATION.pdf" target="_blank"><font color="blue" >YCAS Membership application</font></a>, please make sure it includes your email address so we may contact you, confirm your information, and invite you to our Yahoo! group.<br>
 <br><u>If you are paying via PayPal</u>, please make sure you complete the Online Form displayed once you COMPLETE your PayPal transaction. This will collect the information we need to process your application, contact you, and invite you to our Yahoo! group.</b>
       <p align="center"><b>Choose Membership</b></p>
-      <p align="left">Choose your membership type and Add to Cart. If you wish to receive the Magazine Sky &amp; Telescope just click continue shopping and you will be returned to this page, then click on Add to Cart for the Sky &amp; Telescope Subscription. Add each item separately to your cart.  Adding an item will open a new window within Pay Pal.</p>
+      <p>Choose your membership type and Add to Cart. If you wish to receive the Magazine Sky &amp; Telescope just click continue shopping and you will be returned to this page, then click on Add to Cart for the Sky &amp; Telescope Subscription. Add each item separately to your cart.  Adding an item will open a new window within Pay Pal.</p>
       <p align="center"><b>Check your totals</b></p>
       <p>Cost is only $20 (or less) for Single membership or $30 (or less) for Single Family household. Extra if you decide to get Sky &amp; Telescope. <i><b> Memberships are Pro-Rated based on the month you join. Please add only one of the Membership options below to your Pay Pal shopping cart.</b></i> </p>
       <p align="center"><i><b>Existing Members</b></i></p>
-      <p align="left">Existing Members may renew their membership using the Pay Pal links for Renewal at the bottom of the page.</p>
+      <p>Existing Members may renew their membership using the Pay Pal links for Renewal at the bottom of the page.</p>
       <p align="center"><b>Important</b></p>
-      <p align="left">So we have your address on file, please make sure to<span> fill in the Ship To address</span> when you complete your PayPal transaction.</p>
-      <p align="left">If you do not have a Pay Pal account, Pay Pal will prompt you with instructions on how to set up a free account. It is safe and secure.</p>
+      <p>So we have your address on file, please make sure to<span> fill in the Ship To address</span> when you complete your PayPal transaction.</p>
+      <p>If you do not have a Pay Pal account, Pay Pal will prompt you with instructions on how to set up a free account. It is safe and secure.</p>
       <p align="center">For any questions <a href="mailto:info@astroyork.com"><font color="blue">email YCAS</font></a></p>
       <p align="center"><b><span>VISA, MASTERCARD, DISCOVER, AMERICAN EXPRESS, or an E-CHECK</span>.</b></p>
       <p align="center"><!-- PayPal Logo -->
