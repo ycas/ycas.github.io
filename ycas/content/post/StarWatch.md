@@ -1,21 +1,23 @@
 ---
 author: "YCAS"
-date: 2018-09-06
+date: 2018-10-14
 linktitle: Public StarWatch
 title: Public StarWatch
 weight: 100
-image: img/saturnHubble.jpg
+image: img/m31.jpg
 next: /post/york-learning-center-planetarium-shows/
 ---
 
 ## Public Starwatch
 
-The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, October 13th 2018, beginning at 8:00PM.
+The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, November 10th 2018, beginning at 7:00PM.
 
-The evening will begin with a screened astronomical presentation on the current night sky and a variety if astronomical topics. Guests will then be guided on a tour of the October sky through one of the club's telescopes. Attendees will experience the "train of planets" as Jupiter, Saturn, and Mars will all be visible in the evening sky! Light refreshments will be available.
+The evening will begin with a screened astronomical presentation on the current night sky and a variety if astronomical topics. Guests will then be guided on a tour of the November sky through one of the club's telescopes. Attendees will experience the "train of planets" as Jupiter, Saturn, and Mars will all be visible in the evening sky! Light refreshments will be available.
 
 While this event is free and open to the public, your generous donation will help us continue to bring astronomical events to the York County and surrounding areas.
 
 If it is clear, all activities will occur as scheduled. If it is completely cloudy or raining, the indoor activity of a screened astronomical presentation will occur as scheduled.
 
-When arriving at the John C. Rudy County Park, please use the main park entrance, not the Administrative Office entrance. Follow the signs and lights to the event. More information on our Planetarium shows, special classes, and other YCAS events can be found on [our Facebook page](https://www.facebook.com/astroyork)
+When arriving at the John C. Rudy County Park, please use the main park entrance, not the Administrative Office entrance. Follow the signs and lights to the event. The [Directions](https://www.astroyork.com/directions) page provides more details.
+
+For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

@@ -486,4 +486,4 @@ Dive with the pioneers of deep-sea research on their journeys of discovery, on t
 Join us for an adventure through time, as we explore the past and imagine the future of the cosmos. Witness the birth of the Universe, the doom of the dinosaurs, and be there for the first landing on the moon! Each TIMESPACE travel story is presented as a destination to be experienced as if you are there. This program has a $30 surcharge.
 
 
-More information on our Planetarium shows, special classes, and other YCAS events can be found on [our Facebook page](https://www.facebook.com/astroyork)
+For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

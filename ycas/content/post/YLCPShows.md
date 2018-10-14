@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2018-09-09
+date: 2018-10-14
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
 weight: 100
@@ -11,17 +11,17 @@ prev: /post/public-starwatch/
 ## Planetarium Shows at York Learning Center
 
 The York County Astronomical Society, celebrating 12 years offering planetarium programs to the public, is now offering Saturday afternoon programs for young children and families and Saturday evening for older family members at the York Learning Center Planetarium. 
-This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **Rusty Rockets Last Blast**. For older family members, there is the return of a classic **The Planets** updated with new images and now full-dome.
+This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **Defying Gravity, It is Rocket Science**. For older family members, there is a new program, The Sun, Our Living Star.
 
-Show date is **Saturday, October 13th, 2018** at:
+Show date is **Saturday, November 10th, 2018** at:
 
 * 2:00PM - **One World, One Sky**
 * 2:40PM - **StarWatch**
-* 3:20PM - **Rusty Rocket's Last Blast**
+* 3:20PM - **Defying Gravity, It is Rocket Science**
 
-* 7:00PM - **The Planets**
+* 7:00PM - **The Sun, Our Living Star**
 * 7:40PM - **StarWatch**
-* 8:20PM - **Hot and Energetic Universe**
+* 8:20PM - **Skywatchers of Africa**
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. Private show reservations are available.
 
@@ -31,11 +31,13 @@ Become a star watcher by exploring the current night sky, locate visible planets
 ### One World, One Sky: Big Bird's Adventure!
 In *One World, One Sky: Big Bird's Adventure!*, Elmo and Big Bird live in the United States and Hu Hu Zhu lives far away in China, but they discovered that they still see the same stars at night! The word for star in Chinese is "xing xing" (pronounced "sing sing"). How many "xing xing" do you see in this sky? When Elmo and Hu Hu Zhu "travel" to the moon, they discover some basic but surprising scientific facts. For example, they can't fly a kite there because there is no wind. The fuzzy friends then excitedly realize that children like to fly kites in both China and the United States!
 
-### Rusty Rockets Last Blast
-After decades of teaching the basics of rocket physics, Rusty Rocket has decided this will be his last blast, and he already has plans for how he will spend his free time. Still there is one final mission to command: an introductory tour of the solar system for a new class of rocket rookies focusing on the wide variety of planetary environments. Along the way, we learn Rusty is related to every famous spacecraft to explore the solar system. He also emphasizes the immense distances between the planets using cars and jets for comparison.
+### Defying Gravity
+Meet Apollo Aurora, host of the Planetarium Channel's universally loved gravity news source, Defying Gravity, It Is Rocket Science! With special robot correspondents Apple 1-6-8-6 and EGR-1, Apollo and her team will explore rocket power, gravity on other planets, monstrous black holes and even what keeps us grounded on Earth! Tune into this brand new planetarium show and uncover the mysteries of gravity.
 
-### The Planets
-Join us for a grand voyage across the solar system. This is an exciting tour of the Solar System that looks at each planet as well as Solar System formation and extrasolar planets. The program is narrated by Kate Mulgrew (of Star Trek: Voyager).
+### The Sun
+The Sun has shone on our world for four and a half billion years. The light that warms our skin today has been felt by every person who has ever lived. It is our nearest star and our planet's powerhouse, the source of the energy that drives our winds, our weather and all life.
 
-### Hot and Energetic Universe
-The Hot and Energetic Universe presents the fascinating world of high energy astrophysics. High energy astrophysics plays a key role in understanding the universe, as these radiations reveal the processes in the hot and violent universe. High energy astrophysics probes hot gas in clusters of galaxies, which are the most massive objects in the universe. It also probes hot gas accreting around supermassive black holes in the centers of galaxies. Finally, high energy radiation provides important information about our own galaxy, neutron stars, supernova remnants and stars like our Sun which emit copious amounts of high-energy radiation. Come and learn about your hot and energetic universe!
+### Skywatchers of Africa
+For thousands of years, Africans have used their knowledge of the sky to build their societies, shape their spiritual lives, and meet their physical needs for survival. Skywatchers of Africa highlights the diversity of African astronomy, examines cultural uses of the sky that developed throughout history, and celebrates our shared human experience.
+
+For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
