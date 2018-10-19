@@ -34,12 +34,12 @@ In *One World, One Sky: Big Bird's Adventure!*, Elmo and Big Bird live in the Un
 ### Defying Gravity
 Meet Apollo Aurora, host of the Planetarium Channel's universally loved gravity news source, Defying Gravity, It Is Rocket Science! With special robot correspondents Apple 1-6-8-6 and EGR-1, Apollo and her team will explore rocket power, gravity on other planets, monstrous black holes and even what keeps us grounded on Earth! Tune into this brand new planetarium show and uncover the mysteries of gravity.
 
-### The Sun
-The Sun has shone on our world for four and a half billion years. The light that warms our skin today has been felt by every person who has ever lived. It is our nearest star and our planet's powerhouse, the source of the energy that drives our winds, our weather and all life.
+### The Sun, Our Living Star
+*The Sun* has shone on our world for four and a half billion years. The light that warms our skin today has been felt by every person who has ever lived. It is our nearest star and our planet's powerhouse, the source of the energy that drives our winds, our weather and all life.
 
 ### Skywatchers of Africa
 For thousands of years, Africans have used their knowledge of the sky to build their societies, shape their spiritual lives, and meet their physical needs for survival. Skywatchers of Africa highlights the diversity of African astronomy, examines cultural uses of the sky that developed throughout history, and celebrates our shared human experience.
 
-For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+![British Fulldome Institute](../img/BFI.png "British Fulldome Institute provides some programs for YCAS")
 
-![British Fulldome Institute](../img/BFI.jpg "British Fulldome Institute")
+For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
