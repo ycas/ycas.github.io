@@ -41,3 +41,5 @@ The Sun has shone on our world for four and a half billion years. The light that
 For thousands of years, Africans have used their knowledge of the sky to build their societies, shape their spiritual lives, and meet their physical needs for survival. Skywatchers of Africa highlights the diversity of African astronomy, examines cultural uses of the sky that developed throughout history, and celebrates our shared human experience.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+
+![British Fulldome Institute](../img/BFI.jpg "British Fulldome Institute")
