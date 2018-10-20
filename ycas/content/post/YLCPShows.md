@@ -40,6 +40,5 @@ Meet Apollo Aurora, host of the Planetarium Channel's universally loved gravity 
 ### Skywatchers of Africa
 For thousands of years, Africans have used their knowledge of the sky to build their societies, shape their spiritual lives, and meet their physical needs for survival. Skywatchers of Africa highlights the diversity of African astronomy, examines cultural uses of the sky that developed throughout history, and celebrates our shared human experience.
 
-![British Fulldome Institute](../img/BFI.png "British Fulldome Institute provides some programs for YCAS")
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
