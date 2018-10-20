@@ -42,3 +42,6 @@ For thousands of years, Africans have used their knowledge of the sky to build t
 
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+
+The Planetarium wishes to recognize and thank the British Fulldome Institute for programming support.
+![British Fulldome Institute](../../img/BFI.png "British Fulldome Institute provides some programs for YCAS")
