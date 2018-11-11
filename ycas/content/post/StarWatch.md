@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2018-10-14
+date: 2018-11-11
 image: img/m31.jpg
 linktitle: Public StarWatch
 next: /post/york-learning-center-planetarium-shows/
@@ -9,9 +9,9 @@ weight: 100
 ---
 ## Public Starwatch
 
-The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, November 10th 2018, beginning at 7:00PM.
+The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, December 8th 2018, beginning at 7:00PM.
 
-The evening will begin with a screened astronomical presentation on current events and the November night sky. Guests will then be guided on a tour of the sky through one of the club telescopes. Attendees will be shown a host of celestial objects to include the crescent moon, globular clusters, the Andromeda galaxy and much more. Hot beverages and light refreshments are available.
+The evening will begin with a screened astronomical presentation on current events and the December night sky. Guests will then be guided on a tour of the sky through one of the club telescopes. Attendees will be shown a host of celestial objects to include the crescent moon, globular clusters, the Andromeda galaxy and much more. Hot beverages and light refreshments are available.
 
 While this event is free and open to the public, your generous donation will help us continue to bring astronomical events to the York County and surrounding areas.
 
