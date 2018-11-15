@@ -32,7 +32,7 @@ Become a star watcher by exploring the current night sky, locate visible planets
 In *One World, One Sky: Big Bird's Adventure!*, Elmo and Big Bird live in the United States and Hu Hu Zhu lives far away in China, but they discovered that they still see the same stars at night! The word for star in Chinese is "xing xing" (pronounced "sing sing"). How many "xing xing" do you see in this sky? When Elmo and Hu Hu Zhu "travel" to the moon, they discover some basic but surprising scientific facts. For example, they can't fly a kite there because there is no wind. The fuzzy friends then excitedly realize that children like to fly kites in both China and the United States!
 
 ### Season of Light
-Season of Light explores the reasons humans are so facinated with lighting up our lives during the December holiday season. It's an exploration of the astronomical meanings behind seasonal traditions, including the "Star of Bethlehem".
+Season of Light explores the reasons humans are so fascinated with lighting up our lives during the December holiday season. It's an exploration of the astronomical meanings behind seasonal traditions, including the "Star of Bethlehem".
 
 This presentation traces the history and development of many of the world's most endearing holiday customs, all of which involve lighting up the winter season - from the burning Yule log, sparkling Christmas tree lights and candles in windows, to the lighting of luminarias in the American Southwest and the traditional ritual of the Hanukkah Menorah.
 
