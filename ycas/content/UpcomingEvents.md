@@ -30,15 +30,15 @@ weight = 100
 
 * **February 9 7pm to 9pm** Public StarWatch at Rudy Park
 
-* **March 9 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
+* **March 2 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
-* **March 9 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
+* **March 2 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
 
 * **March 9 7pm to 9pm** Public StarWatch at Rudy Park
 
-* **April 13 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
+* **April 6 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
-* **April 13 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
+* **April 6 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
 
 * **April 13 8pm to 10pm** Public StarWatch at Rudy Park
 

@@ -70,7 +70,7 @@ The Asteroid Impact Mission (AIM) is a European Space Agency's mission, schedule
     <td>25 min</td>
   </tr>
 </table>
-Back To The Moon For Good, an exciting, educational fulldome show narrated by award-winning actor Tim Allen. The 25-minute digital film highlights the history of exploring the moon and provides an insider's look at the teams vying for the $30 million Google Lunar XPRIZE, the largest incentivized prize in history, the contest has ended with no winners. Back To The Moon For Good begins with a tour through the history of lunar exploration, tracing back to the 1960s and 1970s. We hear from some of the teams racing to land a robotic spacecraft on the moon and win the Google Lunar XPRIZE. The audience is taken on a successful launch, landing and tour of the lunar surface. The show ends with an enticing visualization of a future settlement on the moon. 
+Back To The Moon For Good, an exciting, educational fulldome show narrated by award-winning actor Tim Allen. The 25-minute digital film highlights the history of exploring the moon and provides an insider's look at the teams vying for the $30 million Google Lunar XPRIZE, the largest incentivized prize in history. The contest has ended with no winners. Back To The Moon For Good begins with a tour through the history of lunar exploration, tracing back to the 1960s and 1970s. We hear from some of the teams racing to land a robotic spacecraft on the moon and win the Google Lunar XPRIZE. The audience is taken on a successful launch, landing and tour of the lunar surface. The show ends with an enticing visualization of a future settlement on the moon. 
 
 **Chasing the Ghost Particle: From the South Pole to the Edge of the Universe**
 <table style="width:95%">
@@ -332,7 +332,7 @@ Discover the wonders of our Sun. Its incredible energy has supported life on Ear
     <td>25 min</td>
   </tr>
 </table>
-Join Annie and Max in Austrailia for a whirlwind adventure to find out how the seasons work. It's a crazy day when snow starts falling and it's the middle of summer! But sometimes crazy days are just what you need to discover something new. Join Annie and Max for a whirlwind adventure as they explore a new angle on the world and find out how the seasons work. It's surprising what a new angle on the world can do. 
+Join Annie and Max in Austrailia for a whirlwind adventure to find out how the seasons work. It's a crazy day when snow starts falling and it's the middle of summer! But sometimes crazy days are just what you need to discover something new. It's surprising what a new angle on the world can do. 
 
 **The Planets**
 <table style="width:95%">
@@ -355,6 +355,19 @@ Join us for a grand voyage across the solar system. This is an exciting tour of 
   </tr>
 </table>
 While attending a local star party, two teenage students learn how the telescope has helped us understand our place in space and how telescopes continue to expand our understanding of the Universe.
+
+<H1>Rectangular Format Show</H1><br>
+
+**Max Goes to the Moon**
+<table style="width:95%">
+  <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
+  <tr>
+    <td>space exploration</td>
+    <td>grades K-3</td> 
+    <td>35 min</td>
+  </tr>
+</table>
+In this children's planetarium program, Max (the dog) and a young girl named Tori take the first trip to the Moon since the Apollo era. Along the way, the story sets the stage for the topics including "Phases of the Moon," "Wings in Space?", and "Frisbees and Curve Balls on the Moon" - all thoughtfully explained so that grownups and children can learn together about science. Toward the end, Max and Tori's trip proves so inspiring to people back on Earth that all the nations of the world come together to build a great Moon colony from which "the beautiful views of Earth from the Moon made everyone realize that we all share a small and precious planet."
 
 <H1>Premium Fulldome programs ($30 surcharge)</H1><br>
 
