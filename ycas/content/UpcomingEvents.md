@@ -10,7 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **December 15 7pm to 9pm** Public StarWatch at Rudy Park
 
 * **HAPPY NEW YEAR 2019**
 
