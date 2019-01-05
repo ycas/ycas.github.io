@@ -4,7 +4,7 @@ date = "2018-09-01T03:33:00+00:00"
 title = "Resources"
 type = "page"
 [menu.main]
-weight = 60
+weight = 40
 
 +++
 
