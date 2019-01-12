@@ -7,7 +7,16 @@ next: /post/york-learning-center-planetarium-shows/
 title: Public StarWatch
 weight: 100
 ---
-## Public Starwatch
+## Cancelled Public Starwatch
+Cancelled!
+
+
+Cancelled!      January 12th event Cancelled!!   
+
+
+Cancelled!
+Cancelled!
+
 
 The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, January 12th 2019, beginning at 7:00PM.
 
