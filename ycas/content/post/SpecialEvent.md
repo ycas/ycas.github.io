@@ -1,14 +1,12 @@
 ---
 author: "YCAS"
-date: 2019-01-01
+date: 2019-01-12
 image: img/lunareclipse.jpg
 linktitle: Lunar Eclipse
 next: /post/york-learning-center-planetarium-shows/
 title: Lunar Eclipse
 weight: 70
 ---
-## Lunar Eclipse
-
 The York County Astronomical Society (YCAS) will host a Lunar Eclipse Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Sunday, January 20th 2019, beginning at 8:00PM.
 
 The evening will begin with a screened astronomical presentation on current events and the January night sky. Guests will then be guided on a tour of the sky through one of the club telescopes. Attendees will be shown a host of celestial objects to include the eclipsing moon, globular clusters, the Andromeda galaxy and much more. Hot beverages and light refreshments are available.

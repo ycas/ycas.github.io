@@ -1,14 +1,12 @@
 ---
 author: "YCAS"
-date: 2019-01-02
+date: 2019-01-13
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
 weight: 90
 image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
 ---
-
-## Planetarium Shows at York Learning Center
 
 The York County Astronomical Society, celebrating 13 years offering planetarium programs to the public, is now offering Saturday afternoon programs for young children and families and Saturday evening for older family members at the York Learning Center Planetarium. 
 This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **The Sun: Our Living Star**. 
