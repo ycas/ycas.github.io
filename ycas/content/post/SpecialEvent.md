@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2019-01-12
+date: 2020-01-12
 image: img/lunareclipse.jpg
 linktitle: Lunar Eclipse
 next: /post/york-learning-center-planetarium-shows/

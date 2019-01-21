@@ -7,8 +7,6 @@ weight: 90
 image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
 ---
-Due to risk of a snow storm in York on January 19th, all planetarium shows are postponed to February 9th.
-
 The York County Astronomical Society, celebrating 13 years offering planetarium programs to the public, is now offering Saturday afternoon programs for young children and families and Saturday evening for older family members at the York Learning Center Planetarium. 
 This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **The Sun: Our Living Star**. 
 
