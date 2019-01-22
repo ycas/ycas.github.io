@@ -10,12 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **January 19 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
-
-* **January 19 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
-
-* **January 20 9pm to midnight** Lunar Eclipse viewing at Rudy Park
-
 * **February 9 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
 * **February 9 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
