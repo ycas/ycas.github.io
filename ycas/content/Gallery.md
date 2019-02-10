@@ -18,4 +18,4 @@ YCAS member Jim Smailing has taken some excellent pictures of the eclipsing Moon
 
 ![YCAS Logo](../img/JS/7.jpg "Eclipsing Moon") ![YCAS Logo](../img/JS/8.jpg "Eclipsing Moon") ![YCAS Logo](../img/JS/9.jpg "Eclipsing Moon")
 
-![YCAS Logo](../img/JS/10.jpg "Close up") 
+![YCAS Logo](../img/JS/10.jpg "Close up") The crater Eratosthenes and the Apennine Mountains
