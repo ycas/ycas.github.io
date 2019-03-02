@@ -18,8 +18,45 @@ weight = 60
       <p>Choose your membership type and Add to Cart. If you wish to receive the Magazine Sky &amp; Telescope just click continue shopping and you will be returned to this page, then click on Add to Cart for the Sky &amp; Telescope Subscription. Add each item separately to your cart.  Adding an item will open a new window within Pay Pal. <a href="mailto:info@astroyork.com?subject=YCAS%20membership&body=My%20YCAS%20membership%20application%0D%0AFull%20Name:%20%0D%0AEmail:%20%0D%0APhone%20number:%20%0D%0AAddress:%0D%0AFamily%20member%20names:%0D%0ASky%20and%20Telescope%20included:%20Y/N"><font color="blue">Click this link</font></a> to send your membership details via email.</p>
       <p align="center"><b>Check your totals</b></p>
       <p>Cost is only $20 (or less) for Single membership or $30 (or less) for Single Family household. Extra if you decide to get Sky &amp; Telescope. <i><b> Memberships are Pro-Rated based on the month you join. Please add only one of the Membership options below to your Pay Pal shopping cart.</b></i> </p>
-      <p align="center"><i><b>Existing Members</b></i></p>
-      <p>Existing Members may renew their membership using the Pay Pal links for Renewal at the bottom of the page.</p>
+<p align="center"><span class="bold"><b>Benefits:</b></span>
+      <div>
+        <div align="center">
+          <center>
+        <table border="1" width="452">
+          <tr>
+            <td valign="middle" width="345">
+              <b>Access to  the Observatory and telescopes.</b><br><i>
+			  </td></tr><tr><td>
+              <b>Free Planetarium shows to YCAS members.</b></i>
+			  </td></tr><tr><td>
+              <b>Membership in The Astronomical League, The benefits of ALCOR , a national association of astronomy clubs.</b></i>
+			  </td></tr><tr><td>
+              <b>4 quarterly issues of The Astronomical League's newsletter, "Reflector"</b></i>
+			  </td></tr><tr><td>
+              <b>A 25% discount on the subscriptions to "Sky and Telescope" magazine ($33/Year) if you add it to your dues at signup.</b></i>
+			  </td></tr><tr><td>
+              <b>Free to YCAS Members YCAS Astronomy classes.</b></i>
+			  </td></tr><tr><td>
+              <b>Discounts on books and various other publications through The Astronomical League.</b></i>
+			  </td></tr><tr><td>
+              <b>Use of the club's library of technical and reference books, slides, and videos.</b></i>
+			  </td></tr><tr><td>
+              <b>Use of  several of the club's 8 inch Dobsonian telescopes and Solar telescope which are available for sign out use.</b></i>
+			  </td></tr><tr><td>
+              <b>Members Yahoo e-mail group.</b></i>
+			  </td></tr><tr><td>
+              <b>Members Dark Sky Trips.</b></i>
+			  </td></tr><tr><td>
+              <b>Adult members (over 21) can vote on all Society concerns and are eligible to be elected as a Society officers. Student membership excluded.</b></i>
+			  </td></tr><tr><td>
+              <b>Learn from some of the areas most experienced observers.</b></i>
+            </td>
+          </tr>
+        </table>
+          </center>
+        </div>
+      </div>
+	  </p>
       <p align="center"><b>Important</b></p>
       <p>So we have your address on file, please make sure to<span> fill in the Ship To address</span> when you complete your PayPal transaction.</p>
       <p>If you do not have a Pay Pal account, Pay Pal will prompt you with instructions on how to set up a free account. It is safe and secure.</p>

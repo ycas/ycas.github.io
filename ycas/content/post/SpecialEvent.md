@@ -2,7 +2,7 @@
 author: "YCAS"
 date: 2019-02-07
 image: img/lunareclipse.jpg
-linktitle: Lunar Eclipse
+linktitle: Earth Day StarWatch
 next: /post/york-learning-center-planetarium-shows/
 title: Earth Day StarWatch
 weight: 70
