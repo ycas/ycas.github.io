@@ -1,14 +1,20 @@
 ---
 author: "YCAS"
-date: 2019-03-07
-image: img/tesslavaplanet_0.jpg
-linktitle: TESS NASAs Newest Exoplanet Survey Space Telescope
+date: 2019-04-07
+image: img/NASAmeteor.jpg
+linktitle: Earth Day and Lyrid Meteor Shower observing
 next: /post/york-learning-center-planetarium-shows/
-title: TESS is NASA's Newest Exoplanet Survey Space Telescope 
+title: Earth Day and Lyrid Meteor Shower 
 weight: 70
 ---
-The Transiting Exoplanet Survey Satellite (TESS) is NASA's newest space-based telescope designed to discover new extrasolar planets.  Following in the footsteps of the Kepler mission, TESS is discovering exoplanets orbiting the closest stars to our solar system.  TESS launched in April of 2018 and is currently about halfway through its two-year prime mission.  In this presentation, Dr. Scott Fleming from the Space Telescope Science Institute in Baltimore, MD will share the latest news from the spacecraft, including a description of how the telescope operates, and some of the latest scientific discoveries to come from the mission.
+The York County Astronomical Society (YCAS) will host a Public Starwatch event for Earth Day at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Monday, April 22th 2019, at 8:00PM to 10:00PM to view the night sky.
 
-The event is April 6, 2019 at 5:30pm and is free to the all. Limited seating available on a first come, first served basis.
+Each Earth Day, the Lyrid Meteor Shower is at its peak with 10 to 20 meteors visible from a dark location. This year the Moon will interfere with the viewing, rising in the early evening.
 
-For more information on events, scheduling a private party star watch, directions to the planetarium, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork).
+While this event is free and open to the public, your generous donation will help us continue to bring astronomical events to the York County and surrounding areas.
+
+If it is clear, all activities will occur as scheduled. If it is completely cloudy or raining, the indoor activity of a screened astronomical presentation will occur as scheduled.
+
+When arriving at the John C. Rudy County Park, please use the main park entrance, not the Administrative Office entrance. Follow the signs and lights to the event. The [Directions](https://www.astroyork.com/directions) page provides more details.
+
+For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

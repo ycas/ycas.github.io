@@ -10,12 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **April 6 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
-
-* **April 6 5:30pm to 6:30pm** TESS: NASAs Newest Exoplanet Survey Space Telescope
-
-* **April 6 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
-
 * **April 13 1pm to 4pm** Astronomy Day at Rudy Park
 
 * **April 13 8pm to 10pm** Public StarWatch at Rudy Park
