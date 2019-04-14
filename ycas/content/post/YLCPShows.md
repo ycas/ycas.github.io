@@ -8,7 +8,7 @@ image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 13 years offering planetarium programs to the public, is now offering Saturday afternoon programs for young children and families and Saturday evening for older family members at the York Learning Center Planetarium. 
-This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **From Earth to the Universe**. 
+This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **Chasing the Ghost Particle**. 
 
 Show date is **Saturday, May 4, 2019** at:
 
