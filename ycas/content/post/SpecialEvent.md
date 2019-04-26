@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2019-04-07
+date: 2020-04-07
 image: img/NASAmeteor.jpg
 linktitle: Earth Day and Lyrid Meteor Shower observing
 next: /post/york-learning-center-planetarium-shows/
