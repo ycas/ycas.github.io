@@ -10,16 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **April 13 1pm to 4pm** Astronomy Day at Rudy Park
-
-* **April 13 8pm to 10pm** Public StarWatch at Rudy Park
-
-* **April 22 8pm to 10pm** Earth Day and Lyrid Meteor Shower StarWatch at Rudy Park
-
-* **May 4 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
-
-* **May 4 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
-
 * **May 11 8pm to 10pm** Public StarWatch at Rudy Park
 
 * **May 18 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park

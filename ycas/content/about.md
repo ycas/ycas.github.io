@@ -10,7 +10,7 @@ weight = 30
 
 ## The York County Astronomical Society
 
-The York Country Astronomical Society, Inc, is a non-profit organization dedicated to the advancement of the science of astronomy.
+The York County Astronomical Society is a non-profit organization dedicated to the advancement of the science of astronomy.
 
 The York County Astronomical Society was started in 1989, and currently has about 30 members in 4 counties in Pennsylvania.
 
@@ -28,7 +28,7 @@ The Society owns 6 optical telescopes:
 * A 4.5" Newtonian Telescope
 * A 4" Astro-Physics Refractor Telescope
 
-The Society also owns a 15' radio dish antenna for radio astronomy, and associated electronic recording equipment, which will be developed and installed with the help of the York College of PA Engineering Department starting in the fall of 2018!
+The Society also owns a 15' radio dish antenna for radio astronomy, and associated electronic recording equipment, which will be developed and installed with the help of the York College of PA Engineering Department started in the fall of 2018!
 
 ## Contact YCAS
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
