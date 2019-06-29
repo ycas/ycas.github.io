@@ -10,15 +10,9 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **May 18 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
-
-* **June 8 8pm to 10pm** Public StarWatch at Rudy Park
-
-* **June 22 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
-
 * **July 13 8pm to 10pm** Public StarWatch at Rudy Park
 
-* **July 20 1pm to 4pm** Free Apollo 50th Anniversary programs at York Learning Center Planetarium
+* **July 20 1pm to 5pm** Free Apollo 50th Anniversary programs at York Learning Center Planetarium
 
 * **July 27 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 

@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2019-06-09
+date: 2019-06-03
 linktitle: Public Radio Astronomy
 title: Public Radio Astronomy
 weight: 80
@@ -11,7 +11,7 @@ next: /post/york-learning-center-planetarium-shows/
 
 ## Radio Astronomy, Solar Observing and Weather, and Telescope Clinic at Astronomical Society
 
-The York County Astronomical Society (YCAS) will be offering a public event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, June 22th, 2019, Solar and Radio Astronomy from 11:00AM - 3:00PM, and Telescope Clinic from 1:00PM - 2:00PM.
+The York County Astronomical Society (YCAS) will be offering a public event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, July 27th, 2019, Solar and Radio Astronomy from 11:00AM - 3:00PM, and Telescope Clinic from 1:30PM - 2:00PM.
 
 Society member Kerry Smith will be presenting the radio astronomy portion of the event as well as giving attendees a peek into the future of the Society's radio astronomy endeavors. Radio astronomy is the study of the unseen radiated energy in the electromagenetic spectrum below visible light. By using radio astronomy, we are able to study astronomical phenomena that are otherwise invisible.
 
