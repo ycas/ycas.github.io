@@ -15,7 +15,7 @@ This months' public programs [at the planetarium](http://www.astroyork.com/post/
 
 Groups using the planetarium during school hours are required to provide a list of the names of everyone attending. This list can be emailed the day of the reservation.
 
-Groups wanting to eat lunch at the school can use a room (when available) for $20, which pays for the cleaning of the room. Please explicitly request the room when making your planetarium reservation.
+School groups wanting to eat lunch at the school can use a room (when available) for $20, which pays for the cleaning of the room. Please explicitly request the room when making your planetarium reservation.
 </p>
 <H1>Live programs</H1>
 <H4>StarWatch</H4>
