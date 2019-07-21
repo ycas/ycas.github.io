@@ -10,8 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **July 20 1pm to 5pm** Free Apollo 50th Anniversary programs at York Learning Center Planetarium
-
 * **July 27 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 
 * **August 10 8pm to midnight** Public StarWatch and Perseid Meteor Shower at Rudy Park

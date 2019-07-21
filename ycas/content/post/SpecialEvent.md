@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2019-07-12
+date: 2020-07-12
 image: img/a11_h_40_5875.gif
 linktitle: Apollo 11 50th Anniversary
 next: /post/york-learning-center-planetarium-shows/
