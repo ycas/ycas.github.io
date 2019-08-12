@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2019-04-03
+date: 2019-07-03
 image: img/SpecialEvent2.jpg
 linktitle: Summer Special Events
 next: /post/york-learning-center-planetarium-shows/

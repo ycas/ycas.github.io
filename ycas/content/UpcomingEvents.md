@@ -10,8 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **August 10 8pm to midnight** Public StarWatch and Perseid Meteor Shower at Rudy Park
-
 * **August 24 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 
 * **September 7 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
@@ -24,9 +22,9 @@ weight = 100
 
 * **September 28 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 
-* **October 5 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
+* **October 12 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
-* **October 5 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
+* **October 12 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
 
 * **October 12 8pm to 10pm** Public StarWatch at Rudy Park
 
