@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2019-07-01
+date: 2019-08-10
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
 weight: 50
