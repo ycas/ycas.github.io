@@ -1,26 +1,20 @@
 ---
 author: "YCAS"
-date: 2022-08-11
+date: 2019-08-03
 image: img/SpecialEvent2.jpg
-linktitle: Summer Special Events
+linktitle: Moonlight Bike Rides
 next: /post/york-learning-center-planetarium-shows/
-title: Library Books and Telescopes
+title: Moonlight Bike Rides and Stars
 weight: 100
 ---
-**WIN** a telescope at one of 7 YCAS events this summer. See dates below. **Must** be registered with the library, attend one of the listed events on the raffle ticket *and* child must be present to win.
+The York County Astronomical Society* (YCAS) is pleased to partner with the Sunset Scramblers for its September 21, 2019 bike ride, beginning at 7:30PM, and public StarWatch being held at Stump Park, 525 Days Mill Road, York, 17408 directly beside Brillhart Station along the York County Heritage Rail Trail. 
 
-To register for **Summer Quest**, visit [York Libraries](https://www.yorklibraries.org/library-services-programs/summerquest-2019)
+Anyone wishing to join the Sunset Scramblers for the 8-mile bike ride must provide their own bicycle, light, water and helmet. Please note only non-motorized bicycles are permitted, e-bikes are not allowed. The ride will last approximately 1.5 hours. 
 
-Raffle dates are: 
+Upon return to Brillhart Station, riders are invited to bring their telescopes and/or binoculars and join the members of YCAS in observing the planets Jupiter and Saturn, as well as a host of other celestial objects. 
 
-*  at 8:00pm - **Saturday, June  8, 2019** at Observatory
-*  at 1:00pm - **Saturday, June 22, 2019** at Observatory
-*  at 9:00pm - **Saturday, July 13, 2019** at Observatory
-*  at 4:00pm - **Saturday, July 20, 2019** at Planetarium
-*  at 1:00pm - **Saturday, July 27, 2019** at Observatory
-*  at 9:00pm - **Saturday, August 10, 2019** at Observatory
-*  at 1:00pm - **Saturday, August 24, 2019** at Observatory
- 
-While these events are free and open to the public, your generous donation will help us continue to bring astronomical events to the York County and surrounding areas.
+Light refreshments will be available. The program is free and open to the public, your generous donation will help us to continue to bring astronomical events to the York County and surrounding areas. 
 
-For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+More information on this and other programs is available from York County Department of Parks and Recreation at (717) 840-7440 or [www.yorkcountyparks.org](https://www.yorkcountyparks.org).
+
+For more information on YCAS events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
