@@ -46,4 +46,4 @@ Join us for a grand voyage across the solar system. This is an exciting tour of 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 
 The Planetarium wishes to recognize and thank the British Fulldome Institute for programming support.
-<a href="https://www.facebook.com/BritishFulldomeInstitute/" target="_blank"><img src="../../img/BFI.png"  title="British fulldome institute"/></a>
+<a href="https://www.facebook.com/BritishFulldomeInstitute/" target="_blank"><img src="../../img/BFI.png"  title="British fulldome institute"/></a>

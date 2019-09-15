@@ -10,8 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **September 14 8pm to 10pm** Public StarWatch at Rudy Park
-
 * **September 21 8pm to 10:30pm** Public StarWatch with Sunset Scramblers at Stump Park
 
 * **September 28 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
