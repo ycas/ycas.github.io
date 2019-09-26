@@ -1,17 +1,17 @@
 ---
 author: "YCAS"
-date: 2019-08-03
+date: 2019-07-25
 image: img/SpecialEvent2.jpg
-linktitle: Moonlight Bike Rides
+linktitle: Mercury Transit of Sun
 next: /post/york-learning-center-planetarium-shows/
-title: Moonlight Bike Rides and Stars
+title: Mercury Transit of Sun
 weight: 100
 ---
-The York County Astronomical Society* (YCAS) is pleased to partner with the Sunset Scramblers for its September 21, 2019 bike ride, beginning at 7:30PM, and public StarWatch being held at Stump Park, 525 Days Mill Road, York, 17408 directly beside Brillhart Station along the York County Heritage Rail Trail. 
+The York County Astronomical Society* (YCAS) is pleased to present the transit of Mercury November 11, 2019, beginning at 7:30AM and going until 1:00PM at John C. Rudy County Park Observatory. 
 
-Anyone wishing to join the Sunset Scramblers for the 8-mile bike ride must provide their own bicycle, light, water and helmet. Please note only non-motorized bicycles are permitted, e-bikes are not allowed. The ride will last approximately 1.5 hours. 
+About 13 times a century, Mercury passes between the Sun and Earth and is visible as a shadow crossing the disk of the Sun. Eye protection is required to view this event. Join us at the observatory to safely see the silhouette of Mercury.
 
-Upon return to Brillhart Station, riders are invited to bring their telescopes and/or binoculars and join the members of YCAS in observing the planets Jupiter and Saturn, as well as a host of other celestial objects. 
+This is the last transit of Mercury visible from Pennsylvania until May 8, 2049.
 
 Light refreshments will be available. The program is free and open to the public, your generous donation will help us to continue to bring astronomical events to the York County and surrounding areas. 
 
