@@ -9,7 +9,7 @@ weight: 100
 ---
 The York County Astronomical Society (YCAS) will host a celebration of the 50th anniversary of Apollo 11 at the York Learning Center Planetarium July 20th, 2019, from 11:15AM to 5:00PM.
 
-All seats are free this day as we celebrate the Apollo 11 mission anniversary. Seats are available on a first come, first served basis. There are 58 seats. After each presentation, there will be a discussion about the movie.
+All seats are free this day as we celebrate the Apollo 11 mission anniversary. Seats are available on a first come, first served basis. There are 60 seats. After each presentation, there will be a discussion about the movie.
 
 Show date is **Saturday, July 20, 2019** at:
 
