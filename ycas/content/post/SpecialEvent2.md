@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2019-07-25
+date: 2019-11-02
 image: img/SpecialEvent2.jpg
 linktitle: Mercury Transit of Sun
 next: /post/york-learning-center-planetarium-shows/

@@ -10,11 +10,9 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **November 2 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
-
-* **November 2 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
-
 * **November 9 7pm to 9pm** Public StarWatch at Rudy Park
+
+* **November 11 7:30am to 1pm** Mercury Transit at Rudy Park
 
 * **December 7 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
@@ -44,9 +42,9 @@ weight = 100
 
 * **March 28 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 
-* **April 4 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
+* **April 11 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
-* **April 4 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
+* **April 11 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
 
 * **April 11 8pm to 10pm** Public StarWatch at Rudy Park
 
