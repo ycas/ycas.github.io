@@ -10,10 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **November 9 7pm to 9pm** Public StarWatch at Rudy Park
-
-* **November 11 7:30am to 1pm** Mercury Transit at Rudy Park
-
 * **December 7 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
 * **December 7 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
