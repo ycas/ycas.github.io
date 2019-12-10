@@ -1,24 +1,24 @@
 ---
 author: "YCAS"
-date: 2019-11-01
+date: 2019-12-09
 linktitle: York Learning Center Planetarium Shows
 title: York Learning Center Planetarium Shows
 weight: 100
 image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
 ---
-The York County Astronomical Society, celebrating 13 years offering planetarium programs to the public, is now offering Saturday afternoon programs for young children and families and Saturday evening for older family members at the York Learning Center Planetarium. 
-This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **The Hot and Energetic Universe**. 
+The York County Astronomical Society, celebrating 14 years offering planetarium programs to the public, is now offering Saturday afternoon programs for young children and families and Saturday evening for older family members at the York Learning Center Planetarium. 
+This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **Max Goes to the Moon**. 
 
-Show date is **Saturday, December 7, 2019** at:
+Show date is **Saturday, January 18, 2020** at:
 
 * 2:00PM - **One World, One Sky: Big Bird's Adventure**
 * 2:40PM - **StarWatch**
-* 3:20PM - **Season of Light**
+* 3:20PM - **Max Goes to the Moon**
 
-* 7:00PM - **Season of Light**
+* 7:00PM - **Hot and Energetic Universe**
 * 7:40PM - **StarWatch**
-* 8:20PM - **Two Small Pieces of Glass**
+* 8:20PM - **The Sun, Our Living Star**
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. Private show reservations are available for $40 for a 45 minute program for up to 60 people.
 
@@ -34,12 +34,16 @@ Learn how to find the planets and constellations that are visible in York's nigh
 ### One World, One Sky: Big Bird's Adventure!
 In *One World, One Sky: Big Bird's Adventure!*, Elmo and Big Bird live in the United States and Hu Hu Zhu lives far away in China, but they discovered that they still see the same stars at night! The word for star in Chinese is "xing xing" (pronounced "sing sing"). How many "xing xing" do you see in this sky? When Elmo and Hu Hu Zhu "travel" to the moon, they discover some basic but surprising scientific facts. For example, they can't fly a kite there because there is no wind. The fuzzy friends then excitedly realize that children like to fly kites in both China and the United States!
 
-### Season of Light
-Light up the cold dark season with our perennial, popular winter holiday show. SEASON OF LIGHT explores the reasons humans are so fascinated with lighting up our lives during the December holiday season. This very popular show is an exploration of the astronomical meanings behind seasonal traditions, including the "Star over Bethlehem".
-Narrated by National Public Radio's Noah Adams.
+### Max Goes to the Moon
+In this children's planetarium program, Max (the dog) and a young girl named Tori take the first trip to the Moon since the Apollo era. Along the way, the story sets the stage for the topics including "Phases of the Moon," "Wings in Space?", and "Frisbees and Curve Balls on the Moon" - all thoughtfully explained so that grownups and children can learn together about science. Toward the end, Max and Tori's trip proves so inspiring to people back on Earth that all the nations of the world come together to build a great Moon colony from which "the beautiful views of Earth from the Moon made everyone realize that we all share a small and precious planet."
 
-### Two Small Pieces of Glass
-While attending a local star party, two teenage students learn how the telescope has helped us understand our place in space and how telescopes continue to expand our understanding of the Universe.
+### Hot and Energetic Universe
+"The Hot and Energetic Universe" presents the fascinating world of high energy astrophysics. High energy astrophysics plays a key role in understanding the universe, as these radiations reveal the processes in the hot and violent universe. High energy astrophysics probes hot gas in clusters of galaxies, which are the most massive objects in the universe. It also probes hot gas accreting around supermassive black holes in the centers of galaxies. Finally, high energy radiation provides important information about our own galaxy, neutron stars, supernova remnants and stars like our Sun which emit copious amounts of high-energy radiation. Come and learn about your hot and energetic universe!
+
+### The Sun, Our Living Star
+The Sun has shone on our world for four and a half billion years. The light that warms our skin today has been felt by every person who has ever lived. It is our nearest star and our planet's powerhouse, the source of the energy that drives our winds, our weather and all life.
+
+The passage of the Sun's fiery disc across the sky - day by day, month by month - was the only way to keep track of time for countless past civilizations. Don't be fooled by the terminology; although it is a typical dwarf star, the Sun consumes 600 million tons of hydrogen each second and is 500 times as massive as all the planets combined.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 
