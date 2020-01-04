@@ -72,5 +72,7 @@ weight = 100
 
 * **December 12 7pm to 9pm** Public StarWatch at Rudy Park
 
+* **December 20 7pm to 9pm** Public StarWatch at Rudy Park
+
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 
