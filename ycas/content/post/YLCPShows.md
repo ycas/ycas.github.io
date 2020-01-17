@@ -10,7 +10,7 @@ prev: /post/public-starwatch/
 The York County Astronomical Society, celebrating 14 years offering planetarium programs to the public, is now offering Saturday afternoon programs for young children and families and Saturday evening for older family members at the York Learning Center Planetarium. 
 This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **Max Goes to the Moon**. 
 
-Show date is **Saturday, January 18, 2020** at:
+Show date is **Saturday, February 8, 2020** at:
 
 * 2:00PM - **One World, One Sky: Big Bird's Adventure**
 * 2:40PM - **StarWatch**

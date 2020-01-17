@@ -10,9 +10,9 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **January 18 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
+* **January 18 2pm to 4pm CANCELLED due to school closed** Childrens Planetarium programs at York Learning Center Planetarium
 
-* **January 18 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
+* **January 18 7pm to 9pm CANCELLED due to school closed** Planetarium programs at York Learning Center Planetarium
 
 * **February 8 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
