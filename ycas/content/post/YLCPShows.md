@@ -7,7 +7,7 @@ weight: 100
 image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
 ---
-The February 8th shows are being moved to February 22nd due to the presenter having the flu. Sorry for the inconvience.
+The February 8th shows are being moved to February 22nd due to the presenter having the flu. Sorry for the inconvenience.
 
 The York County Astronomical Society, celebrating 14 years offering planetarium programs to the public, is now offering Saturday afternoon programs for young children and families and Saturday evening for older family members at the York Learning Center Planetarium. 
 This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **Max Goes to the Moon**. 
