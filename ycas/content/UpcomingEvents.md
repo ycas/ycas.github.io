@@ -10,19 +10,17 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **February 8 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
-
-* **February 8 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
-
 * **February 8 7pm to 9pm** Public StarWatch at Rudy Park
 
-* **March 7 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
+* **February 22 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
-* **March 7 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
+* **February 22 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
 
 * **March 14 7pm to 9pm** Public StarWatch at Rudy Park
 
-* **March 28 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
+* **March 21 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
+
+* **March 21 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
 
 * **April 11 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
@@ -36,17 +34,27 @@ weight = 100
 
 * **May 9 8pm to 10pm** Public StarWatch at Rudy Park
 
+* **May 30 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
+
 * **June 13 8pm to 10pm** Public StarWatch at Rudy Park
+
+* **June 27 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 
 * **July 11 8pm to 10pm** Public StarWatch at Rudy Park
 
+* **July 25 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
+
 * **August 8 8pm to 10pm** Public StarWatch at Rudy Park
+
+* **August 22 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 
 * **September 12 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
 * **September 12 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
 
 * **September 12 8pm to 10pm** Public StarWatch at Rudy Park
+
+* **September 26 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 
 * **October 3 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
 
