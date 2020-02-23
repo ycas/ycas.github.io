@@ -1,7 +1,7 @@
 ---
 author: "YCAS"
-date: 2020-02-07
-image: img/m31.jpg
+date: 2020-02-22
+image: img/orion.jpg
 linktitle: Public StarWatch
 next: /post/york-learning-center-planetarium-shows/
 title: Public StarWatch
