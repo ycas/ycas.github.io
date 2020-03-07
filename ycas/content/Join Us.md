@@ -43,8 +43,6 @@ weight = 60
 			  </td></tr><tr><td>
               <b>Use of  several of the club's 8 inch Dobsonian telescopes and Solar telescope which are available for sign out use.</b></i>
 			  </td></tr><tr><td>
-              <b>Members Yahoo e-mail group.</b></i>
-			  </td></tr><tr><td>
               <b>Members Dark Sky Trips.</b></i>
 			  </td></tr><tr><td>
               <b>Adult members (over 21) can vote on all Society concerns and are eligible to be elected as a Society officers. Student membership excluded.</b></i>

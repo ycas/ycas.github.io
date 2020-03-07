@@ -8,7 +8,7 @@ weight = 100
 
 +++
 ## Current Public Programs
-This months' public programs [at the planetarium](http://www.astroyork.com/post/york-learning-center-planetarium-shows/).
+This months' public programs [at the planetarium](http://www.astroyork.com/post/ylc-planetarium-shows/).
 
 <H3>Private Show Reservation Information</H3>
 <p>The planetarium seats 60 people. Private programs are offered Monday through Friday, after 6:00 pm or during the day and evening on Saturday or Sunday. School/Summer Camp groups can schedule during school hours Monday through Friday. The cost of a 45 minute program is $40, an additional hour is $30 ($70 total). There are some shows with a surcharge of $30 because they are streamed from a vendor. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card. The money raised from these programs goes towards the cost of using the planetarium and developing other astronomy programs for the community. Groups are encouraged to join together to fill the planetarium with other scouts or family members. Write to info@astroyork.com for more information or to make a reservation.

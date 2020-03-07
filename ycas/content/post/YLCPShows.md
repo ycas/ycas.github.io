@@ -1,8 +1,8 @@
 ---
 author: "YCAS"
 date: 2020-02-21
-linktitle: York Learning Center Planetarium Shows
-title: York Learning Center Planetarium Shows
+linktitle: YLC Planetarium Shows
+title: YLC Planetarium Shows
 weight: 100
 image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
@@ -15,12 +15,21 @@ Show date is **Saturday, March 21, 2020** at:
 * 2:00PM - **One World, One Sky: Big Bird's Adventure**
 * 2:40PM - **StarWatch**
 * 3:20PM - **Defying Gravity: It Is Rocket Science**
+* 4:00PM - **One World, One Sky: Big Bird's Adventure**
 
 * 7:00PM - **A Part Of The Sky Called Orion**
 * 7:40PM - **StarWatch**
 * 8:20PM - **Skywatchers Of Africa**
 
-The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. There are no advanced ticket sales, ticket go on sale at 1:30pm the day of the show. Private show reservations are available for $40 for a 45 minute program for up to 60 people.
+The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. Tickets go on sale at 1:30pm the day of the show. Private show reservations are available for $40 for a 45 minute program for up to 60 people.
+
+**Online ticket sales are available**
+
+ShowTix4u.com is hosting a ticket sales site for our programs. The site charges a non-refundable fee of about $1.15 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of ShowTix4u.com, ticket purchases are for either the 2pm, 2:40pm, and 3:20pm group of shows, just the 4pm show, or the 7pm, 7:40pm, and 8:20pm group of shows.
+
+Please be curtious and not leave empty seats between groups.
+![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
+[Click here to purchase online tickets](https://www.showtix4u.com/event-details/38034)
 
 ### StarWatch
 Learn how to find the planets and constellations that are visible in York's night sky. Become a star watcher by exploring the current night sky, locate visible planets and constellations, and enjoy some sky lore. Receive a star map and get answers to questions such as:<br>

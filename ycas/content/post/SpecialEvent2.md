@@ -3,7 +3,7 @@ author: "YCAS"
 date: 2020-02-02
 image: img/RT.png
 linktitle: Radio Telescope
-next: /post/york-learning-center-planetarium-shows/
+next: /post/YLC-Planetarium-Shows/
 title: Radio Telescope
 weight: 100
 ---

@@ -6,7 +6,7 @@ title: Public Radio Astronomy
 weight: 100
 image: img/Sun.jpg
 prev: /post/public-starwatch/
-next: /post/york-learning-center-planetarium-shows/
+next: /post/YLC-Planetarium-Shows/
 ---
 
 ## Radio Astronomy, Solar Observing and Weather, and Telescope Clinic at Astronomical Society

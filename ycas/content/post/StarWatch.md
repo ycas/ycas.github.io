@@ -3,7 +3,7 @@ author: "YCAS"
 date: 2020-02-22
 image: img/orion.jpg
 linktitle: Public StarWatch
-next: /post/york-learning-center-planetarium-shows/
+next: /post/YLC-Planetarium-Shows/
 title: Public StarWatch
 weight: 100
 ---

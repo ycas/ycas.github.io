@@ -3,7 +3,7 @@ author: "YCAS"
 date: 2020-07-12
 image: img/a11_h_40_5875.gif
 linktitle: Apollo 11 50th Anniversary
-next: /post/york-learning-center-planetarium-shows/
+next: /post/YLC-Planetarium-Shows/
 title: Apollo 11 50th Anniversary 
 weight: 100
 ---
