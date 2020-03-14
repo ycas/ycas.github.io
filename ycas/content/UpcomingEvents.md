@@ -10,16 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* **March 14 7pm to 9pm** Public StarWatch at Rudy Park
-
-* **March 21 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
-
-* **March 21 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
-
-* **April 11 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
-
-* **April 11 7pm to 9pm** Planetarium programs at York Learning Center Planetarium
-
 * **April 11 8pm to 10pm** Public StarWatch at Rudy Park
 
 * **May 2 2pm to 4pm** Childrens Planetarium programs at York Learning Center Planetarium
