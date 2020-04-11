@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2020-04-16
+date: 2020-04-08
 linktitle: Public Radio Astronomy
 title: Public Radio Astronomy
 weight: 100

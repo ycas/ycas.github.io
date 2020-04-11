@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2020-07-12
+date: 2021-07-12
 image: img/a11_h_40_5875.gif
 linktitle: Apollo 11 50th Anniversary
 next: /post/YLC-Planetarium-Shows/
