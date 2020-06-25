@@ -1,12 +1,16 @@
 ---
 author: "YCAS"
-date: 2020-03-18
+date: 2022-03-18
 linktitle: YLC Planetarium Shows
 title: YLC Planetarium Shows
 weight: 100
 image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
 ---
+ALL SHOWS ARE CANCELLED. The York County Astronomical Society (YCAS) has decided to close the planetarium until there is an effective and widely distributed vaccine available.
+
+Thank you for your understanding and please stay safe.
+
 The York County Astronomical Society, celebrating 14 years offering planetarium programs to the public, is now offering Saturday afternoon programs for young children and families and Saturday evening for older family members at the York Learning Center Planetarium. 
 This month, we are featuring a children's program, **One World, One Sky: Big Bird's Adventure** and **Defying Gravity**. 
 
