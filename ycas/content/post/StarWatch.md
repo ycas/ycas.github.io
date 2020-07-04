@@ -7,16 +7,9 @@ next: /post/YLC-Planetarium-Shows/
 title: Public StarWatch
 weight: 100
 ---
-The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, July 11th 2020, at 8:00PM to 10:00PM to view the night sky through our telescopes.
+The York County Astronomical Society (YCAS) has decided to cancel all public programs until there is an effective and widely distributed vaccine available.
 
-Due to the pandemic, social distancing rules are enforced, masks are required for everyone at the event. The observatory is closed to the public. Telescopes will be brought out to the grass field. Video eyepieces may be used to show the view in the telescope.
+Thank you for your understanding and please stay safe.
 
-Expand your mind by taking in the expanse of the universe. Come listen to a screen astronomical presentation on the current night sky and a variety of astronomical topics, then view the July skies with us through one of our telescopes. Let our experienced members guide you on a tour of celestial wonders, including stars, planets, nebulae and the Moon. We also invited you to bring your own telescope and share your experiences with other amateur astronomers. Star charts are available to help your exploration of the nighttime sky as members laser point the night sky.  
-
-While this event is free and open to the public, your generous donation will help us continue to bring astronomical events to the York County and surrounding areas.
-
-If it is clear, all activities will occur as scheduled. If it is completely cloudy or raining, the indoor activity of a screened astronomical presentation will occur as scheduled.
-
-When arriving at the John C. Rudy County Park, please use the main park entrance, not the Administrative Office entrance. Follow the signs and lights to the event. The [Directions](https://www.astroyork.com/directions) page provides more details.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
