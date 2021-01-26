@@ -6,10 +6,21 @@
     <description>Recent content in York County Astronomical Society on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ycas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Radio Telescope</title>
+      <link>https://ycas.github.io/post/radio-telescope/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ycas.github.io/post/radio-telescope/</guid>
+      <description>COMING NEXT SUMMER TO THE YCAS OBSERVATORY A 4.5 METER RADIO TELESCOPE
+This year is going to be exciting for YCAS as we unveil our 4.5 meter radio telescope. It has been a three year project in the making collaborating with with the York County Parks, York College of Pennsylvania and the York County Astronomical Society (YCAS).
+The radio telescope will be totally automated, fully steerable, tracking and web accessible instrument.</description>
+    </item>
     
     <item>
       <title>Public StarWatch</title>
@@ -41,17 +52,6 @@ Thank you for your understanding and please stay safe.</description>
       <description>The York County Astronomical Society (YCAS) has decided to close the planetarium until there is an effective and widely distributed vaccine available.
 Thank you for your understanding and please stay safe.
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at info@astroyork.com or leave a voice message after the recording at 717 759-9227 or visit our Facebook page</description>
-    </item>
-    
-    <item>
-      <title>Radio Telescope</title>
-      <link>https://ycas.github.io/post/radio-telescope/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ycas.github.io/post/radio-telescope/</guid>
-      <description>COMING NEXT SUMMER TO THE YCAS OBSERVATORY A 4.5 METER RADIO TELESCOPE
-This and next year is going to be exciting for YCAS as we unveil our 4.5 meter radio telescope. It has been a three year project in the making collaborating with with the York County Parks, York College of Pennsylvania and the York County Astronomical Society (YCAS).
-The radio telescope will be totally automated, fully steerable, tracking and web accessible instrument.</description>
     </item>
     
     <item>

@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2020-02-02
+date: 2021-01-25
 image: img/RT.png
 linktitle: Radio Telescope
 next: /post/YLC-Planetarium-Shows/
@@ -9,7 +9,7 @@ weight: 100
 ---
 COMING NEXT SUMMER TO THE YCAS OBSERVATORY A 4.5 METER RADIO TELESCOPE
 
-This and next year is going to be exciting for YCAS as we unveil our 4.5 meter radio telescope. It has been a three year project in the making collaborating with with the York County Parks, York College of Pennsylvania and the York County Astronomical Society (YCAS). 
+This year is going to be exciting for YCAS as we unveil our 4.5 meter radio telescope. It has been a three year project in the making collaborating with with the York County Parks, York College of Pennsylvania and the York County Astronomical Society (YCAS). 
 
 The radio telescope will be totally automated, fully steerable, tracking and web accessible instrument. It will have the capability to observe any celestial object within its specification and geographical location. 
 
