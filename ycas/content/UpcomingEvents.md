@@ -12,11 +12,7 @@ weight = 100
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
 * 
 
-The York County Astronomical Society (YCAS) has decided to cancel all public programs until there is an effective and widely distributed vaccine available.
-
-Thank you for your understanding and please stay safe.
-
-
+* **June 19 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 
