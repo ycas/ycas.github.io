@@ -6,10 +6,20 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ycas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Public StarWatch</title>
+      <link>https://ycas.github.io/post/public-starwatch/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ycas.github.io/post/public-starwatch/</guid>
+      <description>The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, July 10th 2021, at 8:00PM to 10:00PM to view the night sky through our telescopes.
+Expand your mind by taking in the expanse of the universe. Come listen to a screen astronomical presentation on the current night sky, and a variety of astronomical topics, then view the July skies with us through one of our telescopes.</description>
+    </item>
     
     <item>
       <title>Public Radio Astronomy</title>
@@ -30,17 +40,6 @@ Society member Kerry Smith will be presenting the radio astronomy portion of the
       <description>COMING NEXT SUMMER TO THE YCAS OBSERVATORY A 4.5 METER RADIO TELESCOPE
 This year is going to be exciting for YCAS as we unveil our 4.5 meter radio telescope. It has been a three year project in the making collaborating with with the York County Parks, York College of Pennsylvania and the York County Astronomical Society (YCAS).
 The radio telescope will be totally automated, fully steerable, tracking and web accessible instrument.</description>
-    </item>
-    
-    <item>
-      <title>Public StarWatch</title>
-      <link>https://ycas.github.io/post/public-starwatch/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ycas.github.io/post/public-starwatch/</guid>
-      <description>The York County Astronomical Society (YCAS) has decided to cancel all public programs until there is an effective and widely distributed vaccine available.
-Thank you for your understanding and please stay safe.
-For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at info@astroyork.com or leave a voice message after the recording at 717 759-9227 or visit our Facebook page</description>
     </item>
     
     <item>
