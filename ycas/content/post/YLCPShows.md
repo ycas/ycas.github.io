@@ -23,7 +23,7 @@ ShowTix4u.com is hosting a ticket sales site for our programs. The site charges 
 
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-[Click here to purchase online tickets](https://www.showtix4u.com/event-details/38034)
+[Click here to purchase online tickets](https://www.showtix4u.com/event-details/55006)
 
 ### StarWatch
 Learn how to find the planets and constellations that are visible in York's night sky. Become a star watcher by exploring the current night sky, locate visible planets and constellations, and enjoy some sky lore. Receive a star map and get answers to questions such as:<br>
