@@ -6,10 +6,20 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ycas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Public Radio Astronomy</title>
+      <link>https://ycas.github.io/post/public-radio-astronomy/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ycas.github.io/post/public-radio-astronomy/</guid>
+      <description>Radio Astronomy, Solar Observing and Weather, and Telescope Clinic at Astronomical Society The York County Astronomical Society (YCAS) will be offering a public event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, July 10th, 2021, Solar and Radio Astronomy from 11:00AM - 3:00PM, and Telescope Clinic from 1:00PM - 2:00PM.
+Society member Kerry Smith will be presenting the radio astronomy portion of the event as well as giving attendees a peek into the future of the Society&amp;rsquo;s radio astronomy endeavors.</description>
+    </item>
     
     <item>
       <title>Public StarWatch</title>
@@ -22,13 +32,14 @@ Expand your mind by taking in the expanse of the universe. Come listen to a scre
     </item>
     
     <item>
-      <title>Public Radio Astronomy</title>
-      <link>https://ycas.github.io/post/public-radio-astronomy/</link>
-      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <title>YLC Planetarium Shows</title>
+      <link>https://ycas.github.io/post/ylc-planetarium-shows/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ycas.github.io/post/public-radio-astronomy/</guid>
-      <description>Radio Astronomy, Solar Observing and Weather, and Telescope Clinic at Astronomical Society The York County Astronomical Society (YCAS) will be offering a public event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, June 19th, 2021, Solar and Radio Astronomy from 11:00AM - 3:00PM, and Telescope Clinic from 1:00PM - 2:00PM.
-Society member Kerry Smith will be presenting the radio astronomy portion of the event as well as giving attendees a peek into the future of the Society&amp;rsquo;s radio astronomy endeavors.</description>
+      <guid>https://ycas.github.io/post/ylc-planetarium-shows/</guid>
+      <description>The York County Astronomical Society, celebrating 15 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium.
+Show date is Saturday, September 4, 2021 at:
+ 7:00PM - A Part Of The Sky Called Orion 7:40PM - StarWatch 8:20PM - Skywatchers Of Africa  The planetarium is located in the York Learning Center at 301 East 6th Avenue, York PA.</description>
     </item>
     
     <item>
@@ -40,17 +51,6 @@ Society member Kerry Smith will be presenting the radio astronomy portion of the
       <description>COMING NEXT SUMMER TO THE YCAS OBSERVATORY A 4.5 METER RADIO TELESCOPE
 This year is going to be exciting for YCAS as we unveil our 4.5 meter radio telescope. It has been a three year project in the making collaborating with with the York County Parks, York College of Pennsylvania and the York County Astronomical Society (YCAS).
 The radio telescope will be totally automated, fully steerable, tracking and web accessible instrument.</description>
-    </item>
-    
-    <item>
-      <title>Planetarium Closed</title>
-      <link>https://ycas.github.io/post/planetarium-closed/</link>
-      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ycas.github.io/post/planetarium-closed/</guid>
-      <description>The York County Astronomical Society (YCAS) has decided to close the planetarium until there is an effective and widely distributed vaccine available.
-Thank you for your understanding and please stay safe.
-For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at info@astroyork.com or leave a voice message after the recording at 717 759-9227 or visit our Facebook page</description>
     </item>
     
   </channel>
