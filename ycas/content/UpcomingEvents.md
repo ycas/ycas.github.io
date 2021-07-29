@@ -16,8 +16,6 @@ weight = 100
 
 * **August 21 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 
-* **September 4 7pm to 9pm** Public Planetarium programs at York Learning Center
-
 * **September 11 8pm to 10pm** Public StarWatch at Rudy Park
 
 * **October 9 8pm to 10pm** Public StarWatch at Rudy Park
