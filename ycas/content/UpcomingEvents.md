@@ -10,9 +10,7 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-* 
-
-* **October 16 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
+*
 
 * **November 13 8pm to 10pm** Public StarWatch at Rudy Park
 
