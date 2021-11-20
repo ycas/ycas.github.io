@@ -1,13 +1,17 @@
 ---
 author: "YCAS"
-date: 2023-03-12
-image: img/ShowSummary.jpg
-linktitle: Planetarium Closed
-title: Planetarium Closed 
+date: 2021-11-20
+image: img/JamesWebb.jpg
+linktitle: James Webb Space Telescope Talk
+title: James Webb Space Telescope Talk
 weight: 100
 ---
-The York County Astronomical Society (YCAS) has decided to close the planetarium until there is an effective and widely distributed vaccine available.
+The York County Astronomical Society (YCAS) will host a virtual presentation at John C. Rudy Park Observatory December 11 at 7pm.
 
-Thank you for your understanding and please stay safe.
+The evening will start with "The James Webb Space Telescope - a new cosmic journey begins" with Dr. Swara Ravindranath from the Space Telescope Science Institute in Baltimore, MD, discussing, via Zoom, the telescope's key science goals. The presentation is outside the observatory using a large projection screen system. Guests are encouraged to bring chairs and dress warmly. A food truck will be onsite selling many hot Italian dishes.
+
+The James Webb Space Telescope is NASA's largest and most powerful telescope in space and is scheduled to be launched on 18 December, 2021 from Kourou in French Guiana. The Webb telescope will reveal never before seen views of the cosmos, from the first galaxies that formed after the Big Bang to habitable planets around other stars in our own Milky Way galaxy. As the successor to the Hubble Space Telescope, the Webb telescope has a larger primary mirror and infrared vision which allows to capture light from the faint distant galaxies and to penetrate dusty regions to reveal where stars and planets form. With four extremely sensitive and powerful instruments that can provide both images and spectra of astronomical sources, the Webb telescope will explore a wide range of science questions and make many new discoveries. The Webb telescope is an engineering marvel that embodies innovation and advanced technology to achieve its ambitious scientific goals. It will be located in a Solar orbit at a distance almost a million miles away from the Earth. The Webb mission is an international collaboration between NASA, the European Science Agency (ESA), and the Canadian Space Agency (CSA).
+
+Dr. Swara Ravindranath is an astronomer who works at the Space Telescope Science Institute in Baltimore, and will give a talk about the Webb telescope and its key science goals. Her presentation is titled "The James Webb Space Telescope - a new cosmic journey begins". Dr. Ravindranath is an instrument scientist for the Near Infrared Imager and Slitless Spectrograph (NIRISS) and is involved in the commissioning and calibration of this instrument which is contributed by the CSA. Dr. Ravindranath's research work focuses on understanding the formation and evolution of galaxies. She is a collaborator on various deep survey programs done with the Hubble Space Telescope and has used the images to study how galaxies evolve over cosmic time. She also uses spectroscopy to explore star formation in a rare class of actively star-forming galaxies in the nearby Universe, which have properties that are similar to what is expected for the first galaxies. Dr. Ravindranath and her collaborators plan to use the images and spectra of distant galaxies from the Webb telescope to study the first galaxies and understand how they transformed to the present-day galaxies like the Milky Way galaxy. 
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

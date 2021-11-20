@@ -12,7 +12,7 @@ weight = 100
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
 *
 
-* **November 13 8pm to 10pm** Public StarWatch at Rudy Park
+* **December 11 7pm to 8pm** James Webb Space Telescope Talk at Rudy Park
 
 * **December 11 8pm to 10pm** Public StarWatch at Rudy Park
 
