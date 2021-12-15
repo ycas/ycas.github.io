@@ -10,12 +10,59 @@ weight = 35
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-YCAS member Jim Smailing has taken some excellent pictures of the eclipsing Moon. These pictures were taken with the combination of a Motorola E5 plus cellphone, a Vankey cellphone telescope adapter mount, and an Orion ultrascopic 5mm eyepiece all attached to an Orion Skywatcher 120 f/8 acromatic refractor on an EG-3 equatorial mount with an Orion EQ-3M single axis drive. The first six photos were taken with a #15 yellow glass filter attached to the eyepiece.
-![YCAS Logo](../img/JS/11.jpg "Eclipsing Moon") The picture above is a stacked photo from a 30 second video processed with the free software PIPP and Autostakkkert!2.
-![YCAS Logo](../img/JS/1.jpg "Eclipsing Moon") ![YCAS Logo](../img/JS/2.jpg "Eclipsing Moon") ![YCAS Logo](../img/JS/3.jpg "Eclipsing Moon")
+YCAS member Lydell Nunn has taken some excellent pictures of deep sky objects. 
 
-![YCAS Logo](../img/JS/4.jpg "Eclipsing Moon") ![YCAS Logo](../img/JS/5.jpg "Eclipsing Moon") ![YCAS Logo](../img/JS/6.jpg "Eclipsing Moon")
+![YCAS Logo](../img/LN/Leo3.jpg "Leo Triplet")
+The Leo Triplet of galaxies consists of three galaxies, which lie at an average distance of 35 million light-years from Earth, below the belly of the constellation Leo the lion. NGC 3628 (top-left in the image) is viewed edge-on, while Messier 65 (bottom-right) and Messier 66 (top-right) are tilted towards the Earth. M65 &amp; 66 were discovered by Charles Messier on March 1, 1780; however, his telescope lacked the resolution to detect the dimmest of the trio, NGC 3628. Also known as the Hamburger Galaxy, NGC 3628 was not discovered until April 8, 1784, by William Herschel.
 
-![YCAS Logo](../img/JS/7.jpg "Eclipsing Moon") ![YCAS Logo](../img/JS/8.jpg "Eclipsing Moon") ![YCAS Logo](../img/JS/9.jpg "Eclipsing Moon")
+The image was captured from Wallingford-MAK Observatory on February 20, 2021. It consists of 125 2-minute exposures for a total integration time of just over four hours. The data was captured with SGP with pre and postprocessing performed in Pixinsight and Photoshop (watermark).
+Nexdome Observatory
+Control: Primaluce Lab Eagle 3S
+Scope: RASA 8 f/2
+Imaging camera: ASI2600 MC Pro
+Guide scope: ZWO 30mm f/4
+Guide camera: ASI 120mm mini
+Guiding: PHD2
+Filter: Optolong L-Pro filter
+Flat frames: 50
+Dark frames: 30
+Bias frames: 50
+Sky: Bortle 5/6
+Planetarium: Cartes du Ciel
 
-![YCAS Logo](../img/JS/10.jpg "Close up") The crater Eratosthenes and the Apennine Mountains
+![YCAS Logo](../img/LN/elephantTrunk.jpg "Elephant Trunk")
+IC 1396 - The Elephant Trunk Nebula is located 2,400 light-years from the Earth, in the constellation Cepheus. 
+
+The image was captured from Wallingford-MAK Observatory over three days in November 2021. It consists of 167 5-minute exposures for a total integration time of just under 14 hours. The data was captured with SGP with pre and postprocessing performed in Pixinsight and Photoshop (watermark).
+Nexdome Observatory
+Control: Primaluce Lab Eagle 3S
+Scope: RASA 8 f/2
+Imaging camera: ASI2600 MC Pro
+Guide scope: ZWO 30mm f/4
+Guide camera: ASI 120mm mini
+Guiding: PHD2
+Filter: IDAS NBZ
+Flat frames: 50
+Dark frames: 30
+Bias frames: 50
+Sky: Bortle 5/6
+Planetarium: Cartes du Ciel
+
+![YCAS Logo](../img/LN/tadpole.jpg "Tadpole")
+IC 410 - the Tadpole Nebula and IC 405 - the Flaming Star Nebula. The image is comprised of 90 3-minute exposures. The total integration time is 4.5 hours. Found in the constellation Auriga, the Tadpole is located 12,000 light-years from Earth, and is about 100 light-years across. The Flaming Star nebula is located 1,500 from Earth and approximately five light-years across.
+
+The image was captured with SGP with pre and postprocessing performed in Pixinsight and
+Photoshop (watermark).
+Nexdome Observatory
+Control: Primaluce Lab Eagle 3S
+Scope: RASA 8 f/2
+Imaging camera: ASI2600 MC Pro
+Guide scope: ZWO 30mm f/4
+Guide camera: ASI 120mm mini
+Guiding: PHD2
+Filter: IDAS NBZ
+Flat frames: 50
+Dark frames: 30
+Bias frames: 50
+Sky: Bortle 5/6
+Planetarium: Cartes du Ciel
