@@ -12,8 +12,6 @@ weight = 100
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
 *
 
-* **December 18 7pm to 8pm** James Webb Space Telescope Talk on Zoom
-
 * **January 8 8pm to 10pm** Public StarWatch at Rudy Park
 
 * **February 12 8pm to 10pm** Public StarWatch at Rudy Park

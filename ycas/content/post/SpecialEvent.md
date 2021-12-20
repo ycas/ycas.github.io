@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2021-11-20
+date: 2024-11-20
 image: img/JamesWebb.jpg
 linktitle: James Webb Space Telescope Talk
 title: James Webb Space Telescope Talk
