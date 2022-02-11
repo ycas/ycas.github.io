@@ -7,7 +7,7 @@ next: /post/YLC-Planetarium-Shows/
 title: Public StarWatch
 weight: 100
 ---
-
+The Starwatch scheduled for February 12th has been cancelled due to forecasted clouds. Next program will be March 12 at 8pm to 10pm.
 
 The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, February 12th 2022, at 7:00PM to 10:00PM to view the night sky through our telescopes.
 
