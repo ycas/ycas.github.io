@@ -12,8 +12,6 @@ weight = 100
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
 *
 
-* **March 12 8pm to 10pm** Public StarWatch at Rudy Park
-
 * **April 9 8pm to 10pm** Public StarWatch at Rudy Park
 
 * **May 14 8pm to 10pm** Public StarWatch at Rudy Park
