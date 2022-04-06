@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2021-10-16
+date: 2022-03-26
 image: img/Dippers.jpg
 linktitle: Public StarWatch
 next: /post/YLC-Planetarium-Shows/

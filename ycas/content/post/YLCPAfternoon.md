@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2022-03-16
+date: 2022-04-05
 linktitle: YLC Planetarium Afternoon Shows
 title: YLC Planetarium Afternoon Shows
 weight: 100
@@ -9,6 +9,7 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 16 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium. 
 
+April 9, 2022
 
 * 2:00PM - **One World, One Sky: Big Bird's Adventure**
 * 2:40PM - **StarWatch**
@@ -22,7 +23,7 @@ Tickets go on sale at 1:30pm the day of the show. Online tickets are not availab
 Private show reservations are available for $40 for a 45 minute program for up to 60 people.
 
 **Online ticket sales are available**
-ShowTix4u.com is hosting a ticket sales site for our programs. The site charges a non-refundable fee of about $1.15 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of ShowTix4u.com, ticket purchases are for either the 2pm, 2:40pm, and 3:20pm group of shows, just the 4pm show, or the 7pm, 7:40pm, and 8:20pm group of shows.
+ShowTix4u.com is hosting a ticket sales site for our programs. The site charges a non-refundable fee of about $1.15 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of ShowTix4u.com, ticket purchases are for either the 2pm, 2:40pm, and 3:20pm group of shows, or the 7pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
 [Click here to purchase online tickets](https://www.showtix4u.com/event-details/63157)
