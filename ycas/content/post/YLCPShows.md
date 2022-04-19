@@ -7,7 +7,7 @@ weight: 100
 image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
 ---
-The York County Astronomical Society, celebrating 16 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium. 
+The York County Astronomical Society, celebrating 16 years offering planetarium programs to the public, now offering Friday evening programs for older family members at the York Learning Center Planetarium. 
 
 Friday April 22, 2022
 
