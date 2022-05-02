@@ -25,7 +25,7 @@ Private show reservations are available for $40 for a 45 minute program for up t
 ShowTix4u.com is hosting a ticket sales site for our programs. The site charges a non-refundable fee of about $1.25 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of ShowTix4u.com, ticket purchases are for either the 2pm, 2:40pm, and 3:20pm group of shows, or the 7pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-[Click here to purchase online tickets](https://www.showtix4u.com/event-details/64084)
+[Click here to purchase online tickets](https://www.showtix4u.com/event-details/64873)
 
 ### StarWatch
 Learn how to find the planets and constellations that are visible in York's night sky. Become a star watcher by exploring the current night sky, locate visible planets and constellations, and enjoy some sky lore. Receive a star map and get answers to questions such as:<br>
