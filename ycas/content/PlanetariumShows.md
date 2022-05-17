@@ -161,6 +161,17 @@ Do you ever wonder if extraterrestrial life actually exists? Come enjoy a fulldo
 </table>
 In Flight Adventures, dreams of flying, model aircraft and a young girl and her grandfather come together in this multimedia planetarium show about the science of aeronautics. Learn about famous inventors and aviators of the past and the pioneers who first revealed the 4 forces of flight. See images of aircraft past, present and future and imagine where flight might take us. Presented in high-definition full-dome digital video, "Flight Adventures" is unlike anything you've ever encountered.
 
+**Forward! To the Moon**
+<table style="width:95%">
+  <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
+  <tr>
+    <td>Aeronautics, space science, astronomy</td>
+    <td>general audiences, grades 4+</td> 
+    <td>26 min</td>
+  </tr>
+</table>
+NASA's 21st century Artemis program, named after the Greek moon Goddess and twin of Apollo, is the next step in our mission to explore the universe and land the first woman and person of color on the surface of the Moon.
+
 **From the Blue Planet to the Red Planet**
 <table style="width:95%">
   <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
