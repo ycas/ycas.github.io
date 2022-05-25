@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2022-05-02
+date: 2022-05-18
 image: img/Dippers.jpg
 linktitle: Public StarWatch
 next: /post/YLC-Planetarium-Shows/
@@ -9,6 +9,8 @@ weight: 100
 ---
 
 The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, June 11th 2022, at 8:00PM to 10:00PM to view the night sky through our telescopes.
+
+The [Emigsville Band](http://www.theemigsvilleband.com) will be playing from 6:45pm to 7:45pm
 
 Expand your mind by taking in the expanse of the universe. Come view the May skies with us through one of our telescopes. Let our experienced members guide you on a tour of celestial wonders, including stars, planets, nebulae and the Moon. We also invited you to bring your own telescope and share your experiences with other amateur astronomers. Star charts are available to help your exploration of the nighttime sky as members laser point the night sky. 
 

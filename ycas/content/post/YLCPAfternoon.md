@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2022-05-16
+date: 2022-05-25
 linktitle: YLC Planetarium Afternoon Shows
 title: YLC Planetarium Afternoon Shows
 weight: 100
