@@ -12,12 +12,6 @@ weight = 100
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
 *
 
-* **May 21 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
-
-* **June 4 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
-
-* **June 4 7pm to 9pm** Planetarium Shows at York Learning Center
-
 * **June 11 8pm to 10pm** Public StarWatch at Rudy Park
 
 * **June 18 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
@@ -32,9 +26,9 @@ weight = 100
 
 * **September 10 8pm to 10pm** Public StarWatch at Rudy Park
 
-* **September 17 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
+* **September 24 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
 
-* **September 17 7pm to 9pm** Planetarium Shows at York Learning Center
+* **September 24 7pm to 9pm** Planetarium Shows at York Learning Center
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 
