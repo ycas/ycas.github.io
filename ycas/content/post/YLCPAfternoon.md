@@ -40,7 +40,7 @@ Learn how to find the planets and constellations that are visible in York's nigh
 Elmo and Big Bird live in the United States and Hu Hu Zhu lives far away in China, but they discovered that they still see the same stars at night! The word for star in Chinese is "xing xing" (pronounced sing sing). How many "xing xing" do you see in this sky?
 When Elmo and Hu Hu Zhu "travel" to the moon, they discover some basic but surprising scientific facts. For example, they can't fly a kite there because there is no wind. The fuzzy friends then excitedly realize that children like to fly kites in both China and the United States!
 
-### Rusty Rockets Last BLast
+### Rusty Rockets Last Blast
 After decades of teaching the basics of rocket physics, Rusty Rocket has decided this will be his last blast, and he already has plans for how he will spend his free time. Still there is one final mission to command: an introductory tour of the solar system for a new class of rocket rookies focusing on the wide variety of planetary environments. Along the way, we learn Rusty is related to every famous spacecraft to explore the solar system. He also emphasizes the immense distances between the planets using cars and jets for comparison.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
