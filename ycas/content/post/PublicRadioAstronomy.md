@@ -15,5 +15,5 @@ The York County Astronomical Society (YCAS) will be offering a public event at t
 
 Society member Kerry Smith will be presenting the radio astronomy portion of the event as well as giving attendees a peek into the future of the Society's radio astronomy endeavors. Radio astronomy is the study of the unseen radiated energy in the electromagenetic spectrum below visible light. By using radio astronomy, we are able to study astronomical phenomena that are otherwise invisible.
 
-The James Webb Space Telescope is a million miles from Earth orbiting the Sun and observing the outer planets of our Solar System as well as measuring the content extra-solar planet atmospheres, star formation occuring deep in stellar dust clouds, and the earliest galaxy formations.
+The James Webb Space Telescope is a million miles from Earth orbiting the Sun and observing the outer planets of our Solar System as well as measuring the content extra-solar planet atmospheres, star formation occurring deep in stellar dust clouds, and the earliest galaxy formations.
 
