@@ -12,8 +12,6 @@ weight = 100
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
 *
 
-* **July 9 8pm to 10pm** Public StarWatch at Rudy Park
-
 * **July 16 11am to 3pm** James Webb first images, Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 
 * **August 13 8pm to 10pm** Public StarWatch at Rudy Park
