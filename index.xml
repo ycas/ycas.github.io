@@ -6,10 +6,20 @@
     <description>Recent content in York County Astronomical Society on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ycas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Public Radio Astronomy</title>
+      <link>https://ycas.github.io/post/public-radio-astronomy/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ycas.github.io/post/public-radio-astronomy/</guid>
+      <description>Radio Astronomy, Solar Observing and Weather, James Webb Space Telescope images, and Telescope Clinic at Astronomical Society The York County Astronomical Society (YCAS) will be offering a public event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 20th, 2022, Solar and Radio Astronomy from 11:00AM - 3:00PM, and Telescope Clinic from 1:00PM - 2:00PM.
+Society member Kerry Smith will be presenting the radio astronomy portion of the event as well as giving attendees a peek into the future of the Society&amp;rsquo;s radio astronomy endeavors.</description>
+    </item>
     
     <item>
       <title>Public StarWatch</title>
@@ -17,18 +27,8 @@
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ycas.github.io/post/public-starwatch/</guid>
-      <description>The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 13th 2022, at 8:00PM to 10:00PM to view the night sky through our telescopes.
+      <description>The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, September 10th 2022, at 8:00PM to 10:00PM to view the night sky through our telescopes.
 Expand your mind by taking in the expanse of the universe. Come view the August skies with us through one of our telescopes. Let our experienced members guide you on a tour of celestial wonders, including stars, planets, nebulae and the Moon.</description>
-    </item>
-    
-    <item>
-      <title>Public Radio Astronomy</title>
-      <link>https://ycas.github.io/post/public-radio-astronomy/</link>
-      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ycas.github.io/post/public-radio-astronomy/</guid>
-      <description>Radio Astronomy, Solar Observing and Weather, James Webb Space Telescope images, and Telescope Clinic at Astronomical Society The York County Astronomical Society (YCAS) will be offering a public event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 20th, 2022, Solar and Radio Astronomy from 11:00AM - 3:00PM, and Telescope Clinic from 1:00PM - 2:00PM.
-Society member Kerry Smith will be presenting the radio astronomy portion of the event as well as giving attendees a peek into the future of the Society&amp;rsquo;s radio astronomy endeavors.</description>
     </item>
     
     <item>
@@ -112,11 +112,12 @@ The Leo Triplet of galaxies consists of three galaxies, which lie at an average 
       
       <guid>https://ycas.github.io/upcomingevents/</guid>
       <description>*
- July 16 11am to 3pm James Webb first images, Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
- August 13 8pm to 10pm Public StarWatch at Rudy Park
  August 20 11am to 3pm Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
  September 10 8pm to 10pm Public StarWatch at Rudy Park
- September 24 2pm to 4:00pm Childrens Planetarium Shows at York Learning Center</description>
+ September 24 2pm to 4:00pm Childrens Planetarium Shows at York Learning Center
+ September 24 7pm to 9pm Planetarium Shows at York Learning Center
+ October 8 8pm to 10pm Public StarWatch at Rudy Park
+ October 15 2pm to 4:00pm Childrens Planetarium Shows at York Learning Center</description>
     </item>
     
     <item>
@@ -157,7 +158,7 @@ Pennsylvania, Maryland, Delaware, Virginia Astronomical Clubs   AELC - Astronomy
       <pubDate>Sat, 04 Aug 2018 13:33:00 +0000</pubDate>
       
       <guid>https://ycas.github.io/planetariumshows/</guid>
-      <description>Private Show Reservation Information The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can schedule during school hours Monday through Friday. The cost of a 45 minute program is $40, an additional hour is $30 ($70 total). There are some shows with a surcharge of $30 because they are streamed from a vendor. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card.</description>
+      <description>Private Show Reservation Information The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can schedule during school hours Monday through Friday. The cost of a 45 minute program is $40, an additional hour is $30 ($70 total). There are some shows with a surcharge of $32 because they are streamed from a vendor. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card.</description>
     </item>
     
   </channel>
