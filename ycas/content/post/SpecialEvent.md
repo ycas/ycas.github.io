@@ -1,17 +1,19 @@
 ---
 author: "YCAS"
-date: 2024-11-20
-image: img/JamesWebb.jpg
-linktitle: James Webb Space Telescope Talk
-title: James Webb Space Telescope Talk
+date: 2022-09-02
+image: img/Dippers.jpg
+linktitle: Black Locust Hops Farm and Brewery
+title: Star Party Fundraiser
 weight: 100
 ---
-The York County Astronomical Society (YCAS) will host a virtual presentation at John C. Rudy Park Observatory December 18 at 7pm on Zoom, meeting ID is 976 1750 7276 with passcode YCAS.
+The York County Astronomical Society (YCAS) will have a fundraiser for YCAS at [Black Locust Hops Farm and Brewery](https://www.blacklocusthops.com/) October 23 at 6:30pm to 10pm.
 
-The evening will start with "The James Webb Space Telescope - a new cosmic journey begins" with Dr. Swara Ravindranath from the Space Telescope Science Institute in Baltimore, MD, discussing, via Zoom, the telescope's key science goals. The presentation is outside in the Red Pine and White Pine pavilions using a large projection screen system. Guests are encouraged to bring chairs and dress warmly. A food truck will be onsite selling many hot Italian dishes.
+FAMILY FRIENDLY EVENT: The York County Astronomical Society will be on the farm with telescopes, a wealth of information, and love for sharing the wonders of the heavens!  
 
-The James Webb Space Telescope is NASA's largest and most powerful telescope in space and is scheduled to be launched on 24 December, 2021 from Kourou in French Guiana. The Webb telescope will reveal never before seen views of the cosmos, from the first galaxies that formed after the Big Bang to habitable planets around other stars in our own Milky Way galaxy. As the successor to the Hubble Space Telescope, the Webb telescope has a larger primary mirror and infrared vision which allows to capture light from the faint distant galaxies and to penetrate dusty regions to reveal where stars and planets form. With four extremely sensitive and powerful instruments that can provide both images and spectra of astronomical sources, the Webb telescope will explore a wide range of science questions and make many new discoveries. The Webb telescope is an engineering marvel that embodies innovation and advanced technology to achieve its ambitious scientific goals. It will be located in a Solar orbit at a distance almost a million miles away from the Earth. The Webb mission is an international collaboration between NASA, the European Science Agency (ESA), and the Canadian Space Agency (CSA).
+Tickets are $30 per carload (no buses, please) and 100% of ticket sales go directly to YCAS to support their mission to make stargazing accessible to ALL!  
 
-Dr. Swara Ravindranath is an astronomer who works at the Space Telescope Science Institute in Baltimore, and will give a talk about the Webb telescope and its key science goals. Her presentation is titled "The James Webb Space Telescope - a new cosmic journey begins". Dr. Ravindranath is an instrument scientist for the Near Infrared Imager and Slitless Spectrograph (NIRISS) and is involved in the commissioning and calibration of this instrument which is contributed by the CSA. Dr. Ravindranath's research work focuses on understanding the formation and evolution of galaxies. She is a collaborator on various deep survey programs done with the Hubble Space Telescope and has used the images to study how galaxies evolve over cosmic time. She also uses spectroscopy to explore star formation in a rare class of actively star-forming galaxies in the nearby Universe, which have properties that are similar to what is expected for the first galaxies. Dr. Ravindranath and her collaborators plan to use the images and spectra of distant galaxies from the Webb telescope to study the first galaxies and understand how they transformed to the present-day galaxies like the Milky Way galaxy. 
+Persons under 21 must remain in the family friendly area AND under a parent or guardian's supervision at all times!  
+
+[Click this link for your tickets!](www.eventbrite.com/e/an-evening-under-the-stars-tickets-406391416667)
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

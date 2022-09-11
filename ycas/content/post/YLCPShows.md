@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2022-05-24
+date: 2022-09-10
 linktitle: YLC Planetarium Shows
 title: YLC Planetarium Shows
 weight: 100

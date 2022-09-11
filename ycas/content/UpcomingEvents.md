@@ -12,8 +12,6 @@ weight = 100
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
 *
 
-* **September 10 8pm to 10pm** Public StarWatch at Rudy Park
-
 * **September 24 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
 
 * **September 24 7pm to 9pm** Planetarium Shows at York Learning Center
@@ -23,6 +21,8 @@ weight = 100
 * **October 15 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
 
 * **October 15 7pm to 9pm** Planetarium Shows at York Learning Center
+
+* **October 23 6:30pm to 10pm Astronomy On Tap Fundraiser at Black Locust Farm and Brewery
 
 * **November 5 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
 
