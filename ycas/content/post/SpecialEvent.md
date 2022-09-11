@@ -14,6 +14,6 @@ Tickets are $30 per carload (no buses, please) and 100% of ticket sales go direc
 
 Persons under 21 must remain in the family friendly area AND under a parent or guardian's supervision at all times!  
 
-[Click this link for your tickets!](www.eventbrite.com/e/an-evening-under-the-stars-tickets-406391416667)
+[Click this link for your tickets!](https://www.eventbrite.com/e/an-evening-under-the-stars-tickets-406391416667)
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
