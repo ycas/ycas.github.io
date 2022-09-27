@@ -331,17 +331,6 @@ The passage of the Sun's fiery disc across the sky - day by day, month by month 
 </table>
 Discover the wonders of our Sun. Its incredible energy has supported life on Earth for millennia, but is now threatening our technology and way of life.  Travel to the distant future to discover our Sun's connection to the universe's cosmic cycle of life and death in Sunstruck.
 
-**Tilt**
-<table style="width:95%">
-  <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
-  <tr>
-    <td>Seasons</td>
-    <td>general audiences, grades 1-5</td> 
-    <td>25 min</td>
-  </tr>
-</table>
-Join Annie and Max in Austrailia for a whirlwind adventure to find out how the seasons work. It's a crazy day when snow starts falling and it's the middle of summer! But sometimes crazy days are just what you need to discover something new. It's surprising what a new angle on the world can do. 
-
 **The Planets**
 <table style="width:95%">
   <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
