@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2022-09-02
+date: 2025-09-02
 image: img/Dippers.jpg
 linktitle: Black Locust Hops Farm and Brewery
 title: Star Party Fundraiser
