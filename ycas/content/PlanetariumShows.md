@@ -27,6 +27,41 @@ What can be seen with a telescope tonight?<br>
 *What are the names of the brightest stars?<br>
 *Why does Jupiter have different colored clouds?<br>
 
+<H1>Girl Scout Programs</H1>
+<table style="width:95%">
+  <tr> <th>Level</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
+  <tr>
+    <td>Daisey</td>
+    <td>One World, One Sky: Big Bird's Adventure</td> 
+    <td>24 min</td>
+  </tr>
+  <tr>
+    <td>Brownie</td>
+    <td>Rusty Rocket's Last Blast, StarWatch</td> 
+    <td>100 min</td>
+  </tr>
+  <tr>
+    <td>Junior</td>
+    <td>Rusty Rocket's Last Blast, StarWatch</td> 
+    <td>100 min</td>
+  </tr>
+  <tr>
+    <td>Cadette</td>
+    <td>Two Small Pieces Of Glass, StarWatch</td> 
+    <td>100 min</td>
+  </tr>
+  <tr>
+    <td>Senior</td>
+    <td>From Earth To The Universe, StarWatch</td> 
+    <td>100 min</td>
+  </tr>
+  <tr>
+    <td>Ambassador</td>
+    <td>From Earth To The Universe, StarWatch</td> 
+    <td>100 min</td>
+  </tr>
+</table>
+
 While programs are geared toward families they may not be appropriate for very young children who are not able to sit through 35-minute presentations. 
 
 <H4>New Telescope Clinic</H4>
@@ -193,18 +228,6 @@ Journey to the year 2132 and follow a young woman named Carina as she studies ge
   </tr>
 </table>
 The night sky, both beautiful and mysterious, has been the subject of campfire stories, ancient myths and awe for as long as there have been people. A desire to comprehend the Universe may well be humanity's oldest shared intellectual experience. Yet only recently have we truly begun to grasp our place in the vast cosmos. To learn about this journey of celestial discovery, from the theories of the ancient Greek astronomers to today's grandest telescopes, we invite you to experience From Earth to the Universe.
-
-**Hubble Space Telescope 25-year Celebration**
-<table style="width:95%">
-  <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
-  <tr>
-    <td>Hubble images</td>
-    <td>general audiences</td> 
-    <td>5 min</td>
-  </tr>
-</table>
-Hubble Space Telescope celebrates its 25-years in orbit with images set to music.
-
 
 **Hot and Energetic Universe**
 <table style="width:95%">
