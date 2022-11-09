@@ -14,6 +14,8 @@ weight = 100
 
 * **November 12 8pm to 10pm** Public StarWatch at Rudy Park
 
+* **November 20 4:30pm to 8pm** Black Locust Hops Farm and Brewery fundraiser
+
 * **December 3 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
 
 * **December 3 7pm to 9pm** Planetarium Shows at York Learning Center
