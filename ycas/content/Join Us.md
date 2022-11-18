@@ -33,7 +33,7 @@ weight = 60
 			  </td></tr><tr><td>
               <b>4 quarterly issues of The Astronomical League's newsletter, "Reflector"</b></i>
 			  </td></tr><tr><td>
-              <b>A 25% discount on the subscriptions to "Sky and Telescope" magazine ($43.95/Year) if you add it to your dues at signup.</b></i>
+              <b>A 25% discount on the subscriptions to "Sky and Telescope" magazine ($45.75/Year) if you add it to your dues at signup.</b></i>
 			  </td></tr><tr><td>
               <b>Free to YCAS Members YCAS Astronomy classes.</b></i>
 			  </td></tr><tr><td>
@@ -210,26 +210,18 @@ weight = 60
       </div>
       <p align="center">
       <span class="bold"><b>SUBSCRIBE TO SKY AND TELESCOPE MAGAZINE</b></span>
-<p><b>ADD SKY &amp; TELESCOPE SUBSCRIPTION:&nbsp;&nbsp;$43.95</b><br>
+<p><b>ADD SKY &amp; TELESCOPE SUBSCRIPTION:&nbsp;&nbsp;$45.75</b><br>
               <i>
               <b>SAVE $11 off of the normal subscription price!<br>
               </b>
               Existing Members: If you have already received the discount rate,
               Sky and Tel will automatically send you your renewal at the Club
               rate. This link is only for NEW Subscriptions.</b></i>
-<!--webbot bot="HTMLMarkup" startspan --><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<!-- Identify your business so that you can collect the payments. -->
-<input type="hidden" name="business" value="info@astroyork.com">
-<!-- Specify a Donate button. -->
-<input type="hidden" name="cmd" value="_donations">
-<!-- Specify details about the contribution -->
-<input type="hidden" name="item_name" value="Sky and Telescope Subscription">
-<input type="hidden" name="item_number" value="magazine">
-<input type="hidden" name="amount" value="43.95">
-<input type="hidden" name="currency_code" value="USD">
-<!-- Display the payment button. -->
-<input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" alt="Buy S and T">
-<img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+<!--webbot bot="HTMLMarkup" startspan --><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="PQNPHC2TW57UG">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form><!--webbot bot="HTMLMarkup" endspan -->
       <p><span><b><a name="Renew"></a></b></span>
       <p align="center"><span><b>EXISTING MEMBERS - RENEW YOUR MEMBERSHIP HERE</b></span>
