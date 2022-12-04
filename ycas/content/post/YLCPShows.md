@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2022-11-04
+date: 2022-12-01
 linktitle: YLC Planetarium Shows
 title: YLC Planetarium Shows
 weight: 100
@@ -9,11 +9,11 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 16 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium. 
 
-Saturday December 3, 2022
+Saturday January 7, 2023
 
-* 7:00PM - **Forward! To The Moon**
+* 7:00PM - **A Part Of The Sky Called Orion**
 * 7:40PM - **StarWatch**
-* 8:20PM - **Chasing the Ghost Particle**
+* 8:20PM - **Forward! To the Moon**
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
 
@@ -40,12 +40,12 @@ Learn how to find the planets and constellations that are visible in York's nigh
 ### Forward! To the Moon
 NASA's 21st century Artemis program, named after the Greek moon Goddess and twin of Apollo, is the next step in our mission to explore the universe and land the first woman and person of color on the surface of the Moon.
 
-### Chasing the Ghost Particle: From the South Pole to the Edge of the Universe
-Deep in the ice at the heart of Antarctica, the biggest and strangest detector in the world waits for mysterious messengers from the cosmos. The detector is Ice Cube! The messengers are neutrinos, ghostly particles that give us tantalizing looks into world of exploding stars and black holes.
-This show tells the incredible story of how an international team of scientists and engineers transformed one billion tons of Antarctic ice into a telescope. Building Ice Cube was a titanic endeavor driven by our human passion for discovery.
-Witness stunning views of the South Pole, captivating animations of the Ice Cube detectors capturing a neutrino collision-and eye-catching views of the cosmos. Chasing the Ghost Particle: From the South Pole to the Edge of the Universe will take you on a journey you will never forget.
+### A Part Of The Sky Called Orion
+A fantastic sky lore program covering the Greek, Egyptian, and Inupiaq cultures. We learn how each of these rich cultures viewed the same stars, but had different stories and images. Told in first-person in the context of the teller's life, we experience their ancient star lore and imagery. This show is best for 2nd grade and above, but even younger ones will enjoy the storytelling imagery and theme. This is storytelling at its best. A wonderful blend of imagery, music, and word; it's a treat for all.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+
+![Planetarium Map](../../img/YLCParking.png "York Learning Center Planetarium")
 
 The Planetarium wishes to recognize and thank the British Fulldome Institute for programming support.
 <a href="https://www.facebook.com/BritishFulldomeInstitute/" target="_blank"><img src="../../img/BFI.png"  title="British fulldome institute"/></a>

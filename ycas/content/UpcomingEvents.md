@@ -10,28 +10,21 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-*
 
-* **November 20 4:30pm to 8pm** Black Locust Hops Farm and Brewery fundraiser
-
-* **December 3 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
-
-* **December 3 7pm to 9pm** Planetarium Shows at York Learning Center
-
-* **December 10 8pm to 10pm** Public StarWatch at Rudy Park
+* **December 10 7pm to 9pm** Public StarWatch at Rudy Park
 
 * **2023**
 * **January 7 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
 
 * **January 7 7pm to 9pm** Planetarium Shows at York Learning Center
 
-* **January 14 8pm to 10pm** Public StarWatch at Rudy Park
+* **January 14 7pm to 9pm** Public StarWatch at Rudy Park
 
 * **February 4 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
 
 * **February 4 7pm to 9pm** Planetarium Shows at York Learning Center
 
-* **February 11 8pm to 10pm** Public StarWatch at Rudy Park
+* **February 11 7pm to 9pm** Public StarWatch at Rudy Park
 
 * **March 4 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
 
