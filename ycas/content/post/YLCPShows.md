@@ -25,7 +25,7 @@ Private show reservations are available for $40 for a 45 minute program for up t
 ShowTix4u.com is hosting a ticket sales site for our programs. The site charges a non-refundable fee of about $1.25 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of ShowTix4u.com, ticket purchases are for the 7pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-[Click here to purchase online tickets](https://www.showtix4u.com/event-details/69090)
+[Click here to purchase online tickets](https://www.showtix4u.com/event-details/69734)
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
