@@ -6,7 +6,7 @@ linktitle: Telescopes and accessories for sale
 title: Telescopes, Tripods, and More For Sale
 weight: 100
 ---
-The York County Astronomical Society (YCAS) needs to clear out space in our Observatory Deck to install our new roof. We have these Telescopes and Tripods for sale. All equipemnt is sold "As is" with most requiring cleaning and/or may be missing some parts.
+The York County Astronomical Society (YCAS) needs to clear out space in our Observatory Deck to install our new roof. We have these Telescopes and Tripods for sale. All equipment is sold "As is" with most requiring cleaning and/or may be missing some parts.
 
 Price: Suggested Price listed but after inspecting the items, make us a reasonable offer.
 
