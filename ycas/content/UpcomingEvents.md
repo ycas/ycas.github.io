@@ -29,13 +29,13 @@ weight = 100
 
 * **March 11 8pm to 10pm** Public StarWatch at Rudy Park
 
-* **April 1 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
-
-* **April 1 7pm to 9pm** Planetarium Shows at York Learning Center
-
 * **April 8 8pm to 10pm** Public StarWatch at Rudy Park
 
 * **April 15 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
+
+* **April 15 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
+
+* **April 15 7pm to 9pm** Planetarium Shows at York Learning Center
 
 * **May 6 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center
 

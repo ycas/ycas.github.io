@@ -34,9 +34,6 @@ Celestron NexStar 8SE with computer controls, red dot finder, eyepiece, and trip
 ![Telescope 7](../../img/scopes/ts7.png "Telescope 7")
 Meade 10-inch SCT with finder scope, diagonal, eyepiece, wedge, and tripod for $450.00 to $500.00
 
-![Telescope 8](../../img/scopes/ts8.png "Telescope 8")
-Celestron PowerSeeker 114EQ with finder scope, equatorial mount and tripod for $150.00
-
 **Tripods**
 ![Tripod 1](../../img/scopes/3p1.png "Tripod 1")
 Celestron computer controled tripod with counter weights for $150.00
