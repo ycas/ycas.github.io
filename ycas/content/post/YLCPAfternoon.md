@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2022-12-03
+date: 2023-01-06
 linktitle: YLC Planetarium Afternoon Shows
 title: YLC Planetarium Afternoon Shows
 weight: 100
@@ -9,23 +9,23 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 16 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium. 
 
-Saturday, January 7, 2023
+### Saturday, February 4, 2023
 
-* 2:00PM - **One World, One Sky: Big Bird's Adventure**
-* 2:40PM - **StarWatch**
-* 3:20PM - **Defying Gravity: It is Rocket Science!**
+* 2:00PM - **One World, One Sky: Big Bird's Adventure**<br>
+* 2:40PM - **StarWatch**<br>
+* 3:20PM - **Flight Adventures**
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
 
-Tickets go on sale at 1:30pm the day of the show. 
-
 Private show reservations are available for $40 for a 45 minute program for up to 60 people.
 
+In person ticket sales start at 1:30pm the day of the show. 
+
 **Online ticket sales are available**
-ShowTix4u.com is hosting a ticket sales site for our programs. The site charges a non-refundable fee of about $1.25 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of ShowTix4u.com, ticket purchases are for the 2pm, 2:40pm, and 3:20pm group of shows.
+ShowTix4u.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.25 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of ShowTix4u.com, ticket purchases are for the 2pm, 2:40pm, and 3:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-[Click here to purchase online tickets](https://www.showtix4u.com/event-details/69733)
+[Click here to purchase online tickets](https://www.showtix4u.com/event-details/70359)
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
@@ -41,8 +41,8 @@ Learn how to find the planets and constellations that are visible in York's nigh
 Elmo and Big Bird live in the United States and Hu Hu Zhu lives far away in China, but they discovered that they still see the same stars at night! The word for star in Chinese is "xing xing" (pronounced sing sing). How many "xing xing" do you see in this sky?
 When Elmo and Hu Hu Zhu "travel" to the moon, they discover some basic but surprising scientific facts. For example, they can't fly a kite there because there is no wind. The fuzzy friends then excitedly realize that children like to fly kites in both China and the United States!
 
-### Defying Gravity: It is Rocket Science!
-Meet Apollo Aurora, host of the Planetarium Channel's universally loved gravity news source, Defying Gravity, It Is Rocket Science! With special robot correspondents Apple 1-6-8-6 and EGR-1, Apollo and her team will explore rocket power, gravity on other planets, monstrous black holes and even what keeps us grounded on Earth! Tune into this brand new planetarium show and uncover the mysteries of gravity.
+### Flight Adventures
+In Flight Adventures, dreams of flying, model aircraft and a young girl and her grandfather come together in this multimedia planetarium show about the science of aeronautics. Learn about famous inventors and aviators of the past and the pioneers who first revealed the 4 forces of flight. See images of aircraft past, present and future and imagine where flight might take us. Presented in high-definition full-dome digital video, "Flight Adventures" is unlike anything you've ever encountered.
 
 ![Planetarium Map](../../img/YLCParking.png "York Learning Center Planetarium")
 
