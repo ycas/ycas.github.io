@@ -11,17 +11,16 @@ weight = 100
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
 * **2023**<br>
-* **January 14 7pm to 9pm** Public StarWatch at Rudy Park<br>
 * **February 4 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center<br>
 * **February 4 7pm to 9pm** Planetarium Shows at York Learning Center<br>
 * **February 11 7pm to 9pm** Public StarWatch at Rudy Park<br>
 * **March 4 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center<br>
 * **March 4 7pm to 9pm** Planetarium Shows at York Learning Center<br>
 * **March 11 8pm to 10pm** Public StarWatch at Rudy Park<br>
+* **April 1 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center<br>
+* **April 1 7pm to 9pm** Planetarium Shows at York Learning Center<br>
 * **April 8 8pm to 10pm** Public StarWatch at Rudy Park<br>
 * **April 15 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park<br>
-* **April 15 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center<br>
-* **April 15 7pm to 9pm** Planetarium Shows at York Learning Center<br>
 * **May 6 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center<br>
 * **May 6 7pm to 9pm** Planetarium Shows at York Learning Center<br>
 * **May 13 8pm to 10pm** Public StarWatch at Rudy Park<br>

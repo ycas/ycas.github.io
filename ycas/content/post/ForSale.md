@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2023-01-08
+date: 2026-01-08
 image: img/scopes/ts1.png
 linktitle: Telescopes and accessories for sale
 title: Telescopes, Tripods, and More For Sale
