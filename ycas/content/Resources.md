@@ -37,7 +37,7 @@ weight = 40
   <li>
     <p align="left"><b><a href="http://www.csspdarkskyfund.org/home" target="_blank">Cherry Springs Dark Sky Fund/Association</a></b></li>
   <li>
-    <p align="left"><b><a href="http://www.chesmontastro.org/" target="_blank"> Chesmont Astronomical Society</a></b></li>
+    <p align="left"><b><a href="https://sites.google.com/view/chesmontastronomicalsociety/home" target="_blank"> Chesmont Astronomical Society</a></b></li>
   <li>
     <p align="left"><b><a target="_blank" href="http://www.cumberlandastronomyclub.org/">Cumberland Astronomy Club</a></b></li>
   <li>
