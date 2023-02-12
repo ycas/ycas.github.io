@@ -6,20 +6,10 @@
     <description>Recent content in York County Astronomical Society on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ycas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Public StarWatch</title>
-      <link>https://ycas.github.io/post/public-starwatch/</link>
-      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ycas.github.io/post/public-starwatch/</guid>
-      <description>The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, February 11th 2023, at 7:00PM to 9:00PM to view the night sky through our telescopes.
-Expand your mind by taking in the expanse of the universe. Come view the February skies with us through one of our telescopes. Let our experienced members guide you on a tour of celestial wonders, including stars, planets, nebulae and the Moon.</description>
-    </item>
     
     <item>
       <title>YLC Planetarium Afternoon Shows</title>
@@ -44,6 +34,26 @@ Saturday March 4, 2023  7:00PM - Two Small Pieces of Glass
  7:40PM - StarWatch
  8:20PM - Forward! To the Moon
   The planetarium is located in the York Learning Center at 301 East 6th Avenue, York PA.</description>
+    </item>
+    
+    <item>
+      <title>Public StarWatch</title>
+      <link>https://ycas.github.io/post/public-starwatch/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ycas.github.io/post/public-starwatch/</guid>
+      <description>The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, March 11th 2023, at 8:00PM to 10:00PM to view the night sky through our telescopes.
+Expand your mind by taking in the expanse of the universe. Come view the March skies with us through one of our telescopes. Let our experienced members guide you on a tour of celestial wonders, including stars, planets, nebulae and the Moon.</description>
+    </item>
+    
+    <item>
+      <title>Public Radio Astronomy</title>
+      <link>https://ycas.github.io/post/public-radio-astronomy/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ycas.github.io/post/public-radio-astronomy/</guid>
+      <description>Radio Astronomy, Solar Observing and Weather, and Telescope Clinic at Astronomical Society The York County Astronomical Society (YCAS) will be offering a public event at their Observatory at John C. Rudy County Park, 400 Mundis Race Road, York, on Saturday, April 15th, 2023, Solar and Radio Astronomy from 11:00AM - 3:00PM, and Telescope Clinic from 1:00PM - 2:00PM.
+Society member Kerry Smith will be presenting the radio astronomy portion of the event as well as giving attendees a peek into the future of the Society&amp;rsquo;s radio astronomy endeavors.</description>
     </item>
     
     <item>
@@ -105,12 +115,12 @@ The Leo Triplet of galaxies consists of three galaxies, which lie at an average 
       
       <guid>https://ycas.github.io/upcomingevents/</guid>
       <description>* 2023
-* February 11 7pm to 9pm Public StarWatch at Rudy Park
 * March 4 2pm to 4:00pm Childrens Planetarium Shows at York Learning Center
 * March 4 7pm to 9pm Planetarium Shows at York Learning Center
 * March 11 8pm to 10pm Public StarWatch at Rudy Park
 * April 1 2pm to 4:00pm Childrens Planetarium Shows at York Learning Center
-* April 1 7pm to 9pm Planetarium Shows at York Learning Center</description>
+* April 1 7pm to 9pm Planetarium Shows at York Learning Center
+* April 8 8pm to 10pm Public StarWatch at Rudy Park</description>
     </item>
     
     <item>
