@@ -8,7 +8,7 @@ weight = 100
 
 +++
 <H3>Private Show Reservation Information</H3>
-<p>The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can schedule during school hours Monday through Friday. The cost of a 45 minute program is $40, an additional hour is $30 ($70 total). There are some shows with a surcharge of $32 because they are streamed from a vendor. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card. The money raised from these programs goes towards the cost of using the planetarium and developing other astronomy programs for the community. Groups are encouraged to join together to fill the planetarium with other scouts or family members. Write to info@astroyork.com for more information or to make a reservation.
+<p>The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can schedule during school hours Monday through Friday. The cost of a 45 minute program is $40, an additional hour is $30 ($70 total). There are some shows with a surcharge of $32 because they are streamed from a vendor. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card. The money raised from these programs goes towards the cost of using the planetarium and developing other astronomy programs for the community. Groups are encouraged to join together to fill the planetarium with other scouts or family members. Write to <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> for more information or to make a reservation.
 
 The planetarium is not available during school hours to protects the school children from Covid.
 
@@ -526,4 +526,4 @@ Dive with the pioneers of deep-sea research on their journeys of discovery, on t
 Join us for an adventure through time, as we explore the past and imagine the future of the cosmos. Witness the birth of the Universe, the doom of the dinosaurs, and be there for the first landing on the moon! Each TIMESPACE travel story is presented as a destination to be experienced as if you are there. This program has a $32 surcharge.
 
 
-For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

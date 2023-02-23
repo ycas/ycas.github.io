@@ -10,7 +10,7 @@ The York County Astronomical Society (YCAS) needs to clear out space in our Obse
 
 Price: Suggested Price listed but after inspecting the items, make us a reasonable offer.
 
-When: Before our next Public Star Watch January 14, 2023, we will have the observatory at John Rudy Park open so you can inspect any items you wish to look at and make your offer. We will have all items available starting at 6:15pm on January 14th. If you cannot make the event on the 14th you may be able to make other arrangements to visit by contacting us at info@astroyork.com.
+When: Before our next Public Star Watch January 14, 2023, we will have the observatory at John Rudy Park open so you can inspect any items you wish to look at and make your offer. We will have all items available starting at 6:15pm on January 14th. If you cannot make the event on the 14th you may be able to make other arrangements to visit by contacting us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a>.
 
 **Telescopes**
 ![Telescope 1](../../img/scopes/ts1.png "Telescope 1")
@@ -65,4 +65,4 @@ Meade Goto computer for $200.00
 12-inch Venus Globes are available, make offer.
 
 
-For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

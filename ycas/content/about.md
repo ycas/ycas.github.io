@@ -20,9 +20,8 @@ The Society operates the York Learning Center Planetarium bringing astronomy to 
 
 The Society hosts numerous groups for private star parties, from Boy and Girl Scout troops, church groups, school classes, and company groups. We also hold two ***Introduction to Astronomy*** classes each year.
 
-The Society owns 6 optical telescopes:
+The Society owns 5 optical telescopes:
 
-* An 18" Dobsonian
 * A 14" Dobsonian and a 12" Computerized GoTo Telescope
 * A 10" SCT Telescope 
 * A 4.5" Newtonian Telescope
@@ -31,4 +30,4 @@ The Society owns 6 optical telescopes:
 The Society also owns a 15' radio dish antenna for radio astronomy, and associated electronic recording equipment, which will be developed and installed with the help of the York College of PA Engineering Department started in the fall of 2018!
 
 ## Contact YCAS
-For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at **info@astroyork.com** or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

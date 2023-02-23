@@ -23,5 +23,5 @@ weight = 100
 * **May 13 8pm to 10pm** Public StarWatch at Rudy Park<br>
 * **May 20 11am to 3pm** Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park<br>
 <br>
-For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 

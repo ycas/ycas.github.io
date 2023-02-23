@@ -21,4 +21,4 @@ We are still in need of funding for this project. If you would like to financial
 
 More information on this and other programs is available from York County Department of Parks and Recreation at (717) 840-7440 or [www.yorkcountyparks.org](https://www.yorkcountyparks.org).
 
-For more information on YCAS events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+For more information on YCAS events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

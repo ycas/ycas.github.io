@@ -42,7 +42,7 @@ NASA's 21st century Artemis program, named after the Greek moon Goddess and twin
 ### Two Small Pieces of Glass
 While attending a local star party, two teenage students learn how the telescope has helped us understand our place in space and how telescopes continue to expand our understanding of the Universe.
 
-For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please [contact us at info@astroyork.com](info@astroyork.com) or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
+For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 
 ![Planetarium Map](../../img/YLCParking.png "York Learning Center Planetarium")
 
