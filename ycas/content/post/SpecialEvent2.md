@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2021-01-25
+date: 2023-01-25
 image: img/RT.png
 linktitle: Radio Telescope
 next: /post/YLC-Planetarium-Shows/

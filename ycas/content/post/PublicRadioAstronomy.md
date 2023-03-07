@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2023-01-12
+date: 2023-02-02
 linktitle: Public Radio Astronomy
 title: Public Radio Astronomy
 weight: 100
