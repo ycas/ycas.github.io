@@ -1,13 +1,13 @@
 ---
 author: "YCAS"
-date: 2023-02-04
+date: 2023-03-04
 linktitle: YLC Planetarium Afternoon Shows
 title: YLC Planetarium Afternoon Shows
 weight: 100
 image: img/OWOS2.jpg
 prev: /post/public-starwatch/
 ---
-The York County Astronomical Society, celebrating 16 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium. 
+The York County Astronomical Society, celebrating 17 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium. 
 
 ### Saturday, April 1, 2023
 
