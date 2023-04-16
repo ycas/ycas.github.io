@@ -7,7 +7,7 @@ next: /post/YLC-Planetarium-Shows/
 title: Radio Telescope
 weight: 100
 ---
-COMING THIS SPRING 2023 TO THE YCAS OBSERVATORY A 4.5 METER RADIO TELESCOPE
+COMING THIS SUMMER 2023 TO THE YCAS OBSERVATORY A 4.5 METER RADIO TELESCOPE
 
 This next year is going to be exciting for YCAS as we unveil our 4.5 meter radio telescope. It has been a five year project in the making collaborating with with the York County Parks, York College of Pennsylvania and the York County Astronomical Society (YCAS). 
 
