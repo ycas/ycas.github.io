@@ -6,10 +6,20 @@
     <description>Recent content in York County Astronomical Society on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ycas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Public StarWatch</title>
+      <link>https://ycas.github.io/post/public-starwatch/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ycas.github.io/post/public-starwatch/</guid>
+      <description>The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 12th, 2023, at 8:00PM to 10:00PM to view the night sky through our telescopes.
+Expand your mind by taking in the expanse of the universe. Come view the June skies with us through one of our telescopes. Let our experienced members guide you on a tour of celestial wonders, including stars, planets, nebulae and the Moon.</description>
+    </item>
     
     <item>
       <title>Public Radio Astronomy</title>
@@ -17,17 +27,7 @@
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ycas.github.io/post/public-radio-astronomy/</guid>
-      <description>Webb First Results, Radio Astronomy, Solar Observing and Weather, and Telescope Clinic at Astronomical Society The York County Astronomical Society (YCAS) will be offering a public event at their Observatory at John Rudy County Park, 400 Mundis Race Road, York, on Saturday, July 15th, 2023, Solar and Radio Astronomy with Telescope Clinic from 11:00AM - 3:00PM, and &amp;ldquo;What to look for in your first telescope&amp;rdquo; presentation from 1:00PM - 2:00PM.</description>
-    </item>
-    
-    <item>
-      <title>Public StarWatch</title>
-      <link>https://ycas.github.io/post/public-starwatch/</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ycas.github.io/post/public-starwatch/</guid>
-      <description>The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 12th, 2023, at 8:00PM to 10:00PM to view the night sky through our telescopes.
-Expand your mind by taking in the expanse of the universe. Come view the June skies with us through one of our telescopes. Let our experienced members guide you on a tour of celestial wonders, including stars, planets, nebulae and the Moon.</description>
+      <description>Webb First Results, Radio Astronomy, Solar Observing and Weather, and Telescope Clinic at Astronomical Society The York County Astronomical Society (YCAS) will be offering a public event at their Observatory at John Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 19th, 2023, Solar and Radio Astronomy with Telescope Clinic from 11:00AM - 3:00PM, and &amp;ldquo;What to look for in your first telescope&amp;rdquo; presentation from 1:00PM - 2:00PM.</description>
     </item>
     
     <item>
@@ -114,11 +114,12 @@ The Leo Triplet of galaxies consists of three galaxies, which lie at an average 
       
       <guid>https://ycas.github.io/upcomingevents/</guid>
       <description>* 2023
-* July 15 11am to 3pm Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 * August 12 8pm to 10pm Public StarWatch at Rudy Park
 * August 19 11am to 3pm Radio Telescope, Solar Observing, and New Telescope Clinic at Rudy Park
 * September 9 8pm to 10pm Public StarWatch at Rudy Park
-* September 30 2pm to 4:00pm Childrens Planetarium Shows at York Learning Center</description>
+* September 30 2pm to 4:00pm Childrens Planetarium Shows at York Learning Center
+* September 30 7pm to 9pm Planetarium Shows at York Learning Center
+* October 14 8pm to 10pm Public StarWatch at Rudy Park</description>
     </item>
     
     <item>
