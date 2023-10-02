@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2023-08-18
+date: 2023-10-02
 image: img/M57.JPG
 linktitle: Public StarWatch
 next: /post/YLC-Planetarium-Shows/

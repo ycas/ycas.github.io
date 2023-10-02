@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2023-09-06
+date: 2023-09-26
 linktitle: YLC Planetarium Shows
 title: YLC Planetarium Shows
 weight: 100
@@ -9,12 +9,14 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 17 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium. 
 
-### Saturday September 30, 2023
+### Saturday October 21, 2023
 * 7:00PM - **Forward! To the Moon**<br>
 * 7:40PM - **StarWatch**<br>
-* 8:20PM - **Hot and Energetic Universe**<br>
+* 8:20PM - **Two Small Pieces of Glass**<br>
 
-The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
+The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. 
+
+Admission is $1.00 for every seat in celebration of the 100th anniversary of the first planetarium demonstration in Jena, Germany. Cash and most credit and debit cards are accepted. 
 
 Private show reservations are available for $40 for a 45 minute program for up to 60 people.
 
@@ -24,7 +26,7 @@ In person ticket sales start at 6:30pm the day of the show.
 ShowTix4u.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.25 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of ShowTix4u.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-[Click here to purchase online tickets](https://www.showtix4u.com/event-details/75153)
+[Click here to purchase online tickets](https://www.showtix4u.com/event-details/77261)
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
@@ -39,8 +41,8 @@ Learn how to find the planets and constellations that are visible in York's nigh
 ### Forward! To the Moon
 NASA's 21st century Artemis program, named after the Greek moon Goddess and twin of Apollo, is the next step in our mission to explore the universe and land the first woman and person of color on the surface of the Moon.
 
-### Hot and Energetic Universe
-"The Hot and Energetic Universe" presents the fascinating world of high energy astrophysics. High energy astrophysics plays a key role in understanding the universe, as these radiations reveal the processes in the hot and violent universe. High energy astrophysics probes hot gas in clusters of galaxies, which are the most massive objects in the universe. It also probes hot gas accreting around supermassive black holes in the centers of galaxies. Finally, high energy radiation provides important information about our own galaxy, neutron stars, supernova remnants and stars like our Sun which emit copious amounts of high-energy radiation. Come and learn about your hot and energetic universe!
+### Two Small Pieces of Glass
+While attending a local star party, two teenage students learn how the telescope has helped us understand our place in space and how telescopes continue to expand our understanding of the Universe.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 
