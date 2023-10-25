@@ -9,14 +9,12 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 17 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium. 
 
-### Saturday October 21, 2023
+### Saturday December 2, 2023
 * 7:00PM - **Forward! To the Moon**<br>
 * 7:40PM - **StarWatch**<br>
-* 8:20PM - **Two Small Pieces of Glass**<br>
+* 8:20PM - **Comets and Discovery**<br>
 
-The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. 
-
-Admission is $1.00 for every seat in celebration of the 100th anniversary of the first planetarium demonstration in Jena, Germany. Cash and most credit and debit cards are accepted. 
+The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
 
 Private show reservations are available for $40 for a 45 minute program for up to 60 people.
 
@@ -26,7 +24,7 @@ In person ticket sales start at 6:30pm the day of the show.
 ShowTix4u.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.25 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of ShowTix4u.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-[Click here to purchase online tickets](https://www.showtix4u.com/event-details/77261)
+[Click here to purchase online tickets](https://www.showtix4u.com/event-details/78276)
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
@@ -41,8 +39,8 @@ Learn how to find the planets and constellations that are visible in York's nigh
 ### Forward! To the Moon
 NASA's 21st century Artemis program, named after the Greek moon Goddess and twin of Apollo, is the next step in our mission to explore the universe and land the first woman and person of color on the surface of the Moon.
 
-### Two Small Pieces of Glass
-While attending a local star party, two teenage students learn how the telescope has helped us understand our place in space and how telescopes continue to expand our understanding of the Universe.
+### Comets and Discovery
+In "Comets & Discovery" we follow two intrepid comet hunters in first-person. One, a modern explorer. The other, Caroline Herschel. The famous 18th century comet huntress that ruled the skies for many generations. With both, we learn how they each searched the skies, made their discoveries, and reported them for other astronomers to bear out. We also learn about, depending on the century of the observer, what people thought comets were and their importance to them.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 
