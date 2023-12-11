@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2023-11-23
+date: 2023-12-11
 linktitle: YLC Planetarium Afternoon Shows
 title: YLC Planetarium Afternoon Shows
 weight: 100
