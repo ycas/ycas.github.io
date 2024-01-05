@@ -1,19 +1,21 @@
 ---
 author: "YCAS"
 date: 2023-12-11
-linktitle: YLC Planetarium Afternoon Shows
-title: YLC Planetarium Afternoon Shows
+linktitle: Canceled YLC Planetarium Afternoon Shows
+title: Canceled YLC Planetarium Afternoon Shows
 weight: 100
 image: img/OWOS2.jpg
 prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 18 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium. 
 
-### Saturday, January 6, 2024
+### Saturday, January 6, 2024 HAS BEEN POSTPONED DUE TO PREDICTED SNOW!
 
 * 2:00PM - **One World, One Sky: Big Bird's Adventure**<br>
 * 2:40PM - **StarWatch**<br>
 * 3:20PM - **Max Goes to the Moon**
+
+HAS BEEN POSTPONED DUE TO PREDICTED SNOW!
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
 
