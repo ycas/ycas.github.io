@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2023-12-09
+date: 2024-01-09
 image: img/jupapr3color.jpg
 linktitle: Public StarWatch
 next: /post/YLC-Planetarium-Shows/

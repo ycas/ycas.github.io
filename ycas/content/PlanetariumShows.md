@@ -36,8 +36,8 @@ What can be seen with a telescope tonight?<br>
   <tr> <th>Level</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
   <tr>
     <td>Daisey</td>
-    <td>One World, One Sky: Big Bird's Adventure</td> 
-    <td>24 min</td>
+    <td>One World, One Sky: Big Bird's Adventure, StarWatch</td> 
+    <td>45 min</td>
   </tr>
   <tr>
     <td>Brownie</td>
