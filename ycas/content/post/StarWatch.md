@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2024-02-03
+date: 2024-02-20
 image: img/orion.jpg
 linktitle: Public StarWatch
 next: /post/YLC-Planetarium-Shows/
