@@ -1,25 +1,17 @@
 ---
 author: "YCAS"
-date: 2026-11-06
-image: img/Dippers.jpg
-linktitle: Black Locust Hops Farm and Brewery
-title: Star Party Fundraiser
+date: 2024-02-01
+image: img/SolarEclipse.jpg
+linktitle: Solar Eclipse
+title: Solar Eclipse
 weight: 100
 ---
-The York County Astronomical Society (YCAS) will have a fundraiser for YCAS at [Black Locust Hops Farm and Brewery](https://www.blacklocusthops.com/) November 20 at 4:30pm to 8pm.
+The York County Astronomical Society (YCAS) will be offering a public Solar Eclipse Watch at their Observatory at John Rudy Park, 400 Mundis Race Road, York, on Monday, April 8, 2-4:30 p.m.<br><br>
 
-FAMILY FRIENDLY EVENT: The York County Astronomical Society will be on the farm with telescopes, a wealth of information, and love for sharing the wonders of the heavens!  
+Safe methods of viewing the partial solar eclipse will be made available along with explanations of what is being viewed by experienced YCAS members.
 
-Admission is free, however, donation to YCAS support their mission to make stargazing accessible to ALL!  
+The event is free and open to the public, although your generous donation will help us to continue to bring astronomical events to the York County area.
 
-There will be a Food 2 Go food truck on site.
-
-From 4:30pm-5:30pm there is a social event in the taproom. Farm fresh beer pouring while you grab some grub and meet and greet members of YCAS and learn about the club's mission, and the wonders of the heavens.
-
-From 5:30pm-8pm grab your blankets, chairs and beers and head out to the field to enjoy the night sky.
-
-Telescopes and Guides on site. Novice stargazers and astronomy enthusiasts alike will enjoy an evening of celestial wonders.
-
-Persons under 21 must remain in the family friendly area AND under a parent or guardian's supervision at all times!  
+The event will be held as long as the skies are sufficiently clear to view the sun.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

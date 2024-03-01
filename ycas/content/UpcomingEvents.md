@@ -14,6 +14,7 @@ weight = 100
 * **March 9 8pm to 10pm** Public StarWatch at Rudy Park<br>
 * **March 16 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center<br>
 * **March 16 7pm to 9pm** Planetarium Shows at York Learning Center<br>
+* **April 8 2pm to 4:30pm** Solar Eclipse at Rudy Park<br>
 * **April 13 8pm to 10pm** Public StarWatch at Rudy Park<br>
 * **April 20 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center<br>
 * **April 20 7pm to 9pm** Planetarium Shows at York Learning Center<br>
