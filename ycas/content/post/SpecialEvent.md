@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2024-03-01
+date: 2024-03-18
 image: img/SolarEclipse.jpg
 linktitle: Solar Eclipse
 title: Solar Eclipse
