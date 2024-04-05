@@ -10,6 +10,8 @@ The York County Astronomical Society (YCAS) will be offering a public Solar Ecli
 
 Safe methods of viewing the partial solar eclipse will be made available along with explanations of what is being viewed by experienced YCAS members.
 
+No reservations are required. Bring a chair or blanket to sit on. There are a limited number of solar eclipse glasses available. We are not handing them out before the event and do not have volunteers available to provide glasses before the event.
+
 The event is free and open to the public, although your generous donation will help us to continue to bring astronomical events to the York County area.
 
 The event will be held as long as the skies are sufficiently clear to view the sun.
