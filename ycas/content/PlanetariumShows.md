@@ -8,11 +8,13 @@ weight = 100
 
 +++
 <H3>Private Show Reservation Information</H3>
-<p>The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can schedule during school hours Monday through Friday. The cost of a 45 minute program is $40, an additional hour is $30 ($70 total). There are some shows with a surcharge of $32 because they are streamed from a vendor. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card. The money raised from these programs goes towards the cost of using the planetarium and developing other astronomy programs for the community. Groups are encouraged to join together to fill the planetarium with other scouts or family members. Write to <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> for more information or to make a reservation.
+<p>The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can not schedule during school hours Monday through Friday to protects the school children from Covid.<p>
 
-The planetarium is not available during school hours to protects the school children from Covid.
+The cost of a 45 minute program is $40, an additional hour is $30 ($70 total). There are some shows with a surcharge of $32 because they are streamed from a vendor. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card.<p> 
 
-The planetarium is closed May 15th to September 1st for summer school cleaning.
+The money raised from these programs goes towards the cost of using the planetarium and developing other astronomy programs for the community. Groups are encouraged to join together to fill the planetarium with other scouts or family members. Write to <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> for more information or to make a reservation.
+
+<h5>The planetarium is closed May 25th to September 1st for summer school cleaning.</H5>
 
 Groups using the planetarium during school hours are required to provide a list of the names of everyone attending. This list can be emailed the day of the reservation.
 

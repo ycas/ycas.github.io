@@ -6,44 +6,44 @@
     <description>Recent content in York County Astronomical Society on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ycas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Public StarWatch</title>
+      <link>https://ycas.github.io/post/public-starwatch/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ycas.github.io/post/public-starwatch/</guid>
+      <description>The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John Rudy County Park, 400 Mundis Race Road, York, on Saturday, May 11th, 2024, at 8:00PM to 10:00PM to view the night sky through our telescopes.
+Expand your mind by taking in the expanse of the universe. Come view the evening sky with us through one of our telescopes. Let our experienced members guide you on a tour of celestial wonders, including stars, planets, and nebulae.</description>
+    </item>
+    
+    <item>
       <title>YLC Planetarium Afternoon Shows</title>
       <link>https://ycas.github.io/post/ylc-planetarium-afternoon-shows/</link>
-      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ycas.github.io/post/ylc-planetarium-afternoon-shows/</guid>
       <description>The York County Astronomical Society, celebrating 18 years offering planetarium programs to the public, now offering Saturday evening programs for older family members at the York Learning Center Planetarium.
-Saturday, April 20, 2024  2:00PM - One World, One Sky: Big Bird&amp;rsquo;s Adventure
+Saturday, May 18, 2024  2:00PM - One World, One Sky: Big Bird&amp;rsquo;s Adventure
  2:40PM - StarWatch
- 3:20PM - Max Goes to the Moon  The planetarium is located in the York Learning Center at 301 East 6th Avenue, York PA.</description>
+ 3:20PM - Rusty Rocket&amp;rsquo;s Last Blast  The planetarium is located in the York Learning Center at 301 East 6th Avenue, York PA.</description>
     </item>
     
     <item>
       <title>YLC Planetarium Shows</title>
       <link>https://ycas.github.io/post/ylc-planetarium-shows/</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ycas.github.io/post/ylc-planetarium-shows/</guid>
       <description>The York County Astronomical Society, celebrating 18 years offering planetarium programs to the public at the York Learning Center Planetarium.
-Saturday April 20, 2024  7:00PM - Forward! To the Moon
+Saturday May 18, 2024  7:00PM - From Earth to the Universe
  7:40PM - StarWatch
- 8:20PM - Two Small Pieces of Glass
+ 8:20PM - Hot and Energetic Universe
   The planetarium is located in the York Learning Center at 301 East 6th Avenue, York PA. Admission is $4.00 for adults, $3.00 for children and seniors.</description>
-    </item>
-    
-    <item>
-      <title>Public StarWatch</title>
-      <link>https://ycas.github.io/post/public-starwatch/</link>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://ycas.github.io/post/public-starwatch/</guid>
-      <description>The York County Astronomical Society (YCAS) will host a Public Starwatch event at their Observatory at John Rudy County Park, 400 Mundis Race Road, York, on Saturday, May 11th, 2024, at 8:00PM to 10:00PM to view the night sky through our telescopes.
-Expand your mind by taking in the expanse of the universe. Come view the evening sky with us through one of our telescopes. Let our experienced members guide you on a tour of celestial wonders, including stars, planets, and nebulae.</description>
     </item>
     
     <item>
@@ -118,12 +118,12 @@ The Leo Triplet of galaxies consists of three galaxies, which lie at an average 
       
       <guid>https://ycas.github.io/upcomingevents/</guid>
       <description>* 2024
-* April 20 7pm to 9pm Planetarium Shows at York Learning Center
 * May 11 8pm to 10pm Public StarWatch at Rudy Park
 * May 18 2pm to 4:00pm Childrens Planetarium Shows at York Learning Center
 * May 18 7pm to 9pm Planetarium Shows at York Learning Center
 * June 8 8pm to 10pm Public StarWatch at Rudy Park
-* July 13 8pm to 10pm Public StarWatch at Rudy Park</description>
+* July 13 8pm to 10pm Public StarWatch at Rudy Park
+* August 10 8pm to 10pm Public StarWatch at Rudy Park</description>
     </item>
     
     <item>
@@ -151,7 +151,8 @@ Pennsylvania, Maryland, Delaware, Virginia Astronomical Clubs   AELC - Astronomy
       <pubDate>Sat, 04 Aug 2018 13:33:00 +0000</pubDate>
       
       <guid>https://ycas.github.io/planetariumshows/</guid>
-      <description>Private Show Reservation Information The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can schedule during school hours Monday through Friday. The cost of a 45 minute program is $40, an additional hour is $30 ($70 total). There are some shows with a surcharge of $32 because they are streamed from a vendor. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card.</description>
+      <description>Private Show Reservation Information The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can not schedule during school hours Monday through Friday to protects the school children from Covid.
+The cost of a 45 minute program is $40, an additional hour is $30 ($70 total). There are some shows with a surcharge of $32 because they are streamed from a vendor. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card.</description>
     </item>
     
   </channel>
