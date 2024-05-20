@@ -1,8 +1,8 @@
 ---
 author: "YCAS"
-date: 2024-04-08
-linktitle: Public Radio Astronomy
-title: Public Radio Astronomy
+date: 2024-05-18
+linktitle: Public Radio and Solar Astronomy
+title: Public Radio and Solar Astronomy
 weight: 100
 image: img/Sun.jpg
 prev: /post/public-starwatch/

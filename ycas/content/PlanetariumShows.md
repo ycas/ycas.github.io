@@ -19,6 +19,9 @@ The money raised from these programs goes towards the cost of using the planetar
 Groups using the planetarium during school hours are required to provide a list of the names of everyone attending. This list can be emailed the day of the reservation.
 
 There is no longer a room available for groups to eat lunch.
+
+![Planetarium Map](../../img/YLCParking.png "York Learning Center Planetarium")
+
 </p>
 <H1>Live programs</H1>
 <H4>StarWatch</H4>
