@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2024-08-16
+date: 2026-08-16
 linktitle: Public Radio and Solar Astronomy
 title: Public Radio and Solar Astronomy
 weight: 100
