@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2024-08-10
+date: 2024-09-06
 linktitle: YLC Planetarium Shows
 title: YLC Planetarium Shows
 weight: 100
@@ -12,7 +12,7 @@ The York County Astronomical Society, celebrating 18 years offering planetarium 
 ### Saturday September 7, 2024 
 * 7:00PM - **Forward! To the Moon**<br>
 * 7:40PM - **StarWatch**<br>
-* 8:20PM - **The Sun, Our Living Star**<br>
+* 8:20PM - **Comets and Discovery**<br>
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
 
@@ -21,10 +21,10 @@ Private show reservations are available for $40 for a 45 minute program for up t
 In person ticket sales start at 6:30pm the day of the show. We reserve the right to ask any disruptive persons to leave the Planetarium.
 
 **Online ticket sales are available**
-ShowTix4u.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.25 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of ShowTix4u.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
+Cur8.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.25 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of Cur8.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-**[Click here to purchase online tickets](https://www.showtix4u.com/event-details/84760)**
+**[Click here to purchase online tickets](https://cur8.com/17107/projects/125656)**
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
@@ -39,8 +39,8 @@ Learn how to find the planets and constellations that are visible in York's nigh
 ### Forward! To the Moon
 NASA's 21st century Artemis program, named after the Greek moon Goddess and twin of Apollo, is the next step in our mission to explore the universe and land the first woman and person of color on the surface of the Moon.
 
-### The Sun, Our Living Star
-The Sun has shone on our world for four and a half billion years. The light that warms our skin today has been felt by every person who has ever lived. It is our nearest star and our planet's powerhouse, the source of the energy that drives our winds, our weather and all life.
+### Comets & Discovery
+In "Comets & Discovery" we follow two intrepid comet hunters in first-person. One, a modern explorer. The other, Caroline Herschel. The famous 18th century comet huntress that ruled the skies for many generations. With both, we learn how they each searched the skies, made their discoveries, and reported them for other astronomers to bear out. We also learn about, depending on the century of the observer, what people thought comets were and their importance to them.
 
 The passage of the Sun's fiery disc across the sky - day by day, month by month - was the only way to keep track of time for countless past civilizations. Don't be fooled by the terminology; although it is a typical dwarf star, the Sun consumes 600 million tons of hydrogen each second and is 500 times as massive as all the planets combined.
 
