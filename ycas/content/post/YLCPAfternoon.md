@@ -28,7 +28,7 @@ In person ticket sales start at 9:30am and 1:30pm the day of the show.
 Cur8.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.25 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of Cur8.com, ticket purchases are for the 10am and 10:30am, or 2pm, 2:40pm, and 3:20pm groups of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-**[Click here to purchase morning online tickets](https://cur8.com/17107/projects/84758)**<br>
+**[Click here to purchase morning online tickets](https://cur8.com/17107/project/84758)**<br>
 **[Click here to purchase afternoon online tickets](https://cur8.com/17107/project/125666)**<br>
 You do not need to print the tickets, just present photo identification.
 
