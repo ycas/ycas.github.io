@@ -29,7 +29,7 @@ Cur8.com is hosting a ticket sales site for our programs until 2 hours before sh
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
 **[Click here to purchase morning online tickets](https://cur8.com/17107/project/84758)**<br>
-**[Click here to purchase afternoon online tickets](https://cur8.com/17107/project/125666)**<br>
+**[Click here to purchase afternoon online tickets](https://cur8.com/17107/project/126453)**<br>
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
