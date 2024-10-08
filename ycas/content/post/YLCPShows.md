@@ -9,7 +9,7 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 18 years offering planetarium programs to the public, now offering Saturday morning, afternoon, and evening programs at the York Learning Center Planetarium. 
 
-### Saturday September 7, 2024 
+### Saturday November 2, 2024 
 * 7:00PM - **Forward! To the Moon**<br>
 * 7:40PM - **StarWatch**<br>
 * 8:20PM - **Comets and Discovery**<br>

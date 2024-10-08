@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2024-09-05
+date: 2024-10-05
 image: img/CometC2023A3.png
 linktitle: Public StarWatch
 next: /post/YLC-Planetarium-Shows/
