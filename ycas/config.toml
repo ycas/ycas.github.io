@@ -6,7 +6,7 @@ paginate = 6
 encoding="UTF-8"
 
 [params]
-    title = "York County Astronomical Society"
+    title = ""
 
     author = "EM"
     authorAvatar = "img/ghost-icon.png"
