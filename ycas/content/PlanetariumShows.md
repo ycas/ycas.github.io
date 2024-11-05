@@ -238,6 +238,17 @@ The night sky, both beautiful and mysterious, has been the subject of campfire s
 </table>
 "The Hot and Energetic Universe" presents the fascinating world of high energy astrophysics. High energy astrophysics plays a key role in understanding the universe, as these radiations reveal the processes in the hot and violent universe. High energy astrophysics probes hot gas in clusters of galaxies, which are the most massive objects in the universe. It also probes hot gas accreting around supermassive black holes in the centers of galaxies. Finally, high energy radiation provides important information about our own galaxy, neutron stars, supernova remnants and stars like our Sun which emit copious amounts of high-energy radiation. Come and learn about your hot and energetic universe!
 
+**Mars: The Ultimate Voyage**
+<table style="width:95%">
+  <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
+  <tr>
+    <td>space exploration</td>
+    <td>grades 4-8</td> 
+    <td>26 min</td>
+  </tr>
+</table>
+On a 2 year journey across space, how will astronauts stay motivated?  How will they stay healthy?  What challenges will they face along the way? Dive into these questions while finding out what the first journey to Mars might look like - and how creativity, communication, and collaboration come together to ensure safe, deep space travel.
+
 **Max Goes to the Moon**
 <table style="width:95%">
   <tr> <th>TOPIC</th> <th>AUDIENCE</th>  <th>LENGTH</th>  </tr>
