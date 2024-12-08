@@ -1,18 +1,18 @@
 ---
 author: "YCAS"
-date: 2024-11-09
+date: 2024-12-06
 linktitle: YLC Planetarium Shows
 title: YLC Planetarium Shows
 weight: 100
 image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
 ---
-The York County Astronomical Society, celebrating 18 years offering planetarium programs to the public, now offering Saturday morning, afternoon, and evening programs at the York Learning Center Planetarium. 
+The York County Astronomical Society, celebrating 19 years offering planetarium programs to the public, now offering Saturday morning, afternoon, and evening programs at the York Learning Center Planetarium. 
 
-### Saturday December 7, 2024 
-* 7:00PM - **Forward! To the Moon**<br>
+### Saturday January 25, 2025 
+* 7:00PM - **A Part of the Sky Called Orion**<br>
 * 7:40PM - **StarWatch**<br>
-* 8:20PM - **Two Small Pieces Of Glass**<br>
+* 8:20PM - **Skywatchers of Africa**<br>
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
 
@@ -24,7 +24,7 @@ In person ticket sales start at 6:30pm the day of the show. We reserve the right
 Cur8.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.25 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of Cur8.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-**[Click here to purchase online tickets](https://cur8.com/17107/project/127371)**
+**[Click here to purchase online tickets](https://cur8.com/17107/project/128225)**
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
@@ -36,11 +36,12 @@ Learn how to find the planets and constellations that are visible in York's nigh
 * What are the names of the brightest stars?<br>
 * Why does Jupiter have different colored clouds?<br>
 
-### Forward! To the Moon
-NASA's 21st century Artemis program, named after the Greek moon Goddess and twin of Apollo, is the next step in our mission to explore the universe and land the first woman and person of color on the surface of the Moon.
+### A Part of the Sky Called Orion
+A fantastic sky lore program covering the Greek, Egyptian, and Inupiaq cultures. We learn how each of these rich cultures viewed the same stars, but had different stories and images. Told in first-person in the context of the teller's life, we experience their ancient star lore and imagery. This show is best for 2nd grade and above, but even younger ones will enjoy the storytelling imagery and theme. This is storytelling at its best. A wonderful blend of imagery, music, and word; it's a treat for all.
 
-### Two Small Pieces Of Glass
-While attending a local star party, two teenage students learn how the telescope has helped us understand our place in space and how telescopes continue to expand our understanding of the Universe.
+### Skywatchers of Africa
+For thousands of years, Africans have used their knowledge of the sky to build their societies, shape their spiritual lives, and meet their physical needs for survival.
+Skywatchers of Africa highlights the diversity of African astronomy, examines cultural uses of the sky that developed throughout history, and celebrates our shared human experience.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 
