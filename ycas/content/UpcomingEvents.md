@@ -10,8 +10,6 @@ weight = 100
 
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
-<br>* **2024**<br>
-* **December 14 7pm to 9pm** Public StarWatch at Rudy Park<br>
 <br>* **2025**<br>
 * **January 11 7pm to 9pm** Public StarWatch at Rudy Park<br>
 * **January 25 2pm to 4:00pm** Childrens Planetarium Shows at York Learning Center<br>
