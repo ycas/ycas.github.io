@@ -68,7 +68,7 @@ Sky: Bortle 5/6
 Planetarium: Cartes du Ciel
 
 
-YCAS member Julie Russell is new to astrophotography and has some excellent success with her SeeStar 50 telescope, stacking the (about) 4 hours of images with Siril software and using Starnet to separate the stars. Processed with Siril and Graxpert and combined in Photoshop Elements.
+YCAS member Julie is new to astrophotography and has some excellent success with her SeeStar 50 telescope, stacking the (about) 4 hours of images with Siril software and using Starnet to separate the stars. Processed with Siril and Graxpert and combined in Photoshop Elements.
 ![YCAS Logo](../img/JR/EasternVeilNebulaHaze.jpg "Eastern Veil")
 
 ![YCAS Logo](../img/JR/M27AppleCoreNebula.jpg "M27 Apple Core")
