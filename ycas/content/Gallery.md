@@ -66,3 +66,14 @@ Dark frames: 30
 Bias frames: 50
 Sky: Bortle 5/6
 Planetarium: Cartes du Ciel
+
+
+YCAS member Julie Russell is new to astrophotography and has some excellent success with her SeeStar 50 telescope, stacking the (about) 4 hours of images with Siril software and using Starnet to separate the stars. Processed with Siril and Graxpert and combined in Photoshop Elements.
+![YCAS Logo](../img/JR/EasternVeilNebulaHaze.jpg "Eastern Veil")
+
+![YCAS Logo](../img/JR/M27AppleCoreNebula.jpg "M27 Apple Core")
+
+![YCAS Logo](../img/JR/NGC281PacmanNebulaCombined.jpg "NGC 281 Pacman Nebula")
+
+Julie processed the Crab Nebula in Pixinsight, BlurXT and Graxpert, using Starnet for star removal and combined in Photoshop.
+![YCAS Logo](../img/JR/M1CrabNebula3h30min.jpg "M1 Crab Nebula")
