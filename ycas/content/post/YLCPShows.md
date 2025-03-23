@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2025-03-07
+date: 2025-03-21
 linktitle: YLC Planetarium Shows
 title: YLC Planetarium Shows
 weight: 100
@@ -9,7 +9,7 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 19 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
 
-### Saturday March 22, 2025 
+### Saturday April 26, 2025 
 * 7:00PM - **Chasing the Ghost Particle**<br>
 * 7:40PM - **StarWatch**<br>
 * 8:20PM - **Cosmic Castaways**<br>
