@@ -12,7 +12,8 @@
     <link rel="shortcut icon" href="//www.astroyork.com/favicon.ico" />
     <link rel="canonical" href="{{ .Permalink }}" />
 
-    {{ if .IsPage }} <meta name="description" content="{{ .Description | default (substr .Summary 0 160) }}" /> {{ else }}
+    {{ if .IsPage }}
+    <meta name="description" content="{{ .Description | default (substr .Summary 0 160) }}" /> {{ else }}
     <meta name="description" content="{{ .Site.Params.metadescription | default .Site.Params.description }}" /> {{ end }}
 
     {{ partial "meta-twitter" . }}
@@ -21,13 +22,26 @@
     {{ .Hugo.Generator }}
 
     {{ "<!-- Stylesheets -->" | safeHTML }}
-    <link rel="stylesheet" type="text/css" href="//www.astroyork.com/built/screen.css" /> 
-    <link rel="stylesheet" type="text/css" href="//www.astroyork.com/css/casper-two.css" /> 
+    <link rel="stylesheet" type="text/css" href="//www.astroyork.com/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="//www.astroyork.com/css/casper-two.css" />
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-    {{ range .Site.Params.customCSS }} <link rel="stylesheet" href="{{ . | absURL }}" /> {{ end }}
+    {{ range .Site.Params.customCSS }}
+    <link rel="stylesheet" href="{{ . | absURL }}" /> {{ end }}
 
-    {{ if .Site.Params.RSSLink}}<link href="{{.Site.Params.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" /> {{else}}{{ if eq .URL "/" }}<link href="{{ "index.xml" | absURL}}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" /> {{ end }} {{ end }}
+    {{ if .Site.Params.RSSLink}}
+    <link href="{{.Site.Params.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" /> {{else}}{{ if eq .URL "/" }}
+    <link href="{{ "index.xml" | absURL}}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" /> {{ end }} {{ end }}
 
 </head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-REX672Y7QN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-REX672Y7QN');
+</script>
