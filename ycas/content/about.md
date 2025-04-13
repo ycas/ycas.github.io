@@ -27,7 +27,7 @@ The Society owns 5 optical telescopes:
 * A 4.5" Newtonian Telescope
 * A 4" Astro-Physics Refractor Telescope
 
-The Society also owns a 15' radio dish antenna for radio astronomy, and associated electronic recording equipment, which will be developed and installed with the help of the York College of PA Engineering Department started in the fall of 2018!
+The Society also owns a 10' radio dish antenna for radio astronomy, and associated electronic recording equipment, which will be developed and installed with the help of the York College of PA Engineering Department started in the fall of 2018!
 
 ## Contact YCAS
 For more information on events, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
