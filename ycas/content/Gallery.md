@@ -9,7 +9,11 @@ weight = 35
 +++
 
 ## 
-![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
+![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")<br>
+YCAS member Adam Love provided this image of an emmission nebula in Cassiopeia.
+![YCAS Logo](../img/AL/IC1805.png "Heart Nebula")
+The picture of the Heart Nebula (IC1805) was taken between Dec 24 and Jan 25. Comprising six nights of imagining. Adam used the GTI71 with the ASI 2600MC Astrophotography Camera. Utilizing narrowband filters, Adam captured about 9.5 hours using the Askar D1 (HaOiii) filter and about 9.5 hours using the Asker D2 (S2Oiii) filter. The images were stacked and processed using Pixinsight using the Hubble SHO Pallet.
+<br><br><br>
 YCAS member Lydell Nunn has taken some excellent pictures of deep sky objects. 
 
 ![YCAS Logo](../img/LN/Leo3.jpg "Leo Triplet")
