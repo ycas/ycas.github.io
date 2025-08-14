@@ -1,0 +1,46 @@
+<style>
+
+    table {
+        width: 100%; /* Makes the table span the full width of its container */
+        border-collapse: collapse; /* Removes the default spacing between table cells */
+    }
+
+    /* Styles for the column containing the text */
+    .text-column {
+        display: flex; /* Makes the text column a flex container */
+        flex-direction: column; /* Stacks the text rows vertically */
+        justify-content: space-around; /* Distributes the text rows evenly within the column */
+        height: 100%; /*  Ensures the text column expands to match the height of the image column */
+        font-family: Tahoma;
+    }
+
+    .text-desc-row {
+        word-break: break-word;
+        overflow-x: auto;
+        white-space: normal;
+    }
+
+    .title-row {
+        font-size: x-large; /* Makes the title larger */
+        font-weight: bold; /* Makes the title bold */
+        padding: 1px; /* Provides a small amount of spacing around the text within each row */
+    }
+
+    /* Styles for individual text rows */
+    .text-row {
+        /* Add any additional styling for your text rows here, e.g., font-size, padding, etc. */
+        padding: 1px; /* Provides a small amount of spacing around the text within each row */
+    }
+</style>
+
+<table id="{{ .Get "id"}}">
+    <tr>
+        <td class="text-column">
+            <div class="title-row">{{ .Get "title" }}</div>
+            <div class="text-row">Topic: {{ .Get "topic" }}</div>
+            <div class="text-row">Audience: {{ .Get "audience" }}</div>
+            <div class="text-row">Length: {{ .Get "length" }}</div>
+            <div class="text-desc-row">{{ .Get "desc"}}</div>
+        </td>
+    </tr>
+</table>
