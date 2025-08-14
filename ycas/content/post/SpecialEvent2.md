@@ -1,26 +1,38 @@
 ---
 author: "YCAS"
-date: 2024-03-25
-image: img/RT.png
-linktitle: Radio Telescope
+date: 2025-08-25
+image: img/LaserPromo.jpg
+linktitle: Laser Shows
 next: /post/YLC-Planetarium-Shows/
-title: Radio Telescope
+title: Laser Shows
 weight: 100
 ---
-THE YCAS OBSERVATORY A 3.5 METER RADIO TELESCOPE IS HERE!
 
-We have first light.
+The York County Astronomical Society, celebrating 19 years offering planetarium programs to the public, now offering laser shows for a limited time at the York Learning Center Planetarium.
 
-This next year is going to be exciting for YCAS as we unveil our 3.5 meter radio telescope. It has been a six year project in the making collaborating with with the York County Parks, York College of Pennsylvania and the York County Astronomical Society (YCAS). 
+![Planetarium Map](../../img/YLCParking.png "York Learning Center Planetarium")
+The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. 
 
-The radio telescope will be totally automated, fully steerable, tracking and web accessible instrument. It will have the capability to observe any celestial object within its specification and geographical location. 
+Admission is $15.00 for each person. Cash and most credit and debit cards are accepted. Online ticket sales are available on our Cur8.com page. The site charges a non-refundable fee of about $1.60 per ticket and you are able to reserve a seat in the planetarium.
 
-Examples of observable objects will include the Sun, Moon, our Milky Way galaxy and several strong radio sources including pulsars. The receiving equipment is designed to perform both continuum and spectral observations of hydrogen and will reside in an environmentally stabilized and electromagnetically shielded control room with computer equipment and weather station. 
+Private show reservations are available for $250 for a 55 minute program for up to 60 people, however, we recommend limiting to 36 people for the best views.
 
-This will be a great opportunity to explore the mysteries of the universe and learn about this unique science of astronomy. 
+In person ticket sales start 30 minutes before showtime the day of the show. 
+<a id="top"></a>
 
-We are still in need of funding for this project. If you would like to financially support us, please earmark your contributions to the "YCAS Radio Telescope Project."  We are a non-profit organization and your contribution is tax deductible.
-
-More information on this and other programs is available from York County Department of Parks and Recreation at (717) 840-7440 or [www.yorkcountyparks.org](https://www.yorkcountyparks.org).
+### Friday, October 17, 2025 
+<a id="20251017"></a>
+<div  padding=0px>
+<div>
+{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2023/01/Laser-Taylor-Swift-Poster-Med-300x300.jpg" alt="Laser Taylor Swift" title="Laser Tylor Swift (version 1)" time="7:00PM" tickets="https://cur8.com/17107/project/133409" info="../../laser/#TS">}}
+</div>
+<div>
+{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/LaserQueen1-300x300.jpg" alt="Laser Queen" title="Laser Queen" time="8:15PM" tickets="https://cur8.com/17107/project/133409" info="../../laser/#Queen">}}
+</div>
+<div>
+{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/09/DSoM_771x771-1-300x300.webp" alt="Laser Pink Floyd: Dark Side of the Moon (2003)" title="Laser Pink Floyd: Dark Side of the Moon (2003)" time="9:30PM" tickets="https://cur8.com/17107/project/133409" info="../../laser/#Pfdsom03">}}
+</div>
+</div>
+    <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
 
 For more information on YCAS events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)

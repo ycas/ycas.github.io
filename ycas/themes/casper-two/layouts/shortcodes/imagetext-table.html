@@ -1,0 +1,58 @@
+<style>
+
+    table {
+        width: 100%; /* Makes the table span the full width of its container */
+        border-collapse: collapse; /* Removes the default spacing between table cells */
+    }
+
+    /* Style for the column containing the image */
+    .image-column {
+        vertical-align: top; /* Align image to the top of its cell */
+    }
+
+        .image-column img {
+            display: block; /* Ensures the image behaves as a block element, removing any extra whitespace */
+            width: auto; /*  Keeps the image's original width or scales it proportionally */
+            height: 100%; /* Stretches the image to fill the entire height of its containing cell */
+        }
+
+    /* Styles for the column containing the text */
+    .text-column {
+        display: flex; /* Makes the text column a flex container */
+        flex-direction: column; /* Stacks the text rows vertically */
+        justify-content: space-around; /* Distributes the text rows evenly within the column */
+        height: 100%; /*  Ensures the text column expands to match the height of the image column */
+    }
+    .text-desc-row {
+        word-break: break-word;
+        overflow-x: auto;
+        white-space:normal;
+    }
+
+    /* Styles for individual text rows */
+    .text-row {
+        /* Add any additional styling for your text rows here, e.g., font-size, padding, etc. */
+        padding: 1px; /* Provides a small amount of spacing around the text within each row */
+    }
+</style>
+
+<table id="{{ .Get "id"}}">
+    <tr>
+        <td class="image-column">
+            <img src="{{ .Get "image" }}" alt="{{ .Get "alt" }}">
+        </td>
+        <td class="text-column">
+            <div class="text-row"><H4>{{ .Get "text1" }}</H4></div>
+            <div class="text-desc-row">{{ .Get "desc"}}</div>
+            <div class="text-row">Length: {{ .Get "text2" }}&nbsp&nbsp&nbsp&nbsp   Release Year: {{ .Get "text3" }}&nbsp&nbsp&nbsp&nbspGenre(s): {{ .Get "text4" }} </div>
+            <div class="text-row">Set List:</div>
+            <div class="text-row">
+                <ul>
+                    {{ range (split (.Get "list") ",") }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
