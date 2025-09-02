@@ -24,7 +24,7 @@ In person ticket sales start 30 minutes before showtime the day of the show.
 <a id="top"></a><br>
 <table>Dates
 <tr> <td><a href="#20251017">October 17</a</td><td><a href="#20251018">October 18</a</td><td><a href="#20251019">October 19</a</td></tr>
-<tr> <td><a href="#20251024">October 24</a</td><td><a href="#20251025">October 25</a</td><td><a href="#2025102">October 26</a</td></tr>
+<tr> <td><a href="#20251024">October 24</a</td><td><a href="#20251025">October 25</a</td><td><a href="#20251026">October 26</a</td></tr>
 <tr> <td><a href="#20251031">October 31</a</td><td><a href="#20251101">November 1</a</td><td><a href="#20251102">November 2</a</td></tr>
 <tr> <td><a href="#20251107">November 7</a</td><td><a href="#20251108">November 8</a</td><td><a href="#20251109">November 9</a</td></tr>
 <tr> <td><a href="#20251114">November 14</a</td><td><a href="#20251115">November 15</a</td><td><a href="#20251116">November 16</a</td></tr>
