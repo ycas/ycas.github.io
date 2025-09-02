@@ -15,7 +15,7 @@
 
         .laser-image-column img {
             display: block; /* Ensures the image behaves as a block element, removing any extra whitespace */
-            width: 80px; /*  Keeps the image's original width or scales it proportionally */
+            width: 180px; /*  Keeps the image's original width or scales it proportionally */
             height: auto; /* Stretches the image to fill the entire height of its containing cell */
         }
 
@@ -38,7 +38,7 @@
         </td>
         <td class="laser-text-column">
             <div class="laser-text-row"><H4>{{ .Get "title" }}</H4></div>
-            <div class="laser-text-row">Showtime: {{ .Get "time"}}&nbsp&nbsp<a href="{{ .Get "tickets" }}">Buy Tickets Online</a> &nbsp&nbsp<a href="{{ .Get "info"}}">More Information</div>
+            <div class="laser-text-row">Showtime: {{ .Get "time"}}<br /><a href="{{ .Get "tickets" }}">Buy Tickets Online</a><br /><a href="{{ .Get "info"}}">More Information</div>
         </td>
     </tr>
 </table>

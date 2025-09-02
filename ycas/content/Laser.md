@@ -10,11 +10,13 @@ weight = 100
 <H3>Private Show Reservation Information</H3>
 <p>
 The planetarium seats 60 people. Due to the nature of the shows, we recommend a maximum of 36 people per show.
+Note: Laser shows use flashing lights and rapidly changing images, which may affect photosensitive viewers. Viewer discretion is advised.
+Filming and live streaming laser shows is prohibited.
 
 Cost is $250 for a private show, which includes a 55-minute laser show and a 10-minute Q&A session with the laser operator.
 
 Laser shows are available for a limited time, so please reserve your private show as soon as possible. Private programs can be reserved on our Cur8.com page. 
-<br>**[Click here to reserve a private show.](https://cur8.com/17107/project/132690)**<br>
+<br>**[Click here to reserve a private show.](https://cur8.com/17107/project/133408)**<br>
 <a href='https://cur8.com/projects/17107' alt='Buy tickets at cur8' target='_blank' rel='noopener'><img src='https://d37q8qd8th5h3w.cloudfront.net/static/images/banners/halfBanner-light.jpg' alt='cur8 banner' /></a>
 
 You do not need to print the tickets, just present photo identification.
@@ -242,7 +244,7 @@ Below is a list of our current laser shows.
     id="ABBA" text1="Laser ABBA" 
     desc="Laser ABBA is high-energy fun, featuring vibrant laser projections set to the iconic music of the Swedish supergroup ABBA. Experience timeless hits like 'Dancing Queen,' 'Mamma Mia,' and 'SOS' in a kaleidoscope of color and light. Get ready to sing along and groove to the infectious beats of this mesmerizing reimagining ABBA's catchy classics." 
     text2="54 minutes" text3="2025" text4="Family,Pop" 
-    list="SuperTrooper,Take a Chance On Me,SOS,Fernando,Hey, Hey Helen,Voulez-Vous,Winner Takes It All,Money, Money, Money,Lay All Your Love On Me,Chiquita,Mamma Mia,Dancing Queen,Waterloo,Gimme! Gimme! Gimme!" >}}
+    list="SuperTrooper,Take a Chance On Me,SOS,Fernando,Hey, Hey Helen,Voulez-Vous,Winner Takes It All,Money Money Money,Lay All Your Love On Me,Chiquita,Mamma Mia,Dancing Queen,Waterloo,Gimme! Gimme! Gimme!" >}}
     <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
 </div>
 <div data-genre="b">
