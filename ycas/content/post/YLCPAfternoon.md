@@ -9,7 +9,7 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 19 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
 
-### Saturday, September 6, 2025 
+### Saturday, October 4, 2025 
 
 * 2:00PM - **One World, One Sky: Big Bird's Adventure (pre-K to 1st grade)**<br>
 * 2:40PM - **StarWatch**<br>

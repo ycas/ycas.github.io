@@ -164,7 +164,7 @@ Bring your telescope and all the items that came with it (including batteries, i
 </div>
 
 <div> 
-    {{< show-table title="Big Astronomy" id="big" topic="Observatories, space science" audience="general audiences, grades 7+" length="45 minutes" desc="This program will transport viewers to Chile where the dark skies and dry, remote setting create ideal conditions for observing the Universe. Journey to three world-class observatories in Chile’s rugged Andes Mountains and arid Atacama Desert— remote, extreme regions that happen to have the perfect conditions for astronomical research." >}} <p style="text-align:right;">
+    {{< show-table title="Big Astronomy" id="big" topic="Observatories, space science" audience="general audiences, grades 7+" length="28 minutes" desc="This program will transport viewers to Chile where the dark skies and dry, remote setting create ideal conditions for observing the Universe. Journey to three world-class observatories in Chile's rugged Andes Mountains and arid Atacama Desert- remote, extreme regions that happen to have the perfect conditions for astronomical research." >}} <p style="text-align:right;">
     <a href="#top">Back to Top</a> </p> 
 </div>
 

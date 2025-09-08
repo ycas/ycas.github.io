@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2025-08-25
+date: 2025-09-08
 image: img/LaserPromo.jpg
 linktitle: Laser Shows
 next: /post/YLC-Planetarium-Shows/
