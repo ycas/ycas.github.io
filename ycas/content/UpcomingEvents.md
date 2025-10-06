@@ -11,8 +11,6 @@ weight = 100
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
 <br>* **2025**<br>
-* **October 4 2pm to 4pm** Childrens Planetarium Shows at York Learning Center<br>
-* **October 4 7pm to 9pm** Planetarium Shows at York Learning Center<br>
 * **October 11 8pm to 10pm** StarWatch at Rudy Park<br>
 * **November 1 2pm to 4pm** Childrens Planetarium Shows at York Learning Center<br>
 * **November 1 7pm to 9pm** Planetarium Shows at York Learning Center<br>

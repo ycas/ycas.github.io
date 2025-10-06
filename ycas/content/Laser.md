@@ -157,7 +157,7 @@ If you have any questions, please contact us at <a href="mailto:laser@astroyork.
     <tr>
         <td><a data-genre="5" href="#oz">Lasers of OZ</a></td>
         <td><a data-genre="b" href="#Ozzfest">Laser Ozzfest Assault</a></td>
-        <td><a data-genre="2,5" href="#Peter">Peter &#038; The Wolf/a></td>
+        <td><a data-genre="2,5" href="#Peter">Peter &#038; The Wolf</a></td>
     </tr>
     <tr>
         <td><a data-genre="b" href="#Pfdsom03">Laser Pink Floyd: Dark Side of the Moon (2003)</a></td>
@@ -420,7 +420,7 @@ Below is a list of our current laser shows.
     id="ClassicRock" text1="Laser Classic Rock" 
     desc="Take a laser trip through time with some of the best classic rock songs of all time. Laser Classic Rock has a little something for everyone who grew up or wishes they grew up during the evolution of rock and roll." 
     text2="28 minutes" text3="2012" text4="Rock" 
-    list="Twist and Shout - The Beatles,We will rock you - queen,Brick 2 - Pink Floyd,People are strange - The Doors,Tom Sawyer - RUSH,Walk This Way - Aerosmith,Back in Black - AC/DC,Purple Haze - Jimi Hendrix,Good Times, Bad Times - Led Zeppelin" >}}
+    list="Twist and Shout - The Beatles,We will rock you - queen,Brick 2 - Pink Floyd,People are strange - The Doors,Tom Sawyer - RUSH,Walk This Way - Aerosmith,Back in Black - AC/DC,Purple Haze - Jimi Hendrix,Good Times Bad Times - Led Zeppelin" >}}
     <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
 </div>
 
@@ -558,7 +558,7 @@ Below is a list of our current laser shows.
     id="FamilyFuntime2" text1="Family Funtime 2 " 
     desc="The Family Funtime shows are designed to be short fun shows which can be marketed in a variety of ways. Fun for the whole family, you can run Family Funtime any time you need to entertain your audience, and don't be afraid to market it with another title to fit your needs. It's a dazzling light show for all ages! With a variety of music, mesmerizing abstracts, and lively characters, there's something fun for everyone in Laser Family Funtime." 
     text2="21 minutes" text3="2010" text4="Family,Rock,Pop" 
-    list="Mission Impossible - U2,Octopus' Garden - The Beatles,Imperial March - John Williams,ABC - The Jackson Five,Reflections - Diana Ross & the Supremes,Ray of Light - Madonna,William Tell - London Symphony Orchestra" >}}
+    list="Mission Impossible - U2,Octopus' Garden - The Beatles,Imperial March - John Williams,ABC - The Jackson Five,Reflections - Diana Ross & The Supremes,Ray of Light - Madonna,William Tell - London Symphony Orchestra" >}}
     <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
 </div>
 
@@ -670,7 +670,7 @@ Below is a list of our current laser shows.
     alt="Halloween Spooktacular " 
     id="HalloweenSpooktacular" text1="Halloween Spooktacular " 
     desc="A special themed program for venues who brings audiences in for Halloween special events. Laser Fantasy combined the spookiest songs and images from our catalog to create a family friendly treat." 
-    text2="56 minutes" text3="2024" text4="Family,Hip-Hop,Rock,Pop" 
+    text2="35 minutes" text3="2024" text4="Family,Hip-Hop,Rock,Pop" 
     list="Requiem/Amen - Mozart,Ghostbusters - Ray Parker Jr,Adams Family - Theme,People are Strange - The Doors,The Munsters - Theme,Pulstar - Vangelis,The Conversation (Wild Signals) - John Williams,Hot Hot Hot - Buster Poindexter,Superstition - Stevie Wonder (New version w/ cat),Devil Went Back to Georgia - Mark O' Connor,Monster Mash - Bobby Picket,Beetlejuice - Danny Elfman,Ghostriders - The Outlaws" >}}
     <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
 </div>
@@ -812,7 +812,7 @@ Below is a list of our current laser shows.
 {{< imagetext-table image="https://laserfantasy.com/wp-content/uploads/2020/09/Laser_M_Jackson1-1-300x300.webp" 
     alt="Laser Michael Jackson" 
     id="MichaelJackson" text1="Laser Michael Jackson" 
-    desc="Michael Jackson's amazing musical career is chronicled in this laser tribute the The King of Pop. His timeless hits live on in laser light." 
+    desc="Michael Jackson's amazing musical career is chronicled in this laser tribute to The King of Pop. His timeless hits live on in laser light." 
     text2="57 minutes" text3="2009" text4="Family,Pop" 
     list="Don't Stop 'Til You Get Enough,The Way You Make Me Feel,ABC,Black Or White,Human Nature,Thriller,Man In The Mirror,Dirty Diana,P.Y.T. (Pretty Young Thing),Billie Jean,Bad,Smooth Criminal,Beat It" >}}
     <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
@@ -824,7 +824,7 @@ Below is a list of our current laser shows.
     id="Motown" text1="Laser Motown" 
     desc="In the late 1950s Berry Gordy Jr. formed a small Detroit-based record company called Motown Records. Their slogan was 'The Sound of Young America'. Over 40 years later, Laser Fantasy captures the spirit of the Motown sound from recordings by The Temptations, The Four Tops, Jackson 5 and Stevie Wonder." 
     text2="46 minutes" text3="1995" text4="Family,Rock,Pop" 
-    list="Reflections - Diana Ross &amp; The Supremes,Heard it Through the Grapevine - Marvin Gaye,I Can't Help Myself - The Four Tops,Where Did Our Love Go? - Diana Ross &amp; The Supremes,You Really Got a Hold on Me - Smokey Robinson & The Miracles,Shotgun - Jr. Walker and The All-Stars,Papa Was a Rolling Stone - The Temptations,Take Me to the River - Al Green,Superstition - Stevie Wonder (new version),Brick House - The Commodores,Psychedelic Shack - The Temptations,ABC - Jackson 5,I Got You - James Brown" >}}
+    list="Reflections - Diana Ross & The Supremes,Heard it Through the Grapevine - Marvin Gaye,I Can't Help Myself - The Four Tops,Where Did Our Love Go? - Diana Ross & The Supremes,You Really Got a Hold on Me - Smokey Robinson & The Miracles,Shotgun - Jr. Walker and The All-Stars,Papa Was a Rolling Stone - The Temptations,Take Me to the River - Al Green,Superstition - Stevie Wonder (new version),Brick House - The Commodores,Psychedelic Shack - The Temptations,ABC - Jackson 5,I Got You - James Brown" >}}
     <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
 </div>
 
