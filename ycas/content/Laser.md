@@ -1227,7 +1227,7 @@ text2="55 minutes" text3="2023" text4="Pop" list="Fortnight,Cruel Summer,Anti-He
     id="Zeppelin" text1="Laser Zeppelin" 
     desc="The definitive Led Zeppelin laser show, Laser Zeppelin covers a wide range of their hits from the 70s." 
     text2="54 minutes" text3="1988" text4="Rock" 
-    list="In the Evening,Ramble On,Communications Break Down,Babe (I'm Gonna Leave You),Black Dog,Stairway to Heaven,D'yer Maker,Good Times Bad Times,Whole Lotta' Love,Rock and Roll,The Song Remains the Same" >}}
+    list="In the Evening,Ramble On,Communications Break Down,Babe (I'm Gonna Leave You),Black Dog,Stairway to Heaven,D'yer Maker,Good Times Bad Times,Whole Lotta' Love,Rock and Roll,Dazed and Confused" >}}
     <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
 </div>
 
@@ -1237,7 +1237,7 @@ text2="55 minutes" text3="2023" text4="Pop" list="Fortnight,Cruel Summer,Anti-He
     id="WholeLottaLed" text1="Laser Zeppelin & Whole Lotta Led " 
     desc="Laser Zeppelin: Whole Lotta Led brings the fans what they want, more Laser Zeppelin!" 
     text2="53 minutes" text3="1988" text4="Rock" 
-    list="In the Evening,Ramble on,Kashmir,Livin' Lovin' Maid,Babe (I'm Gonna Leave You),Black Dog,Stairway to Heaven,Immigrant Song,Dazed and Confused,The Song Remains the Same" >}}
+    list="In the Evening,Ramble on,Kashmir,Livin' Lovin' Maid,Babe (I'm Gonna Leave You),Black Dog,Stairway to Heaven,Immigrant Song,Dazed and Confused,Dazed and Confused" >}}
     <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
 </div>
 
