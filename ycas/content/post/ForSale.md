@@ -23,66 +23,9 @@ Filming and live streaming laser shows is prohibited.
 In person ticket sales start 30 minutes before showtime the day of the show. 
 <a id="top"></a><br>
 <table>Dates
-<tr> <td><a href="#20251031">October 31</a</td><td><a href="#20251101">November 1</a</td><td><a href="#20251102">November 2</a</td></tr>
 <tr> <td><a href="#20251107">November 7</a</td><td><a href="#20251108">November 8</a</td><td><a href="#20251109">November 9</a</td></tr>
 <tr> <td><a href="#20251114">November 14</a</td><td><a href="#20251115">November 15</a</td><td><a href="#20251116">November 16</a</td></tr>
 </table>
-
-<a id="20251031"></a>
-### Friday, October 31, 2025 
-<div  padding=0px>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2024/08/Laser-Halloween-2019-300x300.jpg" alt="Laser Halloween (2019)" title="Laser Halloween (2019)" time="5:30PM" tickets="https://cur8.com/17107/project/133409" info="../../laser/#Halloween2019">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/Spooktacular1med-300x300.jpg" alt="Halloween Spooktacular " title="Halloween Spooktacular " time="7:00PM" tickets="https://cur8.com/17107/project/133681" info="../../laser/#HalloweenSpooktacular">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/Laser-Stranger-Things-1-300x300.jpg" alt="Laser Stranger Things" title="Laser Stranger Things" time="8:15PM" tickets="https://cur8.com/17107/project/133679" info="../../laser/#Stranger2">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/HalloScream1Med-300x300.jpg" alt="HalloScream " title="HalloScream " time="9:30PM" tickets="https://cur8.com/17107/project/133680" info="../../laser/#HalloScream">}}
-</div>
-</div>
-    <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
-
-<a id="20251101"></a>
-### Saturday, November 1, 2025
-<div  padding=0px>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2025/01/Laser-Grateful-Dead-Poster-01-Med-300x300.jpg" alt="Grateful Dead " title="Grateful Dead " time="1:30PM" tickets="https://cur8.com/17107/project/133682" info="../../laser/#GratefulDead">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/09/DSoM_771x771-1-300x300.webp" alt="Laser Pink Floyd: Dark Side of the Moon (2003)" title="Laser Pink Floyd: Dark Side of the Moon (2003)" time="3:00PM" tickets="https://cur8.com/17107/project/133476" info="../../laser/#Pfdsom03">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/LaserQueen1-300x300.jpg" alt="Laser Queen" title="Laser Queen" time="4:30PM" tickets="https://cur8.com/17107/project/133475" info="../../laser/#Queen">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/10/RockMonsters1med-300x300.jpg" alt="Laser Rock Monsters" title="Laser Rock Monsters" time="7:00PM" tickets="https://cur8.com/17107/project/133762" info="../../laser/#RockMonsters">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/09/Metallica_972x972-1-300x300.webp" alt="Laser Metallica" title="Laser Metallica" time="8:15PM" tickets="https://cur8.com/17107/project/133763" info="../../laser/#Metallica">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/LaserACDCmed-300x300.jpg" alt="Laser AC/DC" title="Laser AC/DC" time="9:30PM" tickets="https://cur8.com/17107/project/133764" info="../../laser/#ACDC">}}
-</div>
-</div>    <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
-
-<a id="20251102"></a>
-### Sunday, November 2, 2025
-<div  padding=0px>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/09/Sgt-Peppers-Beatles-3-300x300.jpg" alt="Sgt Pepper's Laser Light Show " title="Sgt Pepper's Laser Light Show " time="1:30PM" tickets="https://cur8.com/17107/project/133765" info="../../laser/#SqtPepper">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2022/03/LaserEltonJohnPoster03med-300x300.webp" alt="Elton John " title="Elton John " time="3:00PM" tickets="https://cur8.com/17107/project/133672" info="../../laser/#EltonJohn">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/LaserQueen1-300x300.jpg" alt="Laser Queen" title="Laser Queen" time="4:30PM" tickets="https://cur8.com/17107/project/133475" info="../../laser/#Queen">}}
-</div>
-</div>
-    <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
 
 <a id="20251107"></a>
 ### Friday, November 7, 2025 
