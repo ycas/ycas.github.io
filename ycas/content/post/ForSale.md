@@ -23,61 +23,8 @@ Filming and live streaming laser shows is prohibited.
 In person ticket sales start 30 minutes before showtime the day of the show. 
 <a id="top"></a><br>
 <table>Dates
-<tr> <td><a href="#20251107">November 7</a</td><td><a href="#20251108">November 8</a</td><td><a href="#20251109">November 9</a</td></tr>
 <tr> <td><a href="#20251114">November 14</a</td><td><a href="#20251115">November 15</a</td><td><a href="#20251116">November 16</a</td></tr>
 </table>
-
-<a id="20251107"></a>
-### Friday, November 7, 2025 
-<div  padding=0px>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/LaserJourneySmall-300x300.jpg" alt="Laser Journey" title="Laser Journey" time="7:00PM" tickets="https://cur8.com/17107/project/133766" info="../../laser/#Journey">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/LaserZeppelin1Med-300x300.jpg" alt="Laser Zeppelin" title="Laser Zeppelin" time="8:15PM" tickets="https://cur8.com/17107/project/133767" info="../../laser/#Zeppelin">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/LaserFloydTheWall1-300x300.jpg" alt="The Wall " title="The Wall " time="9:30PM" tickets="https://cur8.com/17107/project/133768" info="../../laser/#Wall">}}
-</div>
-</div>
-    <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
-
-<a id="20251108"></a>
-### Saturday, November 8, 2025
-<div  padding=0px>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/Doors1med-300x300.jpg" alt="Laser Doors" title="Laser Doors" time="1:30PM" tickets="https://cur8.com/17107/project/133769" info="../../laser/#Doors">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/09/Hendrix_979x979-1-300x300.webp" alt="Laser Hendrix" title="Laser Hendrix" time="3:00PM" tickets="https://cur8.com/17107/project/133770" info="../../laser/#Hendrix">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/LAZIRVANA1-300x300.jpg" alt="Lazirvana (Nirvana) " title="Lazirvana (Nirvana) " time="4:30PM" tickets="https://cur8.com/17107/project/133771" info="../../laser/#Lazirvana">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2023/01/Laser-Taylor-Swift-Poster-Med-300x300.jpg" alt="Laser Taylor Swift" title="Laser Tylor Swift (version 1)" time="7:00PM" tickets="https://cur8.com/17107/project/133409" info="../../laser/#TS">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/10/u2print-300x300.webp" alt="Laser U2 1993" title="Laser U2 1993" time="8:15PM" tickets="https://cur8.com/17107/project/133670" info="../../laser/#U21993">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/09/DSoM_771x771-1-300x300.webp" alt="Laser Pink Floyd: Dark Side of the Moon (2003)" title="Laser Pink Floyd: Dark Side of the Moon (2003)" time="9:30PM" tickets="https://cur8.com/17107/project/133476" info="../../laser/#Pfdsom03">}}
-</div>
-</div>    <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
-
-<a id="20251109"></a>
-### Sunday, November 9, 2025
-<div  padding=0px>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/09/Laser_M_Jackson1-1-300x300.webp" alt="Laser Michael Jackson" title="Laser Michael Jackson" time="1:30PM" tickets="https://cur8.com/17107/project/133772" info="../../laser/#MichaelJackson">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/09/Motown1-1169x1169-1-300x300.webp" alt="Laser Motown" title="Laser Motown" time="3:00PM" tickets="https://cur8.com/17107/project/133773" info="../../laser/#Motown">}}
-</div>
-<div>
-{{< laser-table image="https://laserfantasy.com/wp-content/uploads/2020/05/LaserPrinceOne1med-300x300.jpg" alt="Laser Prince" title="Laser Prince" time="4:30PM" tickets="https://cur8.com/17107/project/133665" info="../../laser/#Prince">}}
-</div>
-</div>   <p style="text-align:right;"><a href="#top">Back to Top</a> </p>
 
 <a id="20251114"></a>
 ### Friday, November 14, 2025 
