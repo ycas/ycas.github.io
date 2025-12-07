@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2025-11-12
+date: 2025-12-04
 linktitle: YLC Planetarium Shows
 title: YLC Planetarium Shows
 weight: 100
@@ -9,10 +9,10 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 19 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
 
-### Saturday December 6, 2025 
-* 7:00PM - **Chasing the Ghost Particle**<br>
+### Saturday January 24, 2026 
+* 7:00PM - **A Part of the Sky Called Orion**<br>
 * 7:40PM - **StarWatch**<br>
-* 8:20PM - **Cosmic Castaways**<br>
+* 8:20PM - **From Earth to the Universe**<br>
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
 
@@ -24,7 +24,7 @@ In person ticket sales start at 6:30pm the day of the show. We reserve the right
 Cur8.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.75 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of Cur8.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-**[Click here to purchase online tickets](https://cur8.com/17107/project/130178)**<br>
+**[Click here to purchase online tickets](https://cur8.com/17107/project/135934)**<br>
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
@@ -36,11 +36,11 @@ Learn how to find the planets and constellations that are visible in York's nigh
 * What are the names of the brightest stars?<br>
 * Why does Jupiter have different colored clouds?<br>
 
-### Chasing the Ghost Particle: From the South Pole to the Edge of the Universe
-Deep in the ice at the heart of Antarctica, the biggest and strangest detector in the world waits for mysterious messengers from the cosmos. The detector is Ice Cube! The messengers are neutrinos, ghostly particles that give us tantalizing looks into world of exploding stars and black holes. This show tells the incredible story of how an international team of scientists and engineers transformed one billion tons of Antarctic ice into a telescope. Building Ice Cube was a titanic endeavor driven by our human passion for discovery. Witness stunning views of the South Pole, captivating animations of the Ice Cube detectors capturing a neutrino collision-and eye-catching views of the cosmos. Chasing the Ghost Particle: From the South Pole to the Edge of the Universe will take you on a journey you will never forget.
+### A Part of the Sky Called Orion
+A fantastic sky lore program covering the Greek, Egyptian, and Inupiaq cultures. We learn how each of these rich cultures viewed the same stars, but had different stories and images. Told in first-person in the context of the teller's life, we experience their ancient star lore and imagery. This show is best for 2nd grade and above, but even younger ones will enjoy the storytelling imagery and theme. This is storytelling at its best. A wonderful blend of imagery, music, and word; it's a treat for all.
 
-### Cosmic Castaways
-When you look into the sky, the background not-quite-blackness is filled with the diffuse light of stars lost in the space between galaxies, these are the Cosmic Castaways. When galaxies pass in the night they gravitationally twist and turn one another. Sometimes the interactions are nothing more than a cosmic side-swipe; two galaxies cross and both come out a little bit damaged. Sometimes the interactions merge and where once two shiny galaxies orbited now only once bursts with the light of a billion stars. No matter what happens, these events leave stellar orphans. As the galaxies tear into one another, stars get gravitationally trapped in a tug-a-war between the two systems. Eventually, both galaxies will give up their pulling and let the stars drop. These stars are left abandoned in the space between the galaxies and scattered around the newly formed systems.
+### From Earth to the Universe
+The night sky, both beautiful and mysterious, has been the subject of campfire stories, ancient myths and awe for as long as there have been people. A desire to comprehend the Universe may well be humanity's oldest shared intellectual experience. Yet only recently have we truly begun to grasp our place in the vast cosmos. To learn about this journey of celestial discovery, from the theories of the ancient Greek astronomers to today's grandest telescopes, we invite you to experience From Earth to the Universe.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 

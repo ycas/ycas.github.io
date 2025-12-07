@@ -1,7 +1,7 @@
 ---
 author: "YCAS"
-date: 2025-11-11
-image: img/M57.JPG
+date: 2025-12-07
+image: img/jupapr3color.jpg
 linktitle: StarWatch
 next: /post/YLC-Planetarium-Shows/
 title: StarWatch
