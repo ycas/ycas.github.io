@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2025-12-04
+date: 2026-01-22
 linktitle: YLC Planetarium Shows
 title: YLC Planetarium Shows
 weight: 100
@@ -9,10 +9,10 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 20 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
 
-### Saturday January 24, 2026 
-* 7:00PM - **A Part of the Sky Called Orion**<br>
+### Saturday February 28, 2026 
+* 7:00PM - **Forward! To the Moon**<br>
 * 7:40PM - **StarWatch**<br>
-* 8:20PM - **From Earth to the Universe**<br>
+* 8:20PM - **Comets & Discovery**<br>
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
 
@@ -24,7 +24,7 @@ In person ticket sales start at 6:30pm the day of the show. We reserve the right
 Cur8.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.75 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of Cur8.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-**[Click here to purchase online tickets](https://cur8.com/17107/project/135934)**<br>
+**[Click here to purchase online tickets](https://cur8.com/17107/project/137027)**<br>
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
@@ -36,11 +36,11 @@ Learn how to find the planets and constellations that are visible in York's nigh
 * What are the names of the brightest stars?<br>
 * Why does Jupiter have different colored clouds?<br>
 
-### A Part of the Sky Called Orion
-A fantastic sky lore program covering the Greek, Egyptian, and Inupiaq cultures. We learn how each of these rich cultures viewed the same stars, but had different stories and images. Told in first-person in the context of the teller's life, we experience their ancient star lore and imagery. This show is best for 2nd grade and above, but even younger ones will enjoy the storytelling imagery and theme. This is storytelling at its best. A wonderful blend of imagery, music, and word; it's a treat for all.
+### Forward! To the Moon
+NASA's 21st century Artemis program, named after the Greek moon Goddess and twin of Apollo, is the next step in our mission to explore the universe and land the first woman and person of color on the surface of the Moon.
 
-### From Earth to the Universe
-The night sky, both beautiful and mysterious, has been the subject of campfire stories, ancient myths and awe for as long as there have been people. A desire to comprehend the Universe may well be humanity's oldest shared intellectual experience. Yet only recently have we truly begun to grasp our place in the vast cosmos. To learn about this journey of celestial discovery, from the theories of the ancient Greek astronomers to today's grandest telescopes, we invite you to experience From Earth to the Universe.
+### Comets & Discovery
+In Comets & Discovery we follow two intrepid comet hunters in first-person. One, a modern explorer. The other, Caroline Herschel. The famous 18th century comet huntress that ruled the skies for many generations. With both, we learn how they each searched the skies, made their discoveries, and reported them for other astronomers to bear out. We also learn about, depending on the century of the observer, what people thought comets were and their importance to them.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 

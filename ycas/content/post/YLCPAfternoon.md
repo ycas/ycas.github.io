@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2025-12-05
+date: 2026-01-23
 linktitle: YLC Planetarium Childrens Shows
 title: YLC Planetarium Childrens Shows
 weight: 100
@@ -9,7 +9,7 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 20 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
 
-### Saturday, January 24, 2026 
+### Saturday, February 28, 2026 
 
 * 2:00PM - **One World, One Sky: Big Bird's Adventure (pre-K to 1st grade)**<br>
 * 2:40PM - **StarWatch**<br>
