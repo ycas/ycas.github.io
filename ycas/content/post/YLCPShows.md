@@ -16,7 +16,7 @@ The York County Astronomical Society, celebrating 20 years offering planetarium 
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
 
-Private show reservations are available for $40 for a 45 minute program for up to 60 people.
+Private show reservations are available for $50 for a 45 minute program for up to 60 people.
 
 In person ticket sales start at 6:30pm the day of the show. We reserve the right to ask any disruptive persons to leave the Planetarium.
 
