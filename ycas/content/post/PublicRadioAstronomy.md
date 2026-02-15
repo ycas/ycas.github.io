@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2028-08-12
+date: 2026-02-02
 linktitle: Radio and Solar Astronomy
 title: Radio and Solar Astronomy
 weight: 100
@@ -11,7 +11,7 @@ next: /post/YLC-Planetarium-Shows/
 
 ## Radio Astronomy and Solar Observing at Astronomical Society
 
-The York County Astronomical Society (YCAS) will be offering an event at their Observatory at John Rudy County Park, 400 Mundis Race Road, York, on Saturday, August 30th, 2025. Solar and Radio Astronomy from noon - 3:00PM.
+The York County Astronomical Society (YCAS) will be offering an event at their Observatory at John Rudy County Park, 400 Mundis Race Road, York, on Saturday, July 18, 2026. Solar and Radio Astronomy from noon - 3:00PM.
 
 Society member Kerry Smith will be presenting the radio astronomy portion of the event as well as giving attendees a peek into the future of the Society's radio astronomy endeavors. Radio astronomy is the study of the unseen radiated energy in the electromagenetic spectrum below visible light. By using radio astronomy, we are able to study astronomical phenomena that are otherwise invisible.
 
