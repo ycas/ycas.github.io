@@ -9,19 +9,19 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 20 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
 
-### Saturday February 28, 2026 
+### Saturday March 21, 2026 
 * 7:00PM - **Forward! To the Moon**<br>
 * 7:40PM - **StarWatch**<br>
 * 8:20PM - **Comets & Discovery**<br>
 
-The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $4.00 for adults, $3.00 for children and seniors. Admission to any second or third show is $1.00 each. Cash and most credit and debit cards are accepted. 
+The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $6.00 for adults, $5.00 for children and seniors. Admission to any second or third show is $2.00 each. Cash and most credit and debit cards are accepted. 
 
 Private show reservations are available for $50 for a 45 minute program for up to 60 people.
 
 In person ticket sales start at 6:30pm the day of the show. We reserve the right to ask any disruptive persons to leave the Planetarium.
 
 **Online ticket sales are available**
-Cur8.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.75 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of Cur8.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
+Cur8.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.40 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of Cur8.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
 **[Click here to purchase online tickets](https://cur8.com/17107/project/137027)**<br>
