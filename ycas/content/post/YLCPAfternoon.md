@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2026-03-16
+date: 2026-04-16
 linktitle: YLC Planetarium Childrens Shows
 title: YLC Planetarium Childrens Shows
 weight: 100
