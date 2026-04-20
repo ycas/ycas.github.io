@@ -7,6 +7,8 @@ type = "page"
 weight = 100
 
 +++
+<H1>Planetarium is closed until September 2026</H1>
+
 <H3>Private Show Reservation Information</H3>
 <p>The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can not schedule during school hours Monday through Friday to protects the school children from Covid.<p>
 
