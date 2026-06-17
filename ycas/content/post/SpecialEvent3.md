@@ -13,7 +13,7 @@ astronomers and space enthusiasts, families, students, and lifelong learners. Co
 explore the universe—one Saturday night at a time.
 
 **Event Details:**<br>
-* starting May 9, 2026 @6pm <br>
+* starting September 12, 2026 @6pm <br>
 * class at John Rudy Park Observatory<br>
 * free for members<br>
 * $30 for non-members<br>
@@ -21,32 +21,32 @@ explore the universe—one Saturday night at a time.
 
 <table>
 <tr>
-<td colspan="3"><b>Lecture Schedule</b></td>
+<td colspan="3"><b>Lecture Schedule - Subject to change</b></td>
 <tr><th>Date and Time</th> <th>Topic</th> <th>Speaker</th></tr>
 </tr><tr>
-<td>Saturday, May 9, 6-7pm</td>
+<td>Saturday, September 12, 6-7pm</td>
 <td>Introduction to Astronomy</td>
 <td>Dianna Guise</td>
 </tr><tr>
-<td>Saturday, May 16, 6-7pm</td>
+<td>Saturday, September 19, 6-7pm</td>
 <td>Exploring the Universe</td>
 <td>Betty Turner</td>
 </tr><tr>
-<td>Saturday, May 23, 6-7pm</td>
+<td>Saturday, September 26, 6-7pm</td>
 <td>Exploring the Messier Objects</td>
 <td>Stephen Wilkerson</td>
 </tr><tr>
-<td>Saturday, May 30, 6-7pm</td>
+<td>Saturday, October 3, 6-7pm</td>
 <td>Astrophotography: Capturing the Night Sky</td>
 <td>Adam Love</td>
 </tr><tr>
-<td>Saturday, June 6, 6-7pm</td>
-<td>Radio Astronomy</td>
-<td>Kerry Smith</td>
-</tr><tr>
-<td>Saturday, June 13, 6-7pm</td>
+<td>Saturday, October 10, 6-7pm</td>
 <td>Stellar Life Cycles: Birth, Life, and Death of Stars</td>
 <td>Todd Ullery</td>
+</tr><tr>
+<td>Saturday, October 17, 6-7pm</td>
+<td>Radio Astronomy</td>
+<td>Kerry Smith</td>
 </tr>
 
 

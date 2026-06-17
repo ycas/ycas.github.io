@@ -25,23 +25,15 @@ weight = 60
         <table border="1" width="452">
           <tr>
             <td valign="middle" width="345">
-              <b>Access to  the Observatory and telescopes.</b><br><i>
+              <b>Access to  the Observatory and telescopes. Member Star Watches.</b><br><i>
 			  </td></tr><tr><td>
               <b>Free Planetarium shows to YCAS members.</b></i>
 			  </td></tr><tr><td>
-              <b>Membership in The Astronomical League, The benefits of ALCOR , a national association of astronomy clubs.</b></i>
-			  </td></tr><tr><td>
-              <b>4 quarterly issues of The Astronomical League's newsletter, "Reflector"</b></i>
-			  </td></tr><tr><td>
               <b>Free to YCAS Members YCAS Astronomy classes.</b></i>
 			  </td></tr><tr><td>
-              <b>Discounts on books and various other publications through The Astronomical League.</b></i>
+              <b>Use of the club's library of technical and reference books, slides, and videos. Periodic emails of news or events in Astronomy.</b></i>
 			  </td></tr><tr><td>
-              <b>Use of the club's library of technical and reference books, slides, and videos.</b></i>
-			  </td></tr><tr><td>
-              <b>Use of  several of the club's 8 inch Dobsonian telescopes and Solar telescope which are available for sign out use.</b></i>
-			  </td></tr><tr><td>
-              <b>Members Dark Sky Trips.</b></i>
+              <b>Members Dark Sky Trips. Access after sunset to select York County Parks (High Point Scenic Vista and Spring Valley Park) for astronomy purposes. </b></i>
 			  </td></tr><tr><td>
               <b>Adult members (over 21) can vote on all Society concerns and are eligible to be elected as a Society officers. Student membership excluded.</b></i>
 			  </td></tr><tr><td>

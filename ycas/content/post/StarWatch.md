@@ -1,7 +1,7 @@
 ---
 author: "YCAS"
-date: 2026-04-16
-image: img/jupapr3color.jpg
+date: 2026-06-17
+image: img/Dippers.jpg
 linktitle: StarWatch
 next: /post/YLC-Planetarium-Shows/
 title: StarWatch
