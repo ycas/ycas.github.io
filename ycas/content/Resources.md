@@ -20,17 +20,11 @@ weight = 40
     <p><b><font color="#0F0F0F" ">Pennsylvania, Maryland, Delaware, Virginia Astronomical Clubs</b>
 <ul>
   <li>
-    <p align="left"><b><a target="_blank" href="http://www.aelc.us/">
-	AELC - Astronomy Enthusiasts of Lancaster County</a></b></li>
-  <li>
     <p align="left"><b><a href="http://www.astrohbg.org" target="_blank">
     Astronomical Society of Harrisburg&nbsp;</a></b></li>
   <li>
     <p align="left"><b><a href="http://www.3ap.org/" target="_blank">
 	Amateur Astronomers Association of Pittsburgh</a></b></li>
-  <li>
-    <p align="left"><b><a href="http://www.berksastronomy.org/" target="_blank">
-	Berks County Amateur Astronomical Society</a></b></li>
   <li>
     <p align="left"><b><a href="http://www.cpoclub.org/" target="_blank">
 	Central Pennsylvania Observers</a></b></li>
@@ -40,9 +34,6 @@ weight = 40
     <p align="left"><b><a href="https://sites.google.com/view/chesmontastronomicalsociety/home" target="_blank"> Chesmont Astronomical Society</a></b></li>
   <li>
     <p align="left"><b><a target="_blank" href="http://www.cumberlandastronomyclub.org/">Cumberland Astronomy Club</a></b></li>
-  <li>
-    <p align="left"><b><a target="_blank" href="http://gewa.gsfc.nasa.gov/clubs/astronomy/">Goddard
-    Astronomy Club</a></b></li>
   <li>
     <p align="left"><b><a href="http://ghaas.org/" target="_blank">Greater Hazleton Area Astronomical Society</a></b></li>
   <li>
@@ -61,18 +52,11 @@ weight = 40
   <li>
     <p align="left"><a href="http://www.oras.org/" target="_blank"><b>Oil Region Astronomical Society</b></a></li>
   <li>
-    <p align="left"><b><a href="http://www.clubs.psu.edu/up/astro/" target="_blank">Penn
-    State Astronomy Club</a></b></li>
-  <li>
-    <p align="left"><b><a href="http://ehilbert.wso.net/Starlight/" target="_blank">Starlight Astronomy Club Web Site</a></b></li>
-  <li>
     <p align="left"><b><a target="_blank" href="http://www.westminsterastro.org/">Westminster
     Astronomical Society</a></b></li>
   <li>
     <p align="left"><b><a target="_blank" href="http://www.tristateastronomers.org/">Tri-State
     Astronomers&nbsp;</a></b></li>
-  <li>
-    <p align="left"><b><a href="http://www.kvas.org/" target="_blank">Kanawha Valley Astronomical  Society</a></b></li>
 </ul>
     <p align="left"><b>Star Parties</b>
 <ul type="circle">
@@ -80,15 +64,8 @@ weight = 40
     <p align="left"><b><a href="http://www.ahsp.org/" target="_blank">Almost
     Heaven Star Party</a></b></li>
   <li>
-    <p align="left"><b><a href="http://bfsp.org/starparty/" target="_blank">Black
-    Forest Star Party</a></b></li>
-  <li>
-    <p align="left"><b><a target="_blank" href="http://www.astrohbg.org/CSSP/">Cherry Springs Star Party</a></b></li>
-  <li>
     <p align="left"><b><a href="http://www.novac.com/wp/outreach/stargaze/" target="_blank">NOVAC
     Star Gaze</a></b></li>
-  <li>
-    <p align="left"><b><a href="http://www.chaosastro.com/starparty/" target="_blank">Staunton River Star Party</a></b></li>
 </ul>
     <p align="left"> <b>Other Related
     Astronomical Links</b>
@@ -108,9 +85,6 @@ weight = 40
     League
     </b></a></li>
   <li>
-    <p align="left"><b><a href="http://www.astronomynow.com/" target="_blank">Astronomy
-Now Online</a></b></li>
-  <li>
     <p align="left"><b><a href="http://www.astronomy.com/" target="_blank">Astronomy
     Magazine</a></b></li>
   <li>
@@ -123,9 +97,6 @@ Picture of the day</a></b></li>
     <p align="left"><b><a href="http://www.aavso.org/" target="_blank">American
     Association of Variable Stars</a></b></li>
   <li>
-    <p align="left"><b><a target="_blank" href="http://alpo-astronomy.org/index.htm">Association
-    of Lunar and Planetary Observers</a></b></li>
-  <li>
     <p align="left"><b><a href="http://www.astromart.com/" target="_blank">AstroMart</a></b></li>
   <li>
     <p align="left"><a href="http://www.ast.cam.ac.uk/~jds" target="_blank"><b>BAA Comet Section Home Page</b></a></li>
@@ -133,19 +104,7 @@ Picture of the day</a></b></li>
     <p align="left"><b><a href="http://www.badastronomy.com/index.html" target="_blank">Bad
     Astronomy</a></b></li>
   <li>
-    <p align="left"><b><a href="http://www.bfsp.org/starparty/" target="_blank">Black
-    Forest Star Party</a></b></li>
-  <li>
-    <p align="left"><b><a target="_blank" href="http://www.dcnr.state.pa.us/stateparks/findapark/cherrysprings/index.htm">Cherry
-    Springs</a></b></li>
-  <li>
-    <p align="left"><b><a href="http://www.astro.wisc.edu/~dolan/constellations/" target="_blank">Constellations
-    and their Stars</a></b></li>
-  <li>
     <p align="left"><b><a target="_blank" href="http://cometography.com/">Gary&nbsp;W. Kronk's&nbsp;&nbsp; C O M E T O G R A P H Y&nbsp;</a></b></li>
-  <li>
-    <p align="left"><b><a target="_blank" href="http://www.globe.gov/">GLOBE
-    AT NIGHT</a></b></li>
   <li>
     <p align="left"><b><a href="http://www.cloudynights.com" target="_blank">Cloudy
 Nights Telescope Review</a></b></li>
@@ -159,7 +118,7 @@ Nights Telescope Review</a></b></li>
     <p align="left"><b><a href="http://www.heavens-above.com/" target="_blank">HEAVENS
 ABOVE</a></b></li>
   <li>
-    <p align="left"><b><a href="http://hubblesite.org/newscenter/" target="_blank">Hubble
+    <p align="left"><b><a href="https://science.nasa.gov/mission/hubble/" target="_blank">Hubble
 Telescope Images</a></b></li>
   <li>
     <p align="left"><a href="http://www.lunar-occultations.com/iota/iotandx.htm" target="_blank"><b>International Occultation Timing Association&nbsp;</b></a></li>
@@ -174,7 +133,6 @@ Rovers</a></b></li>
   <li>    <p align="left"><b><a href="http://apollo17.org/" target="_blank">The Last Mission to the Moon</a></b></li>
   <li>    <p align="left"><b><a href="http://lroc.sese.asu.edu/" target="_blank">Lunar Reconnaissance Orbiter Camera</a></b></li>
   <li>    <p align="left"><b><a href="https://svs.gsfc.nasa.gov/" target="_blank">NASA Scientific Visualization Studio</a></b></li>
-  <li>    <p align="left"><b><a href="https://nasa60.info/" target="_blank">NASA 60th Anniversary</a></b></li>
   <li>    <p align="left"><b><a href="http://www.planetary.org/explore/space-topics/space-missions/missions-to-the-moon.html" target="_blank">Missions to the Moon</a></b></li>
   <li>    <p align="left"><b><a href="https://moon.nasa.gov/observe-the-moon/annual-event/overview/" target="_blank">NASA Observe the Moon</a></b></li>
   <li>
@@ -183,10 +141,6 @@ Rovers</a></b></li>
   <li>
     <p align="left"><b><a href="http://www.meteoritemen.com/" target="_blank">Meteorite
     Men</a></b></li>
-  <li>
-    <p align="left"><b><a href="http://www.chebucto.ns.ca/~aa063" target="_blank">Mike
-    Boschat's Astronomy Links</a>    Great Links!
-    </b></li>
   <li>
     <p align="left"><b><a target="_blank" href="http://www.moonsociety.org/">The
     Moon Society</a></b></li>
@@ -213,27 +167,16 @@ Radio Observatory Home Page</b></a></li>
   <li>
     <p align="left"><a href="http://cometchasing.skyhound.com/" target="_blank"><b>Skyhound's Comets this Month</b></a></li>
   <li>
-    <p align="left"><b><a href="http://www.slooh.com/homejs.jsp" target="_blank">SLOOH</a></b></li>
-  <li>
     <p align="left"><b><a href="http://www.spaceadventures.com/" target="_blank">Space
     Adventures</a></b></li>
-  <li>
-    <p align="left"><a href="http://www.jpl.nasa.gov/calendar/" target="_blank"><b>Space Calendar
-    (JPL)</b></a></li>
   <li>
     <p align="left"><a href="http://space.com/" target="_blank"><b>Space.Com</b></a></li>
   <li>
     <p align="left"><b><a href="http://www.spaceweather.com/" target="_blank">Spaceweather</a></b></li>
   <li>
-    <p align="left"><b><a target="_blank" href="http://spaceweatherradio.com/">Spaceweather
-    Radar Meteors Live</a></b></li>
-  <li>
     <p align="left"><a href="http://stardate.org/" target="_blank"><b>StarDate Online</b></a></li>
   <li>
     <p align="left"><b><a target="_blank" href="http://starizona.com/">Starizona Astronomy information</a></b></li>
-  <li>
-    <p align="left"><b><a target="_blank" href="http://www.starrynightlights.com/">Starry
-    Night Lights Lighting Fixtures</a></b></li>
   <li>
     <p align="left"><b><a href="http://www.bma2.org/" target="_blank">Stella
     Dela StarFest</a></b></li>
@@ -242,13 +185,7 @@ Radio Observatory Home Page</b></a></li>
   <li>
     <p align="left"><b><a href="http://seds.org/" target="_blank">Students for the Exploration and Development of Space</a></b></li>
   <li>
-    <p align="left"><b><a target="_blank" href="http://www.kidscosmos.org/">Teacher-Student
-    Science Resources</a></b></li>
-  <li>
     <p align="left"><a target="_blank" href="http://www.swpc.noaa.gov/"><b>Today's Space Weather</b></a></li>
-  <li>
-    <p align="left"><b><a target="_blank" href="http://home.earthlink.net/~tonyhoffman/astronomy.htm">Tony
-    Hoffman's Astro Web</a></b></li>
   <li>
     <p align="left"><a target="_blank" href="http://messier.seds.org/"><b>The Messier Catalog</b></a></li>
   <li>
