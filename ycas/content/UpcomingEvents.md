@@ -11,7 +11,6 @@ weight = 100
 ## 
 ![YCAS Logo](../img/YCAS2018b.jpg "York County Astronomical Society")
 <br>* **2026**<br>
-* **July 18 noon to 3pm** Solar and Radio Observing at Rudy Park<br>
 * **August 8 8pm to 10pm** StarWatch at Rudy Park<br>
 * **August 15 noon to 3pm** Solar and Radio Observing at Rudy Park<br>
 * **September 12 8pm to 10pm** StarWatch at Rudy Park<br>
