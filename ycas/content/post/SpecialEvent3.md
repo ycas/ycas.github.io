@@ -33,12 +33,12 @@ explore the universe—one Saturday night at a time.
 <td>Betty Turner</td>
 </tr><tr>
 <td>Saturday, September 26, 6-7pm</td>
-<td>Exploring the Messier Objects</td>
-<td>Stephen Wilkerson</td>
-</tr><tr>
-<td>Saturday, October 3, 6-7pm</td>
 <td>Astrophotography: Capturing the Night Sky</td>
 <td>Adam Love</td>
+</tr><tr>
+<td>Saturday, October 3, 6-7pm</td>
+<td>Exploring the Messier Objects</td>
+<td>Stephen Wilkerson</td>
 </tr><tr>
 <td>Saturday, October 10, 6-7pm</td>
 <td>Stellar Life Cycles: Birth, Life, and Death of Stars</td>
