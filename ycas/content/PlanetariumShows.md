@@ -89,6 +89,9 @@ The money raised from these programs goes towards the cost of using the planetar
         <td><a data-audience="4,5,6,7,8,9" href="#planets">The Planets</a></td>
         <td><a data-audience="5,6,7,8,9" href="#TSPG">Two Small Pieces of Glass</a></td>
     </tr>
+    <tr>    
+        <td><a data-audience="4,5,6,7,8,9" href="#UITA">Up in the Air!</a></td>
+    </tr>
 </table>
 
 </p>
@@ -328,6 +331,11 @@ Bring your telescope and all the items that came with it (including batteries, i
 
 <div> 
     {{< show-table title="Two Small Pieces of Glass" id="TSPG" topic="telescopes, astronomy, physics" audience="general audiences, grades 5+" length="23 minutes" desc="While attending a local star party, two teenage students learn how the telescope has helped us understand our place in space and how telescopes continue to expand our understanding of the Universe." >}} <p style="text-align:right;">
+    <a href="#top">Back to Top</a> </p> 
+</div>
+
+<div> 
+    {{< show-table title="Up in the Air!" id="UITA" topic="Rainbows, Aurora, Meteors" audience="general audiences, grades 4+" length="23 minutes" desc="This fun, family-friendly program celebrates the sky above. Join our two rollicking and rambunctious narratores, Air and Space, as they explore cool sky sights like rainbows, clouds, lightning, thunder, aurora, meteors, and sun dogs. Get amazed by what you breathe every day and what else is Up in the Air!" >}} <p style="text-align:right;">
     <a href="#top">Back to Top</a> </p> 
 </div>
 

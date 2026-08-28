@@ -13,10 +13,10 @@ astronomers and space enthusiasts, families, students, and lifelong learners. Co
 explore the universe—one Saturday night at a time.
 
 **Event Details:**<br>
-* starting September 12, 2026 @6pm <br>
+* starting September 12, 2026 at 6pm <br>
 * class at John Rudy Park Observatory<br>
 * free for members<br>
-* $30 for non-members<br>
+* $30 for non-members to attend all six classes (or join YCAS and then they are free)<br>
 * write to <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> for more details
 
 <table>
