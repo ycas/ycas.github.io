@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2026-07-04
+date: 2026-09-04
 linktitle: YLC Planetarium Shows
 title: YLC Planetarium Shows
 weight: 100
@@ -9,8 +9,8 @@ prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 20 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
 
-### Saturday September 19, 2026 
-* 7:00PM - **From Earth to the Universe**<br>
+### Saturday October 17, 2026 
+* 7:00PM - **Hot and Energetic Universe**<br>
 * 7:40PM - **StarWatch**<br>
 * 8:20PM - **Big Astronomy**<br>
 
@@ -24,7 +24,7 @@ In person ticket sales start at 6:30pm the day of the show. We reserve the right
 Cur8.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.40 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of Cur8.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-**[Click here to purchase online tickets](https://cur8.com/17107/project/140455)**<br>
+**[Click here to purchase online tickets](https://cur8.com/17107/project/141618)**<br>
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
@@ -36,8 +36,8 @@ Learn how to find the planets and constellations that are visible in York's nigh
 * What are the names of the brightest stars?<br>
 * Why does Jupiter have different colored clouds?<br>
 
-### From Earth to the Universe
-The night sky, both beautiful and mysterious, has been the subject of campfire stories, ancient myths and awe for as long as there have been people. A desire to comprehend the Universe may well be humanity's oldest shared intellectual experience. Yet only recently have we truly begun to grasp our place in the vast cosmos. To learn about this journey of celestial discovery, from the theories of the ancient Greek astronomers to today's grandest telescopes, we invite you to experience From Earth to the Universe.
+### Hot and Energetic Universe
+The Hot and Energetic Universe presents the fascinating world of high energy astrophysics. High energy astrophysics plays a key role in understanding the universe, as these radiations reveal the processes in the hot and violent universe. High energy astrophysics probes hot gas in clusters of galaxies, which are the most massive objects in the universe. It also probes hot gas accreting around supermassive black holes in the centers of galaxies. Finally, high energy radiation provides important information about our own galaxy, neutron stars, supernova remnants and stars like our Sun which emit copious amounts of high-energy radiation. Come and learn about your hot and energetic universe!
 
 ### Big Astronomy
 This program will transport viewers to Chile where the dark skies and dry, remote setting create ideal conditions for observing the Universe. Journey to three world-class observatories in Chile's rugged Andes Mountains and arid Atacama Desert- remote, extreme regions that happen to have the perfect conditions for astronomical research.

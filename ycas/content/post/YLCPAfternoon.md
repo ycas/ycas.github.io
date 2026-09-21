@@ -1,19 +1,18 @@
 ---
 author: "YCAS"
-date: 2026-07-05
+date: 2026-09-05
 linktitle: YLC Planetarium Childrens Shows
 title: YLC Planetarium Childrens Shows
 weight: 100
-image: img/OWOS2.jpg
+image: img/OWOS3.jpg
 prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 20 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
 
-### Saturday, September 19, 2026 
-
+### Saturday, October 17, 2026 
 * 2:00PM - **One World, One Sky: Big Bird's Adventure (pre-K to 1st grade)**<br>
 * 2:40PM - **StarWatch**<br>
-* 3:20PM - **Mars: The Ultimate Voyage (4th to 8th grade)**
+* 3:20PM - **Up in the Air! (4th to 7th grade)**
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $6.00 for adults, $5.00 for children and seniors. Admission to any second or third show is $2.00 each. Cash and most credit and debit cards are accepted. 
 
@@ -25,7 +24,7 @@ In person ticket sales start at 1:30pm the day of the show.
 Cur8.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.40 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of Cur8.com, ticket purchases are for the 2:00pm, 2:40pm, and 3:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-**[Click here to purchase afternoon online tickets](https://cur8.com/17107/project/140454)**<br>
+**[Click here to purchase afternoon online tickets](https://cur8.com/17107/project/141619)**<br>
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
@@ -41,8 +40,8 @@ Learn how to find the planets and constellations that are visible in York's nigh
 Elmo and Big Bird live in the United States and Hu Hu Zhu lives far away in China, but they discovered that they still see the same stars at night! The word for star in Chinese is "xing xing" (pronounced sing sing). How many "xing xing" do you see in this sky?
 When Elmo and Hu Hu Zhu "travel" to the moon, they discover some basic but surprising scientific facts. For example, they can't fly a kite there because there is no wind. The fuzzy friends then excitedly realize that children like to fly kites in both China and the United States!
 
-### Mars: The Ultimate Voyage
-On a 2 year journey across space, how will astronauts stay motivated?  How will they stay healthy?  What challenges will they face along the way? Dive into these questions while finding out what the first journey to Mars might look like - and how creativity, communication, and collaboration come together to ensure safe, deep space travel.
+### Up in the Air!
+This fun, family-friendly program celebrates the sky above. Join our two rollicking and rambunctious narratores, Air and Space, as they explore cool sky sights like rainbows, clouds, lightning, thunder, aurora, meteors, and sun dogs. Get amazed by what you breathe every day and what else is Up in the Air!
 
 ![Planetarium Map](../../img/YLCParking.png "York Learning Center Planetarium")
 

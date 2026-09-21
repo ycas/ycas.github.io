@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2026-07-12
+date: 2027-07-12
 linktitle: Radio and Solar Astronomy
 title: Radio and Solar Astronomy
 weight: 100
