@@ -4,7 +4,7 @@ date: 2026-09-05
 linktitle: YLC Planetarium Childrens Shows
 title: YLC Planetarium Childrens Shows
 weight: 100
-image: img/OWOS3.jpg
+image: img/OWOS2.jpg
 prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 20 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
@@ -12,7 +12,7 @@ The York County Astronomical Society, celebrating 20 years offering planetarium 
 ### Saturday, October 17, 2026 
 * 2:00PM - **One World, One Sky: Big Bird's Adventure (pre-K to 1st grade)**<br>
 * 2:40PM - **StarWatch**<br>
-* 3:20PM - **Up in the Air! (4th to 7th grade)**
+* 3:20PM - **Max Goes to the Moon (K to 2nd grade)**
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $6.00 for adults, $5.00 for children and seniors. Admission to any second or third show is $2.00 each. Cash and most credit and debit cards are accepted. 
 
@@ -40,8 +40,8 @@ Learn how to find the planets and constellations that are visible in York's nigh
 Elmo and Big Bird live in the United States and Hu Hu Zhu lives far away in China, but they discovered that they still see the same stars at night! The word for star in Chinese is "xing xing" (pronounced sing sing). How many "xing xing" do you see in this sky?
 When Elmo and Hu Hu Zhu "travel" to the moon, they discover some basic but surprising scientific facts. For example, they can't fly a kite there because there is no wind. The fuzzy friends then excitedly realize that children like to fly kites in both China and the United States!
 
-### Up in the Air!
-This fun, family-friendly program celebrates the sky above. Join our two rollicking and rambunctious narratores, Air and Space, as they explore cool sky sights like rainbows, clouds, lightning, thunder, aurora, meteors, and sun dogs. Get amazed by what you breathe every day and what else is Up in the Air!
+### Max Goes to the Moon
+In this children's planetarium program, Max (the dog) and a young girl named Tori take the first trip to the Moon since the Apollo era. Along the way, the story sets the stage for the topics including Phases of the Moon, Wings in Space?, and Frisbees and Curve Balls on the Moon - all thoughtfully explained so that grownups and children can learn together about science. Toward the end, Max and Tori's trip proves so inspiring to people back on Earth that all the nations of the world come together to build a great Moon colony from which the beautiful views of Earth from the Moon made everyone realize that we all share a small and precious planet.
 
 ![Planetarium Map](../../img/YLCParking.png "York Learning Center Planetarium")
 
