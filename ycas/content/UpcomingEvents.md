@@ -35,7 +35,7 @@ weight = 100
 * **May 8 8pm to 10pm** StarWatch at Rudy Park<br>
 * **May 15 2pm to 4pm** Childrens Planetarium Shows at York Learning Center<br>
 * **May 15 7pm to 9pm** Planetarium Shows at York Learning Center<br>
-<b>* May 16           Planetarium Permanetly closes</b><br>
+<b>* May 16           Planetarium Permanently closes</b><br>
 * **June 12 8pm to 10pm** StarWatch at Rudy Park<br>
 * **July 10 8pm to 10pm** StarWatch at Rudy Park<br>
 <br>
