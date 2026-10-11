@@ -7,8 +7,10 @@ weight: 100
 image: img/ShowSummary.jpg
 prev: /post/public-starwatch/
 ---
-The York County Astronomical Society, celebrating 20 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
 
+
+The York County Astronomical Society, celebrating 20 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
+<br><br>** The planetarium is closing May 16, 2027. More information is <a href="https://www.astroyork.com/planetariumshows/#closing">here.</a> ** <br>
 ### Saturday October 17, 2026 
 * 7:00PM - **Hot and Energetic Universe**<br>
 * 7:40PM - **StarWatch**<br>

@@ -8,6 +8,7 @@ image: img/OWOS2.jpg
 prev: /post/public-starwatch/
 ---
 The York County Astronomical Society, celebrating 20 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
+<br><br>** The planetarium is closing May 16, 2027. More information is <a href="https://www.astroyork.com/planetariumshows/#closing">here.</a> ** <br>
 
 ### Saturday, October 17, 2026 
 * 2:00PM - **One World, One Sky: Big Bird's Adventure (pre-K to 1st grade)**<br>
