@@ -1,6 +1,6 @@
 ---
 author: "YCAS"
-date: 2026-09-21
+date: 2028-09-21
 image: img/Observatory.jpg
 linktitle: AstroClass
 title: Astronomy 101 Class

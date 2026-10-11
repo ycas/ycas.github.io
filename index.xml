@@ -6,22 +6,10 @@
     <description>Recent content in York County Astronomical Society on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ycas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Astronomy 101 Class</title>
-      <link>https://ycas.github.io/post/astronomy-101-class/</link>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://ycas.github.io/post/astronomy-101-class/</guid>
-      <description>Join us for Astronomy 101, a public lecture series featuring engaging talks by experienced speakers covering the fundamentals of astronomy and modern space science. Each session is designed for general audiences, with time built in for questions and discussion.
-Who Should Attend? Beginners with no prior astronomy background, Amateur astronomers and space enthusiasts, families, students, and lifelong learners. Come explore the universe—one Saturday night at a time.
-Event Details:
-* starting September 12, 2026 at 6pm * class at John Rudy Park Observatory</description>
-    </item>
     
     <item>
       <title>YLC Planetarium Childrens Shows</title>
@@ -85,12 +73,12 @@ The Andromeda galaxy is located near the constellation of Cassiopeia. This Photo
       
       <guid>https://ycas.github.io/upcomingevents/</guid>
       <description>* 2026
-* October 10 8pm to 10pm StarWatch at Rudy Park
 * October 17 2pm to 4pm Childrens Planetarium Shows at York Learning Center
 * October 17 7pm to 9pm Planetarium Shows at York Learning Center
 * November 7 2pm to 4pm Childrens Planetarium Shows at York Learning Center
 * November 7 7pm to 9pm Planetarium Shows at York Learning Center
-* November 14 7pm to 9pm StarWatch at Rudy Park</description>
+* November 14 7pm to 9pm StarWatch at Rudy Park
+* December 5 2pm to 4pm Childrens Planetarium Shows at York Learning Center</description>
     </item>
     
     <item>
@@ -171,7 +159,8 @@ Pennsylvania, Maryland, Delaware, Virginia Astronomical Clubs   Astronomical Soc
       <pubDate>Sat, 04 Aug 2018 13:33:00 +0000</pubDate>
       
       <guid>https://ycas.github.io/planetariumshows/</guid>
-      <description>Private Show Reservation Information The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can not schedule during school hours Monday through Friday to protects the school children, however, there are days the students are not present and outside groups can request programs. The days are: September 7, October 12 and 23, November 11, 25, 26, 27, 30, December 1, 23 in 2026, January 15 and 18, February 12 and 15, March 5, 25, 26, 29 and April 16 in 2027.</description>
+      <description>The planetarium will close permanently May 16, 2027 due to school renovations.
+Private Show Reservation Information The planetarium seats 60 people. Private programs are offered by reservation any day. School/Summer Camp groups can not schedule during school hours Monday through Friday to protects the school children, however, there are days the students are not present and outside groups can request programs. The days are: September 7, October 12 and 23, November 11, 25, 26, 27, 30, December 1, 23 in 2026, January 15 and 18, February 12 and 15, March 5, 25, 26, 29 and April 16 in 2027.</description>
     </item>
     
   </channel>

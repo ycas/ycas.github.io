@@ -7,6 +7,7 @@ type = "page"
 weight = 100
 
 +++
+<H3>The planetarium will close permanently May 16, 2027 due to school renovations.</H3><br><br><br>
 <H3>Private Show Reservation Information</H3>
 <p>The planetarium seats 60 people. Private programs are offered by reservation any day. <p>School/Summer Camp groups can not schedule during school hours Monday through Friday to protects the school children, however, there are days the students are not present and outside groups can request programs. <p>The days are: September 7, October 12 and 23, November 11, 25, 26, 27, 30, December 1, 23 in 2026, January 15 and 18, February 12 and 15, March 5, 25, 26, 29 and April 16 in 2027.<p>
 
