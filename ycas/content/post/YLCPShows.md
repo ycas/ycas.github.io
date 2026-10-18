@@ -11,10 +11,10 @@ prev: /post/public-starwatch/
 
 The York County Astronomical Society, celebrating 20 years offering planetarium programs to the public, now offering Saturday afternoon and evening programs at the York Learning Center Planetarium. 
 <br><br>** The planetarium is closing May 16, 2027. More information is <a href="https://www.astroyork.com/planetariumshows/#closing">here.</a> ** <br>
-### Saturday October 17, 2026 
-* 7:00PM - **Hot and Energetic Universe**<br>
+### Saturday November 7, 2026 
+* 7:00PM - **Chasing the Ghost Particle**<br>
 * 7:40PM - **StarWatch**<br>
-* 8:20PM - **Big Astronomy**<br>
+* 8:20PM - **Two Small Pieces of Glass**<br>
 
 The planetarium is located in the **York Learning Center at 301 East 6th Avenue, York PA**. Admission is $6.00 for adults, $5.00 for children and seniors. Admission to any second or third show is $2.00 each. Cash and most credit and debit cards are accepted. 
 
@@ -26,7 +26,7 @@ In person ticket sales start at 6:30pm the day of the show. We reserve the right
 Cur8.com is hosting a ticket sales site for our programs until 2 hours before showtime. The site charges a non-refundable fee of about $1.40 per ticket and you are able to reserve a seat in the planetarium. Because of the pricing model of Cur8.com, ticket purchases are for the 7:00pm, 7:40pm, and 8:20pm group of shows.
 Please be curtious and not leave empty seats between groups.
 ![Planetarium Seating](../../img/seating.png "YLC Planetarium seating")
-**[Click here to purchase online tickets](https://cur8.com/17107/project/141618)**<br>
+**[Click here to purchase online tickets](https://cur8.com/17107/project/142330)**<br>
 You do not need to print the tickets, just present photo identification.
 
 ### StarWatch
@@ -38,11 +38,11 @@ Learn how to find the planets and constellations that are visible in York's nigh
 * What are the names of the brightest stars?<br>
 * Why does Jupiter have different colored clouds?<br>
 
-### Hot and Energetic Universe
-The Hot and Energetic Universe presents the fascinating world of high energy astrophysics. High energy astrophysics plays a key role in understanding the universe, as these radiations reveal the processes in the hot and violent universe. High energy astrophysics probes hot gas in clusters of galaxies, which are the most massive objects in the universe. It also probes hot gas accreting around supermassive black holes in the centers of galaxies. Finally, high energy radiation provides important information about our own galaxy, neutron stars, supernova remnants and stars like our Sun which emit copious amounts of high-energy radiation. Come and learn about your hot and energetic universe!
+### Chasing the Ghost Particle
+Deep in the ice at the heart of Antarctica, the biggest and strangest detector in the world waits for mysterious messengers from the cosmos. The detector is Ice Cube! The messengers are neutrinos, ghostly particles that give us tantalizing looks into world of exploding stars and black holes. This show tells the incredible story of how an international team of scientists and engineers transformed one billion tons of Antarctic ice into a telescope. Building Ice Cube was a titanic endeavor driven by our human passion for discovery. Witness stunning views of the South Pole, captivating animations of the Ice Cube detectors capturing a neutrino collision-and eye-catching views of the cosmos. Chasing the Ghost Particle: From the South Pole to the Edge of the Universe will take you on a journey you will never forget. This research won the 2026 Nobel Prize in Phyics.
 
-### Big Astronomy
-This program will transport viewers to Chile where the dark skies and dry, remote setting create ideal conditions for observing the Universe. Journey to three world-class observatories in Chile's rugged Andes Mountains and arid Atacama Desert- remote, extreme regions that happen to have the perfect conditions for astronomical research.
+### Two Small Pieces of Glass
+While attending a local star party, two teenage students learn how the telescope has helped us understand our place in space and how telescopes continue to expand our understanding of the Universe.
 
 For more information on events, scheduling a private party star watch, directions to the observing site, or for general Society information please contact us at <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyork.com</font></a> or leave a voice message after the recording at 717 759-9227 or visit [our Facebook page](https://www.facebook.com/astroyork)
 
