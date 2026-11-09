@@ -99,7 +99,7 @@ Picture of the day</a></b></li>
   <li>
     <p align="left"><b><a href="http://www.astromart.com/" target="_blank">AstroMart</a></b></li>
   <li>
-    <p align="left"><a href="http://www.ast.cam.ac.uk/~jds" target="_blank"><b>BAA Comet Section Home Page</b></a></li>
+    <p align="left"><a href="https://britastro.org/sections/comet" target="_blank"><b>BAA Comet Section Home Page</b></a></li>
   <li>
     <p align="left"><b><a href="http://www.badastronomy.com/index.html" target="_blank">Bad
     Astronomy</a></b></li>

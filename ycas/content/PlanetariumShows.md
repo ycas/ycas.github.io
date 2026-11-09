@@ -16,9 +16,9 @@ weight = 100
 **The next closest planetariums are the North Museum on Franklin and Marshall College in Lancaster County, the State Museum in Harrisburg (currently closed for renovations), Gettysburg College in Adams County, and Towson University in Maryland.**
 <br>
 <H3>Private Show Reservation Information</H3>
-<p>The planetarium seats 60 people. Private programs are offered by reservation any day. <p>School/Summer Camp groups can not schedule during school hours Monday through Friday to protects the school children, however, there are days the students are not present and outside groups can request programs. <p>The days are: October 23, November 11, 25, 26, 27, 30, December 1, 23 in 2026, January 15 and 18, February 12 and 15, March 5, 25, 26, 29 and April 16 in 2027.
+<p>The planetarium seats 60 people. Private programs are offered by reservation any day. <p>School/Summer Camp groups can not schedule during school hours Monday through Friday to protects the school children, however, there are days the students are not present and outside groups can request programs. <p>The days are: November 11, 25, 26, 27, 30, December 1, 23 in 2026, January 15 and 18, February 12 and 15, March 5, 25, 26, 29 and April 16 in 2027.
 <p>
-The cost of a 45 minute program is $50, an additional hour is $40 ($90 total), for 1 to 60 people. Payment for the program can be made at the door with cash, check (made out to YCAS) or credit/debit card.<p> 
+The cost of a 45 minute program is $50, an additional hour is $40 ($90 total), for 1 to 60 people. Payment for the program can be made at the door with cash, check (made out to YCAS), Venmo or PayPal.<p> 
 The money raised from these programs goes towards the cost of using the planetarium and developing other astronomy programs for the community. Groups are encouraged to join together to fill the planetarium with other scouts or family members. 
 <br>
 
@@ -82,7 +82,7 @@ Write to <a href="mailto:info@astroyork.com"><font color="#FFCC66">info@astroyor
     </tr>
     <tr>
         <td><a data-audience="4,5,6,7" href="#phantom">Phantom of the Universe</a></td>
-        <td><a data-audience="2,3,4,5,6,7" href="#rusty">Rusty Rocket's Last Blast</a></td>
+        <td><a data-audience="2,3,4,5" href="#rusty">Rusty Rocket's Last Blast</a></td>
         <td><a data-audience="general" href="#seeing">Seeing!</a></td>
     </tr>
     <tr>
@@ -291,7 +291,7 @@ Bring your telescope and all the items that came with it (including batteries, i
 
 
 <div> 
-    {{< show-table title="Rusty Rocket's Last Blast" id="rusty" topic="Solar System" audience="general audiences, grades 4-7" length="40 minutes" desc="After decades of teaching the basics of rocket physics, Rusty Rocket has decided this will be his last blast, and he already has plans for how he will spend his free time. Still there is one final mission to command: an introductory tour of the solar system for a new class of rocket rookies focusing on the wide variety of planetary environments. Along the way, we learn Rusty is related to every famous spacecraft to explore the solar system. He also emphasizes the immense distances between the planets using cars and jets for comparison." >}} <p style="text-align:right;">
+    {{< show-table title="Rusty Rocket's Last Blast" id="rusty" topic="Solar System" audience="general audiences, grades 2-5" length="40 minutes" desc="After decades of teaching the basics of rocket physics, Rusty Rocket has decided this will be his last blast, and he already has plans for how he will spend his free time. Still there is one final mission to command: an introductory tour of the solar system for a new class of rocket rookies focusing on the wide variety of planetary environments. Along the way, we learn Rusty is related to every famous spacecraft to explore the solar system. He also emphasizes the immense distances between the planets using cars and jets for comparison." >}} <p style="text-align:right;">
     <a href="#top">Back to Top</a> </p> 
 </div>
 
